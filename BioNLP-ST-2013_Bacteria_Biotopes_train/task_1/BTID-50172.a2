@@ -1,0 +1,20 @@
+T1	Habitat 48 53	human
+T2	Habitat 48 70	human urogenital tract
+T3	Habitat 173 200	urogenital tracts of humans
+T4	Habitat 194 200	humans
+T5	Habitat 295 303	neonatal
+T6	Habitat 382 404;433 451	central nervous system of newborn infants
+T7	Habitat 409 451	lower respiratory tract of newborn infants
+T8	Habitat 436 451	newborn infants
+T9	Habitat 465 471	infant
+T10	Habitat 607 637	smallest free-living organisms
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001873
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001873
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000348
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000794
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000124
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000348
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000778
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001732

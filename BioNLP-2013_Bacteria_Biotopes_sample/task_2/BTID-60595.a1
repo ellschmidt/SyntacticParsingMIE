@@ -1,0 +1,66 @@
+T1	Bacteria 0 12	Sphingomonas
+T2	Bacteria 42 54	Sphingomonas
+T3	Bacteria 129 138	bacterium
+T4	Bacteria 378 387	bacterium
+T5	Habitat 725 729	food
+T6	Bacteria 763 775	Sphingomonas
+T7	Bacteria 788 803	S. paucimobilis
+T8	Habitat 830 836	humans
+T9	Bacteria 881 893	Sphingomonas
+T10	Habitat 949 956	aqueous
+T11	Habitat 963 968;977 982	fresh water
+T12	Habitat 974 982	seawater
+T13	Habitat 988 1008	terrestrial habitats
+T14	Habitat 1010 1015	plant
+T15	Habitat 1010 1028	plant root systems
+T16	Habitat 1030 1048	clinical specimens
+T17	Bacteria 1256 1268	Sphingomonas
+T18	Habitat 1293 1322	relatively clean environments
+T19	Habitat 1376 1483	contaminated locations which included toxic compounds such as PCBs, creosote, pentachlorophenol, herbicides
+T20	Bacteria 1535 1550	S. paucimobilis
+T21	Habitat 1607 1624	contaminated soil
+T22	Habitat 1647 1693	soil aggregates less than 0.025 mm in diameter
+T23	Habitat 1730 1752	unamended control soil
+T24	Bacteria 1764 1773	bacterium
+T25	Bacteria 1904 1916	Sphingomonas
+T26	Bacteria 2090 2102	Sphingomonas
+T27	Bacteria 2115 2130	S. paucimobilis
+T28	Habitat 2145 2167	equipment in hospitals
+T29	Habitat 2189 2207	clinical specimens
+T30	Habitat 2219 2244	respiratory therapy items
+T31	Habitat 2246 2257	humidifiers
+T32	Habitat 2259 2264	water
+T33	Habitat 2266 2269	air
+T34	Habitat 2271 2292	bedside water bottles
+T35	Habitat 2294 2299	sinks
+T36	Habitat 2305 2323	temperature probes
+T37	Bacteria 2348 2363	S. paucimobilis
+T38	Habitat 2480 2486	humans
+T39	Bacteria 2556 2565	bacterium
+T40	Bacteria 2621 2630	bacterial
+T41	Habitat 2649 2660	bloodstream
+T42	Habitat 2676 2686	leg ulcers
+T43	Habitat 2718 2765	patients undergoing chronic ambulatory dialysis
+T44	Habitat 2778 2791	brain abscess
+T45	Habitat 2803 2811	cervical
+T46	Habitat 2834 2849	splenic abscess
+T47	Habitat 2861 2872	respiratory
+T48	Habitat 2894 2901	urinary
+T49	Bacteria 2989 3001	Sphingomonas
+T50	Habitat 3026 3031	coral
+T51	Geographical 3071 3089	Florida Reef Tract
+T52	Habitat 3134 3144	star coral
+T53	Habitat 3179 3185	tissue
+T54	Habitat 3272 3279;3293 3299	healthy tissue
+T55	Habitat 3284 3299	diseased tissue
+T56	Geographical 3518 3530	Florida Keys
+T57	Bacteria 3697 3709	Sphingomonas
+T58	Habitat 3728 3751	shower curtain biofilms
+T59	Habitat 3779 3809	"soap scum" of shower curtains
+T60	Habitat 3835 3843	micorbes
+T61	Bacteria 3853 3861	bacteria
+T62	Habitat 3894 3910	wet environments
+T63	Habitat 3953 3968	shower curtains
+T64	Habitat 3982 4000;4008 4016	immune-compromised patients
+T65	Habitat 4004 4016	ill patients
+T66	Habitat 4078 4093	shower curtains

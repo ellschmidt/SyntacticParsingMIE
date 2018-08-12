@@ -1,0 +1,12 @@
+R1	Localization Bacterium:T2 Localization:T13
+R2	Localization Bacterium:T2 Localization:T3
+R3	Localization Bacterium:T2 Localization:T4
+R4	Localization Bacterium:T2 Localization:T12
+R5	Localization Bacterium:T2 Localization:T11
+R6	PartOf Host:T13 Part:T12
+R7	PartOf Host:T3 Part:T4
+R8	PartOf Host:T13 Part:T11
+*	Equiv T22 T15 T2 T5 T19
+*	Equiv T6 T16
+*	Equiv T4 T8
+*	Equiv T9 T3

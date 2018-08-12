@@ -1,0 +1,51 @@
+T1	Bacteria 21 36	Bacillus cereus
+T2	Bacteria 45 53	Bacteria
+T3	Bacteria 67 73	cereus
+T4	Habitat 115 119	soil
+T5	Habitat 136 150	microorganisms
+T6	Habitat 217 229	dead insects
+T7	Habitat 217 221;238 245	dead animals
+T8	Habitat 238 245	animals
+T9	Bacteria 281 296	Bacillus cereus
+T10	Bacteria 334 342	bacteria
+T11	Bacteria 358 374	B. thuringiensis
+T12	Habitat 376 382	insect
+T13	Bacteria 392 404	B. anthracis
+T14	Habitat 406 412	animal
+T15	Bacteria 422 443	B. weihenstephanensis
+T16	Habitat 461 470	cold soil
+T17	Bacteria 473 484	B. mycoides
+T18	Bacteria 557 565	Bacillus
+T19	Bacteria 617 626	B. cereus
+T20	Bacteria 632 640	bacteria
+T21	Habitat 696 707	researchers
+T22	Bacteria 719 726	bacilli
+T23	Bacteria 751 759	bacteria
+T24	Bacteria 850 858	bacteria
+T25	Habitat 889 896	animals
+T26	Habitat 901 908	insects
+T27	Bacteria 915 927	B. anthracis
+T28	Bacteria 936 952	B. thuringiensis
+T29	Bacteria 1032 1041	bacterial
+T30	Bacteria 1070 1079	B. cereus
+T31	Habitat 1124 1141	animal probiotics
+T32	Habitat 1124 1130	animal
+T33	Habitat 1165 1169	food
+T34	Bacteria 1303 1311	bacteria
+T35	Habitat 1332 1342	scientists
+R1	Localization Bacterium:T9 Localization:T31
+R2	Localization Bacterium:T11 Localization:T12
+R3	Localization Bacterium:T13 Localization:T25
+R4	Localization Bacterium:T11 Localization:T25
+R5	Localization Bacterium:T13 Localization:T26
+R6	Localization Bacterium:T9 Localization:T26
+R7	Localization Bacterium:T13 Localization:T14
+R8	Localization Bacterium:T3 Localization:T4
+R9	Localization Bacterium:T3 Localization:T6
+R10	Localization Bacterium:T9 Localization:T25
+R11	Localization Bacterium:T15 Localization:T16
+R12	Localization Bacterium:T9 Localization:T33
+R13	Localization Bacterium:T11 Localization:T26
+*	Equiv T9 T19 T30
+*	Equiv T28 T11
+*	Equiv T13 T27

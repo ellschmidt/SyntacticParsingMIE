@@ -1,0 +1,15 @@
+T1	Bacteria 0 9	Spirillum
+T2	Bacteria 39 48	Spirillum
+T3	Bacteria 49 57	bacteria
+T4	Bacteria 152 163	S. volutans
+T5	Bacteria 175 184	bacterium
+T6	Bacteria 258 269	S. volutans
+T7	Habitat 292 352	water of a cooling tower of a sugar-beet refinery in England
+T8	Habitat 303 352	cooling tower of a sugar-beet refinery in England
+T9	Habitat 322 352	sugar-beet refinery in England
+T10	Habitat 322 332	sugar-beet
+T11	Geographical 345 352	England
+T12	Habitat 362 386	water of a polluted pond
+T13	Habitat 373 386	polluted pond
+T14	Bacteria 411 420	bacterium
+T15	Habitat 452 466	stagnant water

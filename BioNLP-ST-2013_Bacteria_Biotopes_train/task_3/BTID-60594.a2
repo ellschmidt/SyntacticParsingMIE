@@ -1,0 +1,49 @@
+T1	Bacteria 0 12	Sphaerotilus
+T2	Bacteria 42 61	Sphaerotilus natans
+T3	Bacteria 79 88	bacterium
+T4	Habitat 145 158	flowing water
+T5	Habitat 166 172	sewage
+T6	Habitat 177 204	wastewater treatment plants
+T7	Habitat 177 187	wastewater
+T8	Bacteria 217 226	bacterium
+T9	Habitat 243 248	pipes
+T10	Habitat 318 345	wastewater treatment plants
+T11	Habitat 318 328	wastewater
+T12	Bacteria 401 413	Sphaerotilus
+T13	Bacteria 465 484	Sphaerotilus natans
+T14	Habitat 508 521	flowing water
+T15	Habitat 523 529	sewage
+T16	Habitat 535 551	activated sludge
+T17	Habitat 597 601	pipe
+T18	Habitat 627 643	activated sludge
+T19	Habitat 647 657	wastewater
+T20	Bacteria 859 867	bacteria
+T21	Habitat 887 904	paper mill slimes
+T22	Habitat 887 897	paper mill
+T23	Habitat 887 892	paper
+T24	Bacteria 965 977	Sphaerotilus
+T25	Habitat 1056 1070	Microorganisms
+T26	Habitat 1071 1085	Microorganisms
+T27	Habitat 1115 1119	soil
+T28	Habitat 1124 1135	river water
+T29	Habitat 1124 1129	river
+T30	Bacteria 1196 1215	Sphaerotilus natans
+T31	Bacteria 1221 1238	bacterial strains
+T32	Bacteria 1247 1249	TB
+T33	Bacteria 1254 1256	TK
+T34	Bacteria 1421 1429	bacteria
+T35	Bacteria 1450 1463	Paenibacillus
+T36	Habitat 1482 1493	researchers
+R1	Localization Bacterium:T35 Localization:T27
+R2	Localization Bacterium:T35 Localization:T28
+R3	Localization Bacterium:T2 Localization:T6
+R4	Localization Bacterium:T2 Localization:T16
+R5	Localization Bacterium:T2 Localization:T5
+R6	Localization Bacterium:T2 Localization:T4
+R7	Localization Bacterium:T35 Localization:T29
+*	Equiv T13 T2 T30
+*	Equiv T24 T1 T12
+*	Equiv T14 T4
+*	Equiv T15 T5
+*	Equiv T6 T10
+*	Equiv T16 T18

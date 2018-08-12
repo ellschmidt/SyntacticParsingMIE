@@ -1,0 +1,30 @@
+T1	Habitat 115 119	soil
+T2	Habitat 136 150	microorganisms
+T3	Habitat 217 229	dead insects
+T4	Habitat 217 221;238 245	dead animals
+T5	Habitat 238 245	animals
+T6	Habitat 376 382	insect
+T7	Habitat 406 412	animal
+T8	Habitat 461 470	cold soil
+T9	Habitat 696 707	researchers
+T10	Habitat 889 896	animals
+T11	Habitat 901 908	insects
+T12	Habitat 1124 1141	animal probiotics
+T13	Habitat 1124 1130	animal
+T14	Habitat 1165 1169	food
+T15	Habitat 1332 1342	scientists
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001773
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001516
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001139
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001139
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001660
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000141
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001660
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000400
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001581
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001660
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000141
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000685
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001660
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000688
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000414

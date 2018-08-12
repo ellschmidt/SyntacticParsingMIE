@@ -1,0 +1,30 @@
+T1	Habitat 102 108	humans
+T2	Habitat 260 275	animal products
+T3	Habitat 291 294	air
+T4	Habitat 374 378	body
+T5	Habitat 394 407	intracellular
+T6	Habitat 423 428	blood
+T7	Habitat 433 442	lymphatic
+T8	Habitat 471 481	phagocytes
+T9	Habitat 551 556	blood
+T10	Habitat 628 641	intracellular
+T11	Habitat 821 837	British soldiers
+T12	Habitat 866 872	bovine
+T13	Habitat 992 996	food
+T14	Habitat 1008 1011	man
+T15	Habitat 1549 1555	cattle
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001847
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000611
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000190
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001946
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001569
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001722
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001022
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001569
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001946
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001933
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000472
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000688
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001762
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000370

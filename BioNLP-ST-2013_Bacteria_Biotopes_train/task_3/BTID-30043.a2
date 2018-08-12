@@ -1,0 +1,148 @@
+T1	Bacteria 17 26	bacterium
+T2	Habitat 40 47	genital
+T3	Bacteria 85 96	Mycoplasmas
+T4	Bacteria 97 115	Mycoplasma hominis
+T5	Bacteria 121 130	bacterium
+T6	Habitat 140 155	urogenital area
+T7	Habitat 180 186	humans
+T8	Bacteria 225 236	mycoplasmas
+T9	Bacteria 252 262	Mollicutes
+T10	Bacteria 278 286	bacteria
+T11	Bacteria 346 356	Mollicutes
+T12	Bacteria 395 410	bacterial taxon
+T13	Bacteria 414 457	Gram-positive bacteria with low G+C content
+T14	Bacteria 462 472	Firmicutes
+T15	Bacteria 586 596	Mollicutes
+T16	Bacteria 616 626	Firmicutes
+T17	Bacteria 647 657	Clostridia
+T18	Bacteria 666 673	Bacilli
+T19	Bacteria 750 761	mycoplasmal
+T20	Bacteria 822 830	bacteria
+T21	Habitat 936 949	intracellular
+T22	Habitat 984 991	animals
+T23	Habitat 1003 1009	humans
+T24	Habitat 1014 1021	insects
+T25	Habitat 1027 1033	plants
+T26	Bacteria 1035 1047	Spiroplasmas
+T27	Bacteria 1052 1064	Phytoplasmas
+T28	Habitat 1157 1161	cell
+T29	Bacteria 1225 1236	Mycoplasmas
+T30	Bacteria 1373 1384	mycoplasmas
+T31	Bacteria 1435 1446	mycoplasmas
+T32	Bacteria 1474 1485	M. pulmonis
+T33	Bacteria 1554 1563	firmicute
+T34	Bacteria 1564 1573	bacterium
+T35	Bacteria 1574 1591	Bacillus subtilis
+T36	Habitat 1642 1655	intracellular
+T37	Bacteria 1676 1687	mycoplasmas
+T38	Habitat 1770 1776	humans
+T39	Habitat 1781 1788	animals
+T40	Habitat 1790 1795	Human
+T41	Habitat 1847 1858;1874 1880	respiratory tracts
+T42	Habitat 1863 1880	urogenital tracts
+T43	Habitat 1909 1921	farm animals
+T44	Bacteria 2008 2016	bacteria
+T45	Bacteria 2206 2217	mycoplasmas
+T46	Bacteria 2329 2339	mycoplasma
+T47	Geographical 2663 2667	CBiB
+T48	Geographical 2669 2690	Bordeaux 2 University
+T49	Bacteria 2737 2748	mycoplasmas
+T50	Bacteria 2765 2783	Mycoplasma hominis
+T51	Bacteria 2784 2802	Mycoplasma hominis
+T52	Bacteria 2822 2832	mycoplasma
+T53	Bacteria 2854 2867	M. pneumoniae
+T54	Bacteria 2869 2882	M. genitalium
+T55	Bacteria 2887 2909	Ureaplasma urealyticum
+T56	Habitat 2950 2956	humans
+T57	Bacteria 2992 3002	M. hominis
+T58	Bacteria 3068 3078	M. hominis
+T59	Bacteria 3099 3109	mycoplasma
+T60	Bacteria 3122 3144	Ureaplasma urealyticum
+T61	Habitat 3177 3187	urogenital
+T62	Habitat 3201 3206	adult
+T63	Bacteria 3220 3230	mycoplasma
+T64	Habitat 3296 3303	genital
+T65	Habitat 3318 3323	women
+T66	Bacteria 3325 3335	M. hominis
+T67	Habitat 3369 3376	newborn
+T68	Habitat 3381 3393	extragenital
+T69	Habitat 3420 3444	immunodepressed subjects
+T70	Bacteria 3497 3507	M. hominis
+T71	Bacteria 3550 3560	M. hominis
+T72	Bacteria 3590 3601	M. pulmonis
+T73	Bacteria 3603 3616	M. agalactiae
+T74	Geographical 3639 3648	Genoscope
+T75	Bacteria 3651 3660	M. mobile
+T76	Bacteria 3665 3681	M. hyopneumoniae
+T77	Bacteria 3767 3781	M. arthritidis
+T78	Bacteria 3783 3791	M. orale
+T79	Bacteria 3796 3809	M. fermentans
+T80	Bacteria 3885 3895	M. hominis
+T81	Bacteria 3897 3901	PG21
+T82	Habitat 4099 4104	human
+T83	Bacteria 4116 4129	M. pneumoniae
+T84	Bacteria 4131 4144	M. genitalium
+T85	Bacteria 4146 4158	M. penetrans
+T86	Bacteria 4163 4177	U. urealyticum
+T87	Bacteria 4339 4349	M. hominis
+T88	Bacteria 4546 4557	mycoplasmas
+T89	Bacteria 4572 4582	M. hominis
+T90	Bacteria 4701 4712	mycoplasmas
+T91	Bacteria 4763 4773	M. hominis
+T92	Bacteria 4937 4946	bacterium
+T93	Habitat 4983 5006	interior of human cells
+T94	Habitat 4995 5000	human
+T95	Habitat 4995 5006	human cells
+T96	Bacteria 5037 5047	M. hominis
+T97	Habitat 5149 5154	human
+T98	Habitat 5149 5159	human body
+T99	Habitat 5196 5203	in vivo
+T100	Habitat 5207 5215	in vitro
+R1	Localization Bacterium:T4 Localization:T65
+R2	Localization Bacterium:T4 Localization:T94
+R3	Localization Bacterium:T54 Localization:T82
+R4	Localization Bacterium:T53 Localization:T56
+R5	Localization Bacterium:T26 Localization:T25
+R6	Localization Bacterium:T3 Localization:T43
+R7	Localization Bacterium:T53 Localization:T82
+R8	Localization Bacterium:T3 Localization:T24
+R9	Localization Bacterium:T4 Localization:T69
+R10	Localization Bacterium:T3 Localization:T22
+R11	Localization Bacterium:T4 Localization:T6
+R12	Localization Bacterium:T54 Localization:T56
+R13	Localization Bacterium:T4 Localization:T93
+R14	Localization Bacterium:T55 Localization:T56
+R15	Localization Bacterium:T3 Localization:T39
+R16	Localization Bacterium:T4 Localization:T61
+R17	Localization Bacterium:T4 Localization:T67
+R18	Localization Bacterium:T55 Localization:T61
+R19	Localization Bacterium:T4 Localization:T7
+R20	Localization Bacterium:T85 Localization:T82
+R21	Localization Bacterium:T27 Localization:T25
+R22	Localization Bacterium:T4 Localization:T62
+R23	Localization Bacterium:T4 Localization:T98
+R24	Localization Bacterium:T4 Localization:T64
+R25	Localization Bacterium:T55 Localization:T82
+R26	Localization Bacterium:T4 Localization:T56
+R27	Localization Bacterium:T3 Localization:T23
+R28	Localization Bacterium:T55 Localization:T62
+R29	Localization Bacterium:T3 Localization:T21
+R30	Localization Bacterium:T4 Localization:T68
+R31	Localization Bacterium:T91 Localization:T95
+R32	PartOf Host:T7 Part:T6
+R33	PartOf Host:T65 Part:T64
+R34	PartOf Host:T62 Part:T61
+R35	PartOf Host:T94 Part:T98
+R36	PartOf Host:T69 Part:T68
+R37	PartOf Host:T94 Part:T93
+R38	PartOf Host:T94 Part:T95
+*	Equiv T83 T53
+*	Equiv T84 T54
+*	Equiv T96 T50 T4 T58 T51 T91 T66 T71 T89 T70 T87
+*	Equiv T55 T86 T60
+*	Equiv T15 T11 T9
+*	Equiv T46 T8 T52 T49 T31 T30 T90 T63 T3 T29 T45 T59
+*	Equiv T14 T16
+*	Equiv T28 T93 T21 T36
+*	Equiv T94 T56 T97 T7 T40 T38 T23 T82
+*	Equiv T22 T39

@@ -1,0 +1,18 @@
+T1	Habitat 112 116	soil
+T2	Habitat 434 439	human
+T3	Habitat 479 507	persons with cystic fibrosis
+T4	Habitat 628 633	human
+T5	Habitat 693 710	agricultural soil
+T6	Habitat 1046 1051	human
+T7	Habitat 1089 1100	CF patients
+T8	Habitat 1364 1376	onion tissue
+T9	Habitat 1364 1369	onion
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001773
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000387
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001502
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001402
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000387
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000420
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001062

@@ -1,0 +1,44 @@
+T1	Habitat 100 107	microbe
+T2	Habitat 130 169	deep-sea sediment of the Mariana Trench
+T3	Habitat 130 138	deep-sea
+T4	Habitat 399 404	earth
+T5	Habitat 408 412	soil
+T6	Habitat 579 599	aquatic environments
+T7	Habitat 661 681	petroleum reservoirs
+T8	Habitat 686 708	cool soil environments
+T9	Habitat 795 802	microbe
+T10	Habitat 1257 1263	bodies
+T11	Habitat 1654 1674	diagnostic equipment
+T12	Habitat 1778 1792	diary products
+T13	Habitat 1800 1828	medicine to help digest food
+T14	Habitat 1824 1828	food
+T15	Habitat 2402 2406	food
+T16	Habitat 2640 2644	food
+T17	Habitat 3258 3280	Palm Oil Mill Effluent
+T18	Habitat 3258 3266	Palm Oil
+T19	Habitat 3258 3271	Palm Oil Mill
+T20	Habitat 3515 3547	medicines for digestive problems
+T21	Habitat 3578 3592	dairy products
+T22	Habitat 3679 3705	high temperature equipment
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001516
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001330
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001551
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001644
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001773
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000643
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000436
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001230
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001516
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000190
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001047
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001246
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000060
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000688
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000688
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000688
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000641
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000628
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000176
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000060
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001246
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000578

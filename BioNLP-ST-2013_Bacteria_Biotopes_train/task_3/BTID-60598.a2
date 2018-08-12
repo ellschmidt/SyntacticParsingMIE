@@ -1,0 +1,21 @@
+T1	Bacteria 0 21	Spirochaeta americana
+T2	Bacteria 51 63	S. americana
+T3	Habitat 109 171	highly alkaline anaerobic environment of Mono Lake, California
+T4	Geographical 150 159	Mono Lake
+T5	Geographical 161 171	California
+T6	Bacteria 173 185	S. Americana
+T7	Habitat 203 225;235 249	areas with high sulfur concentrations
+T8	Habitat 203 218;230 249	areas with high salt concentrations
+T9	Bacteria 251 263	S. americana
+T10	Habitat 268 278	scientists
+T11	Geographical 342 351	Mono Lake
+T12	Geographical 374 378	Mars
+T13	Bacteria 431 443	S. americana
+T14	Bacteria 561 572	spirochaete
+R1	Localization Bacterium:T1 Localization:T4
+R2	Localization Bacterium:T1 Localization:T5
+R3	Localization Bacterium:T1 Localization:T3
+R4	Localization Bacterium:T1 Localization:T7
+R5	Localization Bacterium:T1 Localization:T8
+*	Equiv T1 T9 T13 T2 T6
+*	Equiv T4 T11

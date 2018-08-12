@@ -1,0 +1,42 @@
+R1	Localization Bacteria:T1 Localization:T61
+R2	Localization Bacteria:T1 Localization:T32
+R3	Localization Bacteria:T1 Localization:T60
+R4	Localization Bacteria:T4 Localization:T46
+R5	Localization Bacteria:T28 Localization:T35
+R6	Localization Bacteria:T28 Localization:T27
+R7	Localization Bacteria:T1 Localization:T31
+R8	Localization Bacteria:T1 Localization:T33
+R9	Localization Bacteria:T1 Localization:T39
+R10	Localization Bacteria:T4 Localization:T42
+R12	Localization Bacteria:T4 Localization:T44
+R14	Localization Bacteria:T1 Localization:T58
+R17	Localization Bacteria:T1 Localization:T59
+R20	Localization Bacteria:T64 Localization:T92
+R21	Localization Bacteria:T64 Localization:T107
+R22	Localization Bacteria:T64 Localization:T99
+R23	Localization Bacteria:T64 Localization:T93
+R24	Localization Bacteria:T64 Localization:T83
+R25	Localization Bacteria:T64 Localization:T70
+R26	Localization Bacteria:T64 Localization:T100
+R27	Localization Bacteria:T64 Localization:T95
+R28	Localization Bacteria:T64 Localization:T94
+R29	Localization Bacteria:T64 Localization:T71
+R30	Localization Bacteria:T64 Localization:T75
+R31	Localization Bacteria:T64 Localization:T76
+R46	Localization Bacteria:T64 Localization:T81
+R47	Localization Bacteria:T64 Localization:T82
+R48	Localization Bacteria:T64 Localization:T84
+R50	Localization Bacteria:T64 Localization:T101
+*	Equiv T1 T29 T38
+*	Equiv T28 T34
+*	Equiv T64 T103 T104
+*	Equiv T4 T6 T9 T10 T41 T116
+*	Equiv T2 T13 T14 T17 T20 T22 T25
+*	Equiv T15 T18 T19 T23
+*	Equiv T75 T80
+*	Equiv T39 T40
+*	Equiv T93 T94
+*	Equiv T88 T89
+*	Equiv T77 T85 T96
+*	Equiv T76 T78
+*	Equiv T44 T46

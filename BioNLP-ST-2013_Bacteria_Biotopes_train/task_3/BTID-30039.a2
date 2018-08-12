@@ -1,0 +1,69 @@
+T1	Bacteria 101 117	Escherichia coli
+T2	Bacteria 118 126	Shigella
+T3	Bacteria 139 156	bacterial species
+T4	Bacteria 157 164	E. coli
+T5	Bacteria 165 173	Shigella
+T6	Habitat 277 287	laboratory
+T7	Bacteria 304 311	E. coli
+T8	Habitat 336 339	gut
+T9	Habitat 354 365	vertebrates
+T10	Habitat 377 383	humans
+T11	Habitat 450 460	intestinal
+T12	Habitat 465 480	extraintestinal
+T13	Habitat 494 500	humans
+T14	Bacteria 502 509	E. coli
+T15	Bacteria 514 522	Shigella
+T16	Habitat 630 643	urinary tract
+T17	Habitat 667 675	neonatal
+T18	Bacteria 719 726	E. coli
+T19	Habitat 776 786	nosocomial
+T20	Bacteria 799 806	E. coli
+T21	Bacteria 963 970	E. coli
+T22	Bacteria 1118 1125	E. coli
+T23	Bacteria 1735 1746	E. coli K12
+T24	Bacteria 1912 1931	Salmonella enterica
+T25	Geographical 2093 2102	Genoscope
+T26	Habitat 2166 2171	human
+T27	Geographical 2176 2185	Genoscope
+T28	Habitat 2249 2254	human
+T29	Bacteria 2255 2262	E. coli
+T30	Bacteria 2375 2388	E. fergusonii
+T31	Bacteria 2410 2417	E. coli
+T32	Bacteria 2688 2699	ATCC 35469T
+T33	Bacteria 2724 2737	E. fergusonii
+T34	Habitat 2782 2798	extra-intestinal
+T35	Habitat 2799 2804	mouse
+T36	Bacteria 2812 2825	E. fergusonii
+T37	Habitat 2858 2863	human
+T38	Habitat 2868 2874	animal
+T39	Geographical 3017 3033	Institut Pasteur
+T40	Geographical 3075 3079	ATCC
+T41	Bacteria 3081 3094	E. fergusonii
+T42	Bacteria 3148 3155	E. coli
+T43	Bacteria 3207 3214	E. coli
+T44	Bacteria 3250 3257	E. coli
+T45	Bacteria 3258 3266	Shigella
+T46	Habitat 3308 3328	scientific community
+R1	Localization Bacterium:T1 Localization:T9
+R2	Localization Bacterium:T2 Localization:T13
+R3	Localization Bacterium:T32 Localization:T35
+R4	Localization Bacterium:T1 Localization:T28
+R5	Localization Bacterium:T32 Localization:T34
+R6	Localization Bacterium:T33 Localization:T37
+R7	Localization Bacterium:T1 Localization:T19
+R8	Localization Bacterium:T1 Localization:T13
+R9	Localization Bacterium:T1 Localization:T17
+R10	Localization Bacterium:T1 Localization:T8
+R11	Localization Bacterium:T2 Localization:T17
+R12	Localization Bacterium:T1 Localization:T10
+R13	Localization Bacterium:T2 Localization:T16
+R14	Localization Bacterium:T33 Localization:T38
+R15	Localization Bacterium:T1 Localization:T16
+R16	PartOf Host:T9 Part:T8
+R17	PartOf Host:T13 Part:T16
+R18	PartOf Host:T10 Part:T8
+R19	PartOf Host:T35 Part:T34
+*	Equiv T33 T36 T30
+*	Equiv T20 T7 T31 T14 T4 T1 T29 T18
+*	Equiv T15 T2 T5
+*	Equiv T37 T13 T28 T10

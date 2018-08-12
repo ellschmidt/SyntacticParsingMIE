@@ -1,0 +1,52 @@
+T1	Bacteria 2 20	bacterial pathogen
+T2	Habitat 37 47	nosocomial
+T3	Bacteria 63 76	Acinetobacter
+T4	Bacteria 98 133	gamma subdivision of Proteobacteria
+T5	Bacteria 146 159	Moraxellaceae
+T6	Geographical 168 177	Genoscope
+T7	Bacteria 214 236	Acinetobacter sp. ADP1
+T8	Habitat 240 244	soil
+T9	Bacteria 254 266	A. baumannii
+T10	Geographical 349 368	Northern Hemisphere
+T11	Habitat 380 390	nosocomial
+T12	Habitat 554 572	tropical countries
+T13	Bacteria 580 592	A. baumannii
+T14	Habitat 605 614	community
+T15	Habitat 658 666	hospital
+T16	Bacteria 753 761	bacteria
+T17	Habitat 765 770	blood
+T18	Habitat 789 807	alcoholic patients
+T19	Bacteria 845 857	A. baumannii
+T20	Bacteria 888 891	VEB
+T21	Habitat 914 924	nosocomial
+T22	Habitat 958 966	hospital
+T23	Geographical 1031 1046	north of France
+T24	Bacteria 1052 1055	VEB
+T25	Bacteria 1118 1121	SDF
+T26	Habitat 1142 1151	community
+T27	Bacteria 1202 1214	A. baumannii
+T28	Habitat 1335 1339	body
+T29	Habitat 1335 1344	body lice
+T30	Habitat 1358 1390	homeless people living in France
+T31	Geographical 1384 1390	France
+T32	Habitat 1407 1421	louse interior
+T33	Habitat 1407 1412	louse
+T34	Habitat 1571 1581	nosocomial
+T35	Habitat 1611 1620	community
+R1	Localization Bacterium:T7 Localization:T8
+R2	Localization Bacterium:T9 Localization:T18
+R3	Localization Bacterium:T27 Localization:T29
+R4	Localization Bacterium:T9 Localization:T2
+R5	Localization Bacterium:T9 Localization:T12
+R6	Localization Bacterium:T25 Localization:T26
+R7	Localization Bacterium:T25 Localization:T35
+R8	Localization Bacterium:T9 Localization:T10
+R9	Localization Bacterium:T27 Localization:T31
+R10	Localization Bacterium:T20 Localization:T23
+R11	Localization Bacterium:T27 Localization:T28
+R12	Localization Bacterium:T9 Localization:T14
+R13	Localization Bacterium:T16 Localization:T17
+R14	Localization Bacterium:T20 Localization:T21
+R15	Localization Bacterium:T20 Localization:T22
+R16	PartOf Host:T18 Part:T17
+*	Equiv T9 T13

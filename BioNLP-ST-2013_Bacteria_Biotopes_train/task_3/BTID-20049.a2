@@ -1,0 +1,46 @@
+T1	Bacteria 0 27	Chlorobium limicola DSM 245
+T2	Bacteria 32 53	green sulfur bacteria
+T3	Bacteria 55 58	GSB
+T4	Bacteria 67 75	Chlorobi
+T5	Habitat 100 156	illuminated, stratified, and anoxic aquatic environments
+T6	Habitat 158 167	sediments
+T7	Habitat 179 204	sulfide-rich environments
+T8	Habitat 215 226	hot springs
+T9	Bacteria 307 315	bacteria
+T10	Habitat 417 437	aquatic environments
+T11	Bacteria 645 648	GSB
+T12	Bacteria 850 858	bacteria
+T13	Bacteria 984 987	GSB
+T14	Habitat 1081 1100	anoxic environments
+T15	Bacteria 1102 1110	Chlorobi
+T16	Bacteria 1209 1212	GSB
+T17	Habitat 1394 1407	higher plants
+T18	Bacteria 1412 1425	cyanobacteria
+T19	Bacteria 1649 1652	GSB
+T20	Bacteria 1700 1703	GSB
+T21	Bacteria 1885 1888	GSB
+T22	Bacteria 1999 2007	bacteria
+T23	Bacteria 2062 2075	cyanobacteria
+T24	Bacteria 2077 2092	purple bacteria
+T25	Bacteria 2094 2108	proteobacteria
+T26	Bacteria 2111 2124	heliobacteria
+T27	Bacteria 2166 2191	green non-sulfur bacteria
+T28	Bacteria 2195 2210	Chloroflexaceae
+T29	Bacteria 2227 2235	Chlorobi
+T30	Bacteria 2277 2290	Bacteroidetes
+T31	Bacteria 2296 2333	Chlorobium limicola strain DSMZ 245 T
+T32	Bacteria 2390 2393	GSB
+T33	Bacteria 2532 2542	Chlorobium
+T34	Bacteria 2597 2607	DSMZ 245 T
+T35	Geographical 2645 2662	Gilroy Hot Spring
+T36	Bacteria 2712 2724	streptococci
+T37	Habitat 2741 2746	slime
+T38	Bacteria 3030 3043	Chl. limicola
+T39	Habitat 3076 3086	freshwater
+R1	Localization Bacterium:T2 Localization:T10
+R2	Localization Bacterium:T38 Localization:T39
+R3	Localization Bacterium:T2 Localization:T8
+R4	Localization Bacterium:T2 Localization:T6
+R5	Localization Bacterium:T2 Localization:T5
+*	Equiv T4 T2 T3
+*	Equiv T31 T34

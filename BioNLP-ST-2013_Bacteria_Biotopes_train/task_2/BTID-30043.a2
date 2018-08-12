@@ -1,0 +1,48 @@
+R1	Localization Bacterium:T4 Localization:T65
+R2	Localization Bacterium:T4 Localization:T94
+R3	Localization Bacterium:T54 Localization:T82
+R4	Localization Bacterium:T53 Localization:T56
+R5	Localization Bacterium:T26 Localization:T25
+R6	Localization Bacterium:T3 Localization:T43
+R7	Localization Bacterium:T53 Localization:T82
+R8	Localization Bacterium:T3 Localization:T24
+R9	Localization Bacterium:T4 Localization:T69
+R10	Localization Bacterium:T3 Localization:T22
+R11	Localization Bacterium:T4 Localization:T6
+R12	Localization Bacterium:T54 Localization:T56
+R13	Localization Bacterium:T4 Localization:T93
+R14	Localization Bacterium:T55 Localization:T56
+R15	Localization Bacterium:T3 Localization:T39
+R16	Localization Bacterium:T4 Localization:T61
+R17	Localization Bacterium:T4 Localization:T67
+R18	Localization Bacterium:T55 Localization:T61
+R19	Localization Bacterium:T4 Localization:T7
+R20	Localization Bacterium:T85 Localization:T82
+R21	Localization Bacterium:T27 Localization:T25
+R22	Localization Bacterium:T4 Localization:T62
+R23	Localization Bacterium:T4 Localization:T98
+R24	Localization Bacterium:T4 Localization:T64
+R25	Localization Bacterium:T55 Localization:T82
+R26	Localization Bacterium:T4 Localization:T56
+R27	Localization Bacterium:T3 Localization:T23
+R28	Localization Bacterium:T55 Localization:T62
+R29	Localization Bacterium:T3 Localization:T21
+R30	Localization Bacterium:T4 Localization:T68
+R31	Localization Bacterium:T91 Localization:T95
+R32	PartOf Host:T7 Part:T6
+R33	PartOf Host:T65 Part:T64
+R34	PartOf Host:T62 Part:T61
+R35	PartOf Host:T94 Part:T98
+R36	PartOf Host:T69 Part:T68
+R37	PartOf Host:T94 Part:T93
+R38	PartOf Host:T94 Part:T95
+*	Equiv T83 T53
+*	Equiv T84 T54
+*	Equiv T96 T50 T4 T58 T51 T91 T66 T71 T89 T70 T87
+*	Equiv T55 T86 T60
+*	Equiv T15 T11 T9
+*	Equiv T46 T8 T52 T49 T31 T30 T90 T63 T3 T29 T45 T59
+*	Equiv T14 T16
+*	Equiv T28 T93 T21 T36
+*	Equiv T94 T56 T97 T7 T40 T38 T23 T82
+*	Equiv T22 T39

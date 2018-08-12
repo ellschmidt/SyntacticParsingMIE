@@ -1,0 +1,38 @@
+T1	Bacteria 0 23	Borrelia recurrentis A1
+T2	Bacteria 36 56	Borrelia recurrentis
+T3	Bacteria 58 78	Borrelia recurrentis
+T4	Habitat 105 110	louse
+T5	Geographical 313 319	Africa
+T6	Geographical 321 326	China
+T7	Geographical 332 336	Peru
+T8	Bacteria 338 352	B. recurrentis
+T9	Habitat 373 397	infected human body lice
+T10	Habitat 382 392	human body
+T11	Habitat 382 387	human
+T12	Habitat 399 416	Pediculus humanus
+T13	Habitat 440 446	fluids
+T14	Habitat 479 497	breaks in the skin
+T15	Habitat 493 497	skin
+T16	Bacteria 719 727	Borrelia
+T17	Habitat 787 800	immune system
+T18	Bacteria 983 997	B. recurrentis
+T19	Bacteria 1083 1091	Borrelia
+T20	Bacteria 1113 1136	Borrelia recurrentis A1
+T21	Bacteria 1138 1158	Borrelia recurrentis
+T22	Habitat 1173 1186	adult patient
+T23	Habitat 1192 1197	louse
+T24	Geographical 1223 1231	Ethiopia
+T25	Bacteria 1296 1304	Borrelia
+R1	Localization Bacterium:T2 Localization:T4
+R2	Localization Bacterium:T2 Localization:T13
+R3	Localization Bacterium:T2 Localization:T6
+R4	Localization Bacterium:T1 Localization:T22
+R5	Localization Bacterium:T2 Localization:T7
+R6	Localization Bacterium:T1 Localization:T23
+R7	Localization Bacterium:T2 Localization:T14
+R8	Localization Bacterium:T1 Localization:T24
+R9	Localization Bacterium:T2 Localization:T5
+R10	Localization Bacterium:T2 Localization:T15
+R11	PartOf Host:T4 Part:T13
+*	Equiv T1 T20
+*	Equiv T8 T18 T3 T2

@@ -1,0 +1,26 @@
+T1	Bacteria 0 30	Bifidobacterium longum NCC2705
+T2	Bacteria 43 58	Bifidobacterium
+T3	Habitat 113 118	human
+T4	Habitat 113 141	human gastrointestinal tract
+T5	Habitat 143 146	GIT
+T6	Habitat 218 228	intestinal
+T7	Habitat 453 456	GIT
+T8	Bacteria 501 515	bifidobacteria
+T9	Bacteria 674 688	bifidobacteria
+T10	Habitat 717 726	mammalian
+T11	Habitat 717 730	mammalian GIT
+T12	Habitat 750 757;767 773	vaginal cavity
+T13	Habitat 762 773	oral cavity
+T14	Bacteria 819 834	Actinomycetales
+T15	Bacteria 846 889	Gram-positive bacteria with high GC content
+T16	Bacteria 909 923	Corynebacteria
+T17	Bacteria 925 937	Mycobacteria
+T18	Bacteria 943 957	Streptomycetes
+T19	Bacteria 971 993	Bifidobacterium longum
+T20	Habitat 1021 1033	adult humans
+T21	Habitat 1038 1057	formula fed infants
+T22	Habitat 1038 1045	formula
+T23	Habitat 1083 1086	gut
+T24	Bacteria 1106 1143	Bifidobacterium longum strain NCC2705
+T25	Habitat 1175 1181	infant
+T26	Habitat 1175 1187	infant feces

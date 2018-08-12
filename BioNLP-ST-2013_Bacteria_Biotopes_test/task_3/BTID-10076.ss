@@ -1,0 +1,11 @@
+Bdellovibrio bacteriovorus HD100
+Description
+Bdellovibrio bacteriovorus.
+This organism is unique in that it is a bacteriolytic microbe that preys on other gram negative bacteria.
+It is found throughout soil, sewage, and aquatic environments, and is often associated with biofilms.
+It may be of use as a biocontrol agent as it can attack plant, animal, and human pathogens.
+This organism has a biphasic lifestyle which consists of a free living and motile phase, and an attack phase where the bacterium attaches to a host cell, burrows into the periplasm, and begins to degrade the host from the inside out.
+The organism sheds its flagellum once it makes irreversible contact with the host, and when it is inside, begins to form a bdelloplast, resulting in degradation of the host cell inner membrane and alteration of its peptidoglycan layer, resulting in a spherical cell.
+The Bdellovibrio cell elongates until it forms a long coiled structure which then divides, forming many flagellated progeny which continue the degradation of the host cell to propagate the life cycle.
+
+

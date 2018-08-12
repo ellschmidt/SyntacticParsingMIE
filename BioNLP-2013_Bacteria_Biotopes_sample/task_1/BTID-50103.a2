@@ -1,0 +1,72 @@
+T1	Habitat 418 425	animals
+T2	Habitat 427 433	Humans
+T3	Habitat 619 625	spores
+T4	Habitat 1314 1320	humans
+T5	Habitat 1381 1387	people
+T6	Habitat 1473 1484	individuals
+T7	Habitat 1580 1606	tissues of ancient mummies
+T8	Habitat 1674 1679	human
+T9	Habitat 1693 1702	Non-human
+T10	Habitat 1734 1738	cows
+T11	Habitat 1740 1745	birds
+T12	Habitat 1757 1764	animals
+T13	Habitat 1850 1861	researchers
+T14	Habitat 2016 2027	Researchers
+T15	Habitat 2208 2232	tuberculosis researchers
+T16	Habitat 2255 2260	lungs
+T17	Habitat 2325 2329	body
+T18	Habitat 2419 2427	carriers
+T19	Habitat 2458 2463	lungs
+T20	Habitat 2507 2519	immune cells
+T21	Habitat 2722 2726	mice
+T22	Habitat 2762 2773	researchers
+T23	Habitat 2811 2814	bug
+T24	Habitat 3033 3037	mice
+T25	Habitat 3110 3129	team of researchers
+T26	Habitat 3253 3256	air
+T27	Habitat 3264 3298	person with untreated pulmonary TB
+T28	Habitat 3342 3366	person with untreated TB
+T29	Habitat 3522 3528	people
+T30	Habitat 3594 3599	lungs
+T31	Habitat 3601 3610	pulmonary
+T32	Habitat 3635 3639	body
+T33	Habitat 3674 3685	lymph nodes
+T34	Habitat 3687 3694	kidneys
+T35	Habitat 3696 3701	bones
+T36	Habitat 3706 3712	joints
+N1	Reference Annotation:T1 Reference:MBTO:00000409	animal
+N2	Reference Annotation:T2 Reference:MBTO:00001044	human
+N3	Reference Annotation:T3 Reference:MBTO:00001993	spore
+N4	Reference Annotation:T4 Reference:MBTO:00001044	human
+N5	Reference Annotation:T5 Reference:MBTO:00001044	human
+N6	Reference Annotation:T6 Reference:MBTO:00001044	human
+N7	Reference Annotation:T7 Reference:MBTO:00001999	mummy tissue
+N8	Reference Annotation:T8 Reference:MBTO:00001044	human
+N9	Reference Annotation:T9 Reference:MBTO:00001969	living organism
+N10	Reference Annotation:T10 Reference:MBTO:00001094	cow
+N11	Reference Annotation:T11 Reference:MBTO:00000663	bird
+N12	Reference Annotation:T12 Reference:MBTO:00000409	animal
+N13	Reference Annotation:T13 Reference:MBTO:00001989	researcher
+N14	Reference Annotation:T14 Reference:MBTO:00001989	researcher
+N15	Reference Annotation:T15 Reference:MBTO:00001989	researcher
+N16	Reference Annotation:T16 Reference:MBTO:00000494	lung
+N17	Reference Annotation:T17 Reference:MBTO:00000799	body
+N18	Reference Annotation:T18 Reference:MBTO:00001086	carrier
+N19	Reference Annotation:T19 Reference:MBTO:00000494	lung
+N20	Reference Annotation:T20 Reference:MBTO:00000885	immune cell
+N21	Reference Annotation:T21 Reference:MBTO:00001145	mouse
+N22	Reference Annotation:T22 Reference:MBTO:00001989	researcher
+N23	Reference Annotation:T23 Reference:MBTO:00001278	bug
+N24	Reference Annotation:T24 Reference:MBTO:00001145	mouse
+N25	Reference Annotation:T25 Reference:MBTO:00001989	researcher
+N26	Reference Annotation:T26 Reference:MBTO:00000784	air
+N27	Reference Annotation:T27 Reference:MBTO:00001061	person with untreated TB
+N28	Reference Annotation:T28 Reference:MBTO:00001061	person with untreated TB
+N29	Reference Annotation:T29 Reference:MBTO:00001044	human
+N30	Reference Annotation:T30 Reference:MBTO:00000494	lung
+N31	Reference Annotation:T31 Reference:MBTO:00000494	lung
+N32	Reference Annotation:T32 Reference:MBTO:00000799	body
+N33	Reference Annotation:T33 Reference:MBTO:00000857	lymph node
+N34	Reference Annotation:T34 Reference:MBTO:00002003	kidney
+N35	Reference Annotation:T35 Reference:MBTO:00001133	bone
+N36	Reference Annotation:T36 Reference:MBTO:00002005	joint

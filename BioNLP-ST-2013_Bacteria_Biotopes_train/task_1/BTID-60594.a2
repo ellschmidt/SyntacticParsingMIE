@@ -1,0 +1,44 @@
+T1	Habitat 145 158	flowing water
+T2	Habitat 166 172	sewage
+T3	Habitat 177 204	wastewater treatment plants
+T4	Habitat 177 187	wastewater
+T5	Habitat 243 248	pipes
+T6	Habitat 318 345	wastewater treatment plants
+T7	Habitat 318 328	wastewater
+T8	Habitat 508 521	flowing water
+T9	Habitat 523 529	sewage
+T10	Habitat 535 551	activated sludge
+T11	Habitat 597 601	pipe
+T12	Habitat 627 643	activated sludge
+T13	Habitat 647 657	wastewater
+T14	Habitat 887 904	paper mill slimes
+T15	Habitat 887 897	paper mill
+T16	Habitat 887 892	paper
+T17	Habitat 1056 1070	Microorganisms
+T18	Habitat 1071 1085	Microorganisms
+T19	Habitat 1115 1119	soil
+T20	Habitat 1124 1135	river water
+T21	Habitat 1124 1129	river
+T22	Habitat 1482 1493	researchers
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000862
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000138
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00002020
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000179
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001288
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00002020
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000179
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000862
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000138
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001785
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001288
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001785
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000179
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001805
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000536
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000137
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001516
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001516
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001773
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000647
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000828
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001581

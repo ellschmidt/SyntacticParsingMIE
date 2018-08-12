@@ -1,0 +1,32 @@
+T1	Bacteria 0 24	Dehalococcoides sp. BAV1
+T2	Bacteria 25 49	Dehalococcoides sp. BAV1
+T3	Bacteria 50 81	Dehalococcoides sp. strain BAV1
+T4	Habitat 291 316	chlorinated solvent sites
+T5	Bacteria 333 364	Dehalococcoides sp. strain BAV1
+T6	Bacteria 434 465	Dehalococcoides sp. strain BAV1
+T7	Habitat 509 520	groundwater
+T8	Habitat 832 841	microbial
+T9	Bacteria 991 995	BAV1
+T10	Bacteria 1006 1027	bacterial populations
+T11	Bacteria 1087 1125	Dehalococcoides ethenogenes strain 195
+T12	Bacteria 1196 1226	Dehalococcoides sp. strain FL2
+T13	Habitat 1522 1527	human
+T14	Habitat 1613 1638	chlorinated solvent sites
+T15	Bacteria 1640 1671	Dehalococcoides sp. strain BAV1
+T16	Habitat 1690 1729	PCE-to-ethene-dechlorinating microcosms
+T17	Habitat 1747 1763	aquifer material
+T18	Habitat 1781 1811	contaminated Bachman Road site
+T19	Geographical 1815 1821	Oscoda
+T20	Geographical 1823 1831	Michigan
+T21	Bacteria 1851 1855	BAV1
+T22	Bacteria 2076 2080	BAV1
+T23	Habitat 2319 2344	chlorinated solvent sites
+T24	Bacteria 2376 2380	BAV1
+T25	Bacteria 2484 2499	Dehalococcoides
+T26	Habitat 2630 2648	contaminated sites
+R1	Localization Bacteria:T1 Localization:T19
+R2	Localization Bacteria:T1 Localization:T17
+R3	Localization Bacteria:T1 Localization:T18
+R4	Localization Bacteria:T1 Localization:T20
+R5	Localization Bacteria:T15 Localization:T16
+*	Equiv T1 T2 T15

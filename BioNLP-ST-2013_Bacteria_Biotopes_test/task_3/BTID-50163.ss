@@ -1,0 +1,7 @@
+Thermoanaerobacter tengcongensis
+Thermoanaerobacter tengcongensis metabolizes sugars as the principal source of energy
+Thermoanaerobacter tengcongensis is a rod-shaped, Gram-negative , anaerobic eubacterium that was isolated from a freshwater hot spring in Tengchong, China.
+Thermoanaerobacter tengcongensis, grows optimally at 80 degrees Celsius and metabolizes sugars as the principal source of energy and carbon source, and gains energy anaerobically by sulfur respiration.
+More than half the T. tengcongensis genes are 'extremely similar' to those of Bacillus halodurans
+
+

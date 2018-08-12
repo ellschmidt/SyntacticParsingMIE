@@ -1,0 +1,64 @@
+T1	Habitat 40 47	genital
+T2	Habitat 140 155	urogenital area
+T3	Habitat 180 186	humans
+T4	Habitat 936 949	intracellular
+T5	Habitat 984 991	animals
+T6	Habitat 1003 1009	humans
+T7	Habitat 1014 1021	insects
+T8	Habitat 1027 1033	plants
+T9	Habitat 1157 1161	cell
+T10	Habitat 1642 1655	intracellular
+T11	Habitat 1770 1776	humans
+T12	Habitat 1781 1788	animals
+T13	Habitat 1790 1795	Human
+T14	Habitat 1847 1858;1874 1880	respiratory tracts
+T15	Habitat 1863 1880	urogenital tracts
+T16	Habitat 1909 1921	farm animals
+T17	Habitat 2950 2956	humans
+T18	Habitat 3177 3187	urogenital
+T19	Habitat 3201 3206	adult
+T20	Habitat 3296 3303	genital
+T21	Habitat 3318 3323	women
+T22	Habitat 3369 3376	newborn
+T23	Habitat 3381 3393	extragenital
+T24	Habitat 3420 3444	immunodepressed subjects
+T25	Habitat 4099 4104	human
+T26	Habitat 4983 5006	interior of human cells
+T27	Habitat 4995 5000	human
+T28	Habitat 4995 5006	human cells
+T29	Habitat 5149 5154	human
+T30	Habitat 5149 5159	human body
+T31	Habitat 5196 5203	in vivo
+T32	Habitat 5207 5215	in vitro
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001404
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001873
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001402
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001946
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001660
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001402
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000141
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00002027
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001852
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001946
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001660
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001402
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000124
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001873
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000158
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001402
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001873
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000818
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001404
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000658
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000348
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00001625
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001201
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001402
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001946
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00001402
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001852
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00001402
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001751
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00000297
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00000026

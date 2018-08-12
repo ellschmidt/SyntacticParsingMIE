@@ -1,0 +1,130 @@
+T1	Habitat 395 400	plant
+T2	Habitat 576 580	crop
+T3	Habitat 656 661	plant
+T4	Habitat 1702 1708	insect
+T5	Habitat 1863 1867	soil
+T6	Habitat 1872 1879	insects
+T7	Habitat 1883 1889	humans
+T8	Habitat 1926 1933	insects
+T9	Habitat 1964 1968	pest
+T10	Habitat 2068 2079	saprophytes
+T11	Habitat 2110 2125	decaying matter
+T12	Habitat 2179 2190	rhizosphere
+T13	Habitat 2223 2234	plant roots
+T14	Habitat 2223 2228	plant
+T15	Habitat 2255 2259	soil
+T16	Habitat 2265 2271	plants
+T17	Habitat 2265 2277	plants roots
+T18	Habitat 2293 2300	biofilm
+T19	Habitat 2355 2359	soil
+T20	Habitat 2578 2584	spores
+T21	Habitat 2996 2999	ear
+T22	Habitat 3030 3043	urinary tract
+T23	Habitat 3115 3136	immunodeficient hosts
+T24	Habitat 3150 3167	compromised hosts
+T25	Habitat 3221 3227	tissue
+T26	Habitat 3410 3416	humans
+T27	Habitat 3525 3532	animals
+T28	Habitat 3572 3577	boils
+T29	Habitat 3589 3595	humans
+T30	Habitat 3672 3676	cows
+T31	Habitat 3945 3955	herbivores
+T32	Habitat 3992 3998	plants
+T33	Habitat 3992 4008	plants with dust
+T34	Habitat 4004 4008	dust
+T35	Habitat 4039 4045	Humans
+T36	Habitat 4092 4101	Cutaneous
+T37	Habitat 4124 4129	human
+T38	Habitat 4158 4164	spores
+T39	Habitat 4170 4184	dust particles
+T40	Habitat 4203 4209	animal
+T41	Habitat 4213 4220	carcass
+T42	Habitat 4231 4234	cut
+T43	Habitat 4238 4246	abrasion
+T44	Habitat 4248 4257	Cutaneous
+T45	Habitat 4350 4356	spores
+T46	Habitat 4368 4384	vegetative cells
+T47	Habitat 4401 4407	papule
+T48	Habitat 4446 4452	papule
+T49	Habitat 4510 4516	eschar
+T50	Habitat 4581 4597	Gastrointestinal
+T51	Habitat 4633 4650	contaminated meat
+T52	Habitat 4669 4686	intestinal mucosa
+T53	Habitat 4717 4723	mucosa
+T54	Habitat 4746 4753	lesions
+T55	Habitat 4785 4794	cutaneous
+T56	Habitat 4893 4902	Pulmonary
+T57	Habitat 4936 4942	spores
+T58	Habitat 4971 4982	lymph nodes
+T59	Habitat 5047 5059	blood stream
+T60	Habitat 5064 5074	lymphatics
+T61	Habitat 5183 5201	biological weapons
+T62	Habitat 5710 5723	infected mice
+T63	Habitat 5964 5975	Researchers
+T64	Habitat 6499 6507	microbes
+T65	Habitat 6691 6695	soil
+N1	Reference Annotation:T1 Reference:MBTO:00000410	plant
+N2	Reference Annotation:T2 Reference:MBTO:00001849	crop
+N3	Reference Annotation:T3 Reference:MBTO:00000410	plant
+N4	Reference Annotation:T4 Reference:MBTO:00000413	insect
+N5	Reference Annotation:T5 Reference:MBTO:00000156	soil
+N6	Reference Annotation:T6 Reference:MBTO:00000413	insect
+N7	Reference Annotation:T7 Reference:MBTO:00001044	human
+N8	Reference Annotation:T8 Reference:MBTO:00000413	insect
+N9	Reference Annotation:T9 Reference:MBTO:00001746	pest
+N10	Reference Annotation:T10 Reference:MBTO:00000734	decaying matter
+N11	Reference Annotation:T11 Reference:MBTO:00000734	decaying matter
+N12	Reference Annotation:T12 Reference:MBTO:00000407	rhizosphere
+N13	Reference Annotation:T13 Reference:MBTO:00000874	root
+N14	Reference Annotation:T14 Reference:MBTO:00000410	plant
+N15	Reference Annotation:T15 Reference:MBTO:00000156	soil
+N16	Reference Annotation:T16 Reference:MBTO:00000410	plant
+N17	Reference Annotation:T17 Reference:MBTO:00000874	root
+N18	Reference Annotation:T18 Reference:MBTO:00000177	biofilm
+N19	Reference Annotation:T19 Reference:MBTO:00000156	soil
+N20	Reference Annotation:T20 Reference:MBTO:00001993	spore
+N21	Reference Annotation:T21 Reference:MBTO:00000710	ear
+N22	Reference Annotation:T22 Reference:MBTO:00000824	urinary tract
+N23	Reference Annotation:T23 Reference:MBTO:00001046	immunodeficient host
+N24	Reference Annotation:T24 Reference:MBTO:00001046	immunodeficient host
+N25	Reference Annotation:T25 Reference:MBTO:00000812	tissue
+N26	Reference Annotation:T26 Reference:MBTO:00001044	human
+N27	Reference Annotation:T27 Reference:MBTO:00000409	animal
+N28	Reference Annotation:T28 Reference:MBTO:00001227	furuncle
+N29	Reference Annotation:T29 Reference:MBTO:00001044	human
+N30	Reference Annotation:T30 Reference:MBTO:00001094	cow
+N31	Reference Annotation:T31 Reference:MBTO:00001120	herbivore
+N32	Reference Annotation:T32 Reference:MBTO:00000410	plant
+N33	Reference Annotation:T33 Reference:MBTO:00000410	plant
+N34	Reference Annotation:T34 Reference:MBTO:00000919	dust
+N35	Reference Annotation:T35 Reference:MBTO:00001044	human
+N36	Reference Annotation:T36 Reference:MBTO:00000497	skin
+N37	Reference Annotation:T37 Reference:MBTO:00001044	human
+N38	Reference Annotation:T38 Reference:MBTO:00001993	spore
+N39	Reference Annotation:T39 Reference:MBTO:00000919	dust
+N40	Reference Annotation:T40 Reference:MBTO:00000409	animal
+N41	Reference Annotation:T41 Reference:MBTO:00000898	carcass
+N42	Reference Annotation:T42 Reference:MBTO:00000810	cut
+N43	Reference Annotation:T43 Reference:MBTO:00000797	abrasion
+N44	Reference Annotation:T44 Reference:MBTO:00000497	skin
+N45	Reference Annotation:T45 Reference:MBTO:00001993	spore
+N46	Reference Annotation:T46 Reference:MBTO:00000805	cell
+N47	Reference Annotation:T47 Reference:MBTO:00001996	papule
+N48	Reference Annotation:T48 Reference:MBTO:00001996	papule
+N49	Reference Annotation:T49 Reference:MBTO:00001710	eschar
+N50	Reference Annotation:T50 Reference:MBTO:00000493	gastrointestinal tract
+N51	Reference Annotation:T51 Reference:MBTO:00000214	meat
+N52	Reference Annotation:T52 Reference:MBTO:00000841	intestinal mucosa
+N53	Reference Annotation:T53 Reference:MBTO:00000829	mucosal tissue
+N54	Reference Annotation:T54 Reference:MBTO:00000848	lesion
+N55	Reference Annotation:T55 Reference:MBTO:00000497	skin
+N56	Reference Annotation:T56 Reference:MBTO:00000494	lung
+N57	Reference Annotation:T57 Reference:MBTO:00001993	spore
+N58	Reference Annotation:T58 Reference:MBTO:00000857	lymph node
+N59	Reference Annotation:T59 Reference:MBTO:00000421	blood
+N60	Reference Annotation:T60 Reference:MBTO:00000860	lymphatics
+N61	Reference Annotation:T61 Reference:MBTO:00001998	weapon
+N62	Reference Annotation:T62 Reference:MBTO:00001145	mouse
+N63	Reference Annotation:T63 Reference:MBTO:00001989	researcher
+N64	Reference Annotation:T64 Reference:MBTO:00001971	microorganism
+N65	Reference Annotation:T65 Reference:MBTO:00000156	soil

@@ -1,0 +1,24 @@
+T1	Habitat 108 164	illuminated, stratified, and anoxic aquatic environments
+T2	Habitat 166 175	sediments
+T3	Habitat 187 212	sulfide-rich environments
+T4	Habitat 223 234	hot springs
+T5	Habitat 425 445	aquatic environments
+T6	Habitat 1088 1107	anoxic environments
+T7	Habitat 1401 1414	higher plants
+T8	Habitat 2503 2594	anoxic sulfide containing water 19.5 m below surface of meromictic Lake Blankvann in Norway
+T9	Habitat 2548 2594	surface of meromictic Lake Blankvann in Norway
+T10	Habitat 2559 2584	meromictic Lake Blankvann
+T11	Habitat 3113 3123	freshwater
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001101
+N2	OntoBiotope Annotation:T1 Referent:MBTO:00001635
+N3	OntoBiotope Annotation:T2 Referent:MBTO:00000633
+N4	OntoBiotope Annotation:T3 Referent:MBTO:00000078
+N5	OntoBiotope Annotation:T4 Referent:MBTO:00000415
+N6	OntoBiotope Annotation:T5 Referent:MBTO:00000643
+N7	OntoBiotope Annotation:T6 Referent:MBTO:00001547
+N8	OntoBiotope Annotation:T7 Referent:MBTO:00002027
+N9	OntoBiotope Annotation:T8 Referent:MBTO:00002001
+N10	OntoBiotope Annotation:T8 Referent:MBTO:00001547
+N11	OntoBiotope Annotation:T9 Referent:MBTO:00000321
+N12	OntoBiotope Annotation:T10 Referent:MBTO:00001964
+N13	OntoBiotope Annotation:T11 Referent:MBTO:00000904

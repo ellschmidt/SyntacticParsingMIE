@@ -1,0 +1,28 @@
+T1	Habitat 55 59	food
+T2	Habitat 208 214	oceans
+T3	Habitat 216 230	coastal waters
+T4	Habitat 236 245	estuaries
+T5	Habitat 367 381	coastal waters
+T6	Habitat 516 520	food
+T7	Habitat 563 570	stomach
+T8	Habitat 575 590	small intestine
+T9	Habitat 597 603	people
+T10	Habitat 662 668	fluids
+T11	Habitat 761 768	seafood
+T12	Habitat 840 844	skin
+T13	Habitat 853 863	open wound
+T14	Habitat 878 891	warm seawater
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000688
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001257
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000429
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001463
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000429
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000688
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001291
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001263
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001402
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000326
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001595
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001789
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001609
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001129

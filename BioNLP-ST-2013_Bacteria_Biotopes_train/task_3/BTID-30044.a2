@@ -1,0 +1,61 @@
+T1	Bacteria 5 19	mycoides group
+T2	Habitat 42 48	animal
+T3	Bacteria 96 107	mycoplasmas
+T4	Bacteria 129 143	mycoides group
+T5	Bacteria 146 173	M. mycoides ssp mycoides SC
+T6	Bacteria 175 180	MmmSC
+T7	Bacteria 183 210	M. mycoides ssp mycoides LC
+T8	Bacteria 212 217	MmmLC
+T9	Bacteria 220 241	M. mycoides ssp capri
+T10	Bacteria 243 246	Mmc
+T11	Bacteria 249 277	M. capricolum ssp capricolum
+T12	Bacteria 279 282	Mcc
+T13	Bacteria 285 317	M. capricolum ssp capripneumonia
+T14	Bacteria 319 323	Mccp
+T15	Bacteria 326 348	M. sp Group 7 of Leach
+T16	Bacteria 350 353	Mg7
+T17	Habitat 376 385	ruminants
+T18	Bacteria 401 406	MmmSC
+T19	Bacteria 411 415	Mccp
+T20	Habitat 471 476	goose
+T21	Habitat 618 627	ruminants
+T22	Habitat 743 748	farms
+T23	Bacteria 865 876	mycoplasmal
+T24	Bacteria 896 910	mycoides group
+T25	Habitat 1043 1049	cattle
+T26	Habitat 1053 1057	goat
+T27	Habitat 1078 1083	organ
+T28	Habitat 1085 1089	lung
+T29	Bacteria 1094 1099	MmmSC
+T30	Habitat 1101 1114	mammary gland
+T31	Bacteria 1119 1124	MmmLC
+T32	Bacteria 1204 1218	mycoides group
+T33	Bacteria 1407 1424	Spiroplasma citri
+T34	Bacteria 1429 1440	S. kunkelii
+T35	Habitat 1442 1447	plant
+R1	Localization Bacterium:T1 Localization:T2
+R2	Localization Bacterium:T7 Localization:T21
+R3	Localization Bacterium:T33 Localization:T35
+R4	Localization Bacterium:T9 Localization:T21
+R5	Localization Bacterium:T5 Localization:T17
+R6	Localization Bacterium:T7 Localization:T17
+R7	Localization Bacterium:T11 Localization:T21
+R8	Localization Bacterium:T15 Localization:T21
+R9	Localization Bacterium:T9 Localization:T17
+R10	Localization Bacterium:T13 Localization:T20
+R11	Localization Bacterium:T5 Localization:T20
+R12	Localization Bacterium:T11 Localization:T17
+R13	Localization Bacterium:T1 Localization:T26
+R14	Localization Bacterium:T5 Localization:T28
+R15	Localization Bacterium:T34 Localization:T35
+R16	Localization Bacterium:T7 Localization:T30
+R17	Localization Bacterium:T13 Localization:T17
+R18	Localization Bacterium:T15 Localization:T17
+R19	Localization Bacterium:T1 Localization:T25
+*	Equiv T10 T9
+*	Equiv T31 T8 T7
+*	Equiv T14 T13 T19
+*	Equiv T12 T11
+*	Equiv T6 T18 T5 T29
+*	Equiv T16 T15
+*	Equiv T32 T24 T4 T1

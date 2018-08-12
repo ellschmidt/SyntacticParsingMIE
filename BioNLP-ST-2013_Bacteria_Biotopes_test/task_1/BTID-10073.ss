@@ -1,0 +1,13 @@
+Bartonella quintana str.
+Toulouse Toulose
+Description
+Bartonella. This group of alpha proteobacteria are unique among pathogens in that they cause angiogenic lesions.
+Angiogenesis is the process of creating new blood vessels.
+
+Bartonella quintana.
+This organism was first identified as the causative agent of louse-born trench fever during World War I.
+Up to 800 000 were infected in the trenches because of the louse insect vector that was widespread due to poor sanitation.
+Characterized by fever, rashes, bone pain, and enlargement of the spleen.
+The disease is now found associated with immunocompromized patients, especially HIV patients and homeless alcoholics.
+
+

@@ -1,0 +1,22 @@
+T1	Habitat 105 110	louse
+T2	Habitat 373 397	infected human body lice
+T3	Habitat 382 392	human body
+T4	Habitat 382 387	human
+T5	Habitat 399 416	Pediculus humanus
+T6	Habitat 440 446	fluids
+T7	Habitat 479 497	breaks in the skin
+T8	Habitat 493 497	skin
+T9	Habitat 787 800	immune system
+T10	Habitat 1173 1186	adult patient
+T11	Habitat 1192 1197	louse
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002052
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000133
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001751
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000368
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000921
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001857
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001789
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001774
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00002067
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00002052

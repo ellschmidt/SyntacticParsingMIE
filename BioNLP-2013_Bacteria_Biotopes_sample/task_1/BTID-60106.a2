@@ -1,0 +1,122 @@
+T1	Habitat 164 237	S-shaped curved, somewhat rod-shaped cell, about 0.2-0.5 micrometers long
+T2	Habitat 310 337	intestinal tract of animals
+T3	Habitat 330 337	animals
+T4	Habitat 368 389	intestinal epithelium
+T5	Habitat 429 445	epithelial layer
+T6	Habitat 467 478	bloodstream
+T7	Habitat 598 607	intestine
+T8	Habitat 639 646	animals
+T9	Habitat 651 657	humans
+T10	Habitat 664 669	human
+T11	Habitat 925 955	patients with severe infection
+T12	Habitat 1089 1093	pigs
+T13	Habitat 1095 1100	birds
+T14	Habitat 1106 1119	surface water
+T15	Habitat 1281 1285	Cell
+T16	Habitat 1733 1742	intestine
+T17	Habitat 1802 1818	intestinal tract
+T18	Habitat 1962 1975	complex media
+T19	Habitat 2008 2045	extra growth medium such as glutamate
+T20	Habitat 2008 2035;2047 2056	extra growth medium such as glutamine
+T21	Habitat 2008 2035;2058 2077	extra growth medium such as alpha-ketoglutarate
+T22	Habitat 2008 2035;2082 2089	extra growth medium such as formate
+T23	Habitat 2520 2529	intestine
+T24	Habitat 2605 2609	pigs
+T25	Habitat 2611 2616	birds
+T26	Habitat 2621 2648	environmental surface water
+T27	Habitat 2670 2675	birds
+T28	Habitat 2817 2822	birds
+T29	Habitat 2824 2863	Birds that are feeding on invertebrates
+T30	Habitat 2865 2886	opportunistic feeders
+T31	Habitat 2892 2921	birds that have a larger mass
+T32	Habitat 3069 3076	animals
+T33	Habitat 3081 3087	humans
+T34	Habitat 3089 3095	People
+T35	Habitat 3127 3134	poultry
+T36	Habitat 3171 3179	raw food
+T37	Habitat 3190 3198	raw milk
+T38	Habitat 3213 3225	bottle water
+T39	Habitat 3411 3415	cell
+T40	Habitat 3434 3438	cell
+T41	Habitat 3498 3525	intestinal tract of animals
+T42	Habitat 3498 3517;3530 3536	intestinal tract of humans
+T43	Habitat 3518 3525	animals
+T44	Habitat 3530 3536	humans
+T45	Habitat 3600 3621	intestinal epithelium
+T46	Habitat 3661 3677	epithelial layer
+T47	Habitat 3698 3709	bloodstream
+T48	Habitat 3714 3722	Patients
+T49	Habitat 3763 3772	abdominal
+T50	Habitat 3790 3802	bloody stool
+T51	Habitat 4330 4334	farm
+T52	Habitat 4339 4354	slaughter plant
+T53	Habitat 4390 4397	poultry
+T54	Habitat 4464 4468	pigs
+T55	Habitat 4519 4525	animal
+T56	Habitat 4565 4569	farm
+T57	Habitat 4764 4772	ABF pigs
+T58	Habitat 5181 5193	chicken meat
+T59	Habitat 5310 5325	US dairy cattle
+T60	Habitat 5327 5332	Feces
+T61	Habitat 5351 5355	cows
+N1	Reference Annotation:T1 Reference:MBTO:00000805	cell
+N2	Reference Annotation:T2 Reference:MBTO:00000816	intestinal tract
+N3	Reference Annotation:T3 Reference:MBTO:00000409	animal
+N4	Reference Annotation:T4 Reference:MBTO:00000502	intestinal epithelium
+N5	Reference Annotation:T5 Reference:MBTO:00000818	epithelial layer
+N6	Reference Annotation:T6 Reference:MBTO:00000421	blood
+N7	Reference Annotation:T7 Reference:MBTO:00001771	intestine
+N8	Reference Annotation:T8 Reference:MBTO:00000409	animal
+N9	Reference Annotation:T9 Reference:MBTO:00001044	human
+N10	Reference Annotation:T10 Reference:MBTO:00001044	human
+N11	Reference Annotation:T11 Reference:MBTO:00001038	patient
+N12	Reference Annotation:T12 Reference:MBTO:00000964	pig
+N13	Reference Annotation:T13 Reference:MBTO:00000663	bird
+N14	Reference Annotation:T14 Reference:MBTO:00001240	surface water
+N15	Reference Annotation:T15 Reference:MBTO:00000805	cell
+N16	Reference Annotation:T16 Reference:MBTO:00001771	intestine
+N17	Reference Annotation:T17 Reference:MBTO:00000816	intestinal tract
+N18	Reference Annotation:T18 Reference:MBTO:00001988	experimental medium
+N19	Reference Annotation:T19 Reference:MBTO:00001988	experimental medium
+N20	Reference Annotation:T20 Reference:MBTO:00001988	experimental medium
+N21	Reference Annotation:T21 Reference:MBTO:00001988	experimental medium
+N22	Reference Annotation:T22 Reference:MBTO:00001988	experimental medium
+N23	Reference Annotation:T23 Reference:MBTO:00001771	intestine
+N24	Reference Annotation:T24 Reference:MBTO:00000964	pig
+N25	Reference Annotation:T25 Reference:MBTO:00000663	bird
+N26	Reference Annotation:T26 Reference:MBTO:00001240	surface water
+N27	Reference Annotation:T27 Reference:MBTO:00000663	bird
+N28	Reference Annotation:T28 Reference:MBTO:00000663	bird
+N29	Reference Annotation:T29 Reference:MBTO:00001077	invertebrate eating bird
+N30	Reference Annotation:T30 Reference:MBTO:00000409	animal
+N31	Reference Annotation:T31 Reference:MBTO:00000663	bird
+N32	Reference Annotation:T32 Reference:MBTO:00000409	animal
+N33	Reference Annotation:T33 Reference:MBTO:00001044	human
+N34	Reference Annotation:T34 Reference:MBTO:00001044	human
+N35	Reference Annotation:T35 Reference:MBTO:00002067	poultry meat
+N36	Reference Annotation:T36 Reference:MBTO:00000776	raw food
+N37	Reference Annotation:T37 Reference:MBTO:00000449	unpasteurized milk
+N38	Reference Annotation:T38 Reference:MBTO:00000775	bottled water
+N39	Reference Annotation:T39 Reference:MBTO:00000805	cell
+N40	Reference Annotation:T40 Reference:MBTO:00000805	cell
+N41	Reference Annotation:T41 Reference:MBTO:00000816	intestinal tract
+N42	Reference Annotation:T42 Reference:MBTO:00000816	intestinal tract
+N43	Reference Annotation:T43 Reference:MBTO:00000409	animal
+N44	Reference Annotation:T44 Reference:MBTO:00001044	human
+N45	Reference Annotation:T45 Reference:MBTO:00000502	intestinal epithelium
+N46	Reference Annotation:T46 Reference:MBTO:00000818	epithelial layer
+N47	Reference Annotation:T47 Reference:MBTO:00000421	blood
+N48	Reference Annotation:T48 Reference:MBTO:00001038	patient
+N49	Reference Annotation:T49 Reference:MBTO:00001682	abdomen
+N50	Reference Annotation:T50 Reference:MBTO:00000159	feces
+N51	Reference Annotation:T51 Reference:MBTO:00001511	farm
+N52	Reference Annotation:T52 Reference:MBTO:00001581	slaughter plant
+N53	Reference Annotation:T53 Reference:MBTO:00002067	poultry meat
+N54	Reference Annotation:T54 Reference:MBTO:00000964	pig
+N55	Reference Annotation:T55 Reference:MBTO:00000409	animal
+N56	Reference Annotation:T56 Reference:MBTO:00001511	farm
+N57	Reference Annotation:T57 Reference:MBTO:00000964	pig
+N58	Reference Annotation:T58 Reference:MBTO:00002068	chicken meat
+N59	Reference Annotation:T59 Reference:MBTO:00001096	dairy cattle
+N60	Reference Annotation:T60 Reference:MBTO:00000159	feces
+N61	Reference Annotation:T61 Reference:MBTO:00001094	cow

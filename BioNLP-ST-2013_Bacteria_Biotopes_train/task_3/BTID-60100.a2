@@ -1,0 +1,48 @@
+T1	Bacteria 0 25	Burkholderia pseudomallei
+T2	Bacteria 55 80	Burkholderia pseudomallei
+T3	Bacteria 100 109	bacterium
+T4	Bacteria 204 213	bacterium
+T5	Habitat 285 289	soil
+T6	Habitat 294 299	water
+T7	Geographical 318 332	Southeast Asia
+T8	Geographical 337 355	Northern Australia
+T9	Bacteria 455 480	Burkholderia pseudomallei
+T10	Bacteria 603 628	Burkholderia pseudomallei
+T11	Habitat 634 639	human
+T12	Habitat 644 650	animal
+T13	Geographical 722 736	Southeast Asia
+T14	Geographical 741 759	northern Australia
+T15	Bacteria 946 954	bacteria
+T16	Habitat 960 976	open skin wounds
+T17	Habitat 1010 1021	aerosolized
+T18	Bacteria 1022 1047	Burkholderia pseudomallei
+T19	Bacteria 1156 1181	Burkholderia pseudomallei
+T20	Habitat 1315 1322	abscess
+T21	Habitat 1347 1351	body
+T22	Habitat 1364 1369	brain
+T23	Habitat 1425 1430	heart
+T24	Habitat 1432 1438	kidney
+T25	Habitat 1443 1448	lungs
+T26	Bacteria 1468 1493	Burkholderia pseudomallei
+T27	Geographical 1623 1653	US centers for Disease Control
+R1	Localization Bacterium:T1 Localization:T11
+R2	Localization Bacterium:T1 Localization:T7
+R3	Localization Bacterium:T1 Localization:T13
+R4	Localization Bacterium:T1 Localization:T20
+R5	Localization Bacterium:T1 Localization:T14
+R6	Localization Bacterium:T1 Localization:T5
+R7	Localization Bacterium:T1 Localization:T17
+R8	Localization Bacterium:T1 Localization:T8
+R9	Localization Bacterium:T1 Localization:T16
+R10	Localization Bacterium:T1 Localization:T22
+R11	Localization Bacterium:T1 Localization:T12
+R12	Localization Bacterium:T1 Localization:T6
+R13	PartOf Host:T11 Part:T22
+R14	PartOf Host:T12 Part:T22
+R15	PartOf Host:T11 Part:T16
+R16	PartOf Host:T12 Part:T16
+R17	PartOf Host:T12 Part:T20
+R18	PartOf Host:T11 Part:T20
+*	Equiv T19 T9 T10 T2 T1 T18 T26
+*	Equiv T7 T13
+*	Equiv T8 T14

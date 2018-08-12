@@ -1,0 +1,23 @@
+R1	Localization Bacterium:T8 Localization:T13
+R2	Localization Bacterium:T1 Localization:T32
+R3	Localization Bacterium:T1 Localization:T15
+R4	Localization Bacterium:T9 Localization:T10
+R5	Localization Bacterium:T1 Localization:T18
+R6	Localization Bacterium:T1 Localization:T35
+R7	Localization Bacterium:T8 Localization:T10
+R8	Localization Bacterium:T1 Localization:T16
+R9	Localization Bacterium:T44 Localization:T45
+R10	Localization Bacterium:T1 Localization:T31
+R11	Localization Bacterium:T1 Localization:T30
+R12	Localization Bacterium:T1 Localization:T34
+R13	Localization Bacterium:T8 Localization:T12
+R14	PartOf Host:T32 Part:T31
+*	Equiv T23 T24
+*	Equiv T28 T16 T31
+*	Equiv T56 T63
+*	Equiv T58 T10
+*	Equiv T27 T15 T30
+*	Equiv T67 T39 T48 T20 T1 T14 T41 T38 T22 T29 T55 T50 T2 T6 T33 T65 T57 T25 T26
+*	Equiv T8 T11 T59 T69
+*	Equiv T7 T47
+*	Equiv T37 T34

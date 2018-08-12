@@ -1,0 +1,34 @@
+T1	Bacteria 12 21	bacterium
+T2	Habitat 29 33	skin
+T3	Bacteria 34 56	Staphylococcus xylosus
+T4	Bacteria 62 110	Gram positive bacterium with a low G + C content
+T5	Bacteria 158 171	staphylococci
+T6	Bacteria 191 200	bacterium
+T7	Habitat 208 212	skin
+T8	Bacteria 266 275	bacterium
+T9	Habitat 327 331;360 368	meat products
+T10	Habitat 333 340	sausage
+T11	Habitat 346 350;360 368	milk products
+T12	Habitat 352 358	cheese
+T13	Habitat 439 447	sausages
+T14	Habitat 528 554	surface of certain cheeses
+T15	Bacteria 578 588	S. xylosus
+T16	Bacteria 619 628	bacterium
+T17	Habitat 667 688	production facilities
+T18	Bacteria 706 716	S. xylosus
+T19	Habitat 763 771	biofilms
+T20	Habitat 903 907	milk
+T21	Habitat 912 919	raw ham
+T22	Habitat 991 999	consumer
+T23	Bacteria 1018 1028	S. xylosus
+T24	Habitat 1060 1067	animals
+T25	Bacteria 1080 1090	S. xylosus
+T26	Habitat 1128 1138	nosocomial
+T27	Bacteria 1228 1238	S. xylosus
+T28	Bacteria 1435 1448	staphylococci
+T29	Bacteria 1450 1459	S. aureus
+T30	Bacteria 1461 1477	S. epidermididis
+T31	Bacteria 1482 1493	S. carnosus
+T32	Bacteria 1582 1591	bacterium
+T33	Habitat 1599 1626	agro-alimentary environment
+T34	Bacteria 1693 1703	S. xylosus

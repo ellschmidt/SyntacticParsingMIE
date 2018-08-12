@@ -1,0 +1,30 @@
+T1	Habitat 108 164	illuminated, stratified, and anoxic aquatic environments
+T2	Habitat 166 175	sediments
+T3	Habitat 187 212	sulfide-rich environments
+T4	Habitat 223 234	hot springs
+T5	Habitat 388 399	phototrophs
+T6	Habitat 425 445	aquatic environments
+T7	Habitat 1088 1107	anoxic environments
+T8	Habitat 1401 1414	higher plants
+T9	Habitat 1810 1815	cells
+T10	Habitat 1955 1966	phototrophs
+T11	Habitat 2056 2067	phototrophs
+T12	Habitat 2448 2463	elongated cells
+T13	Habitat 2503 2594	anoxic sulfide containing water 19.5 m below surface of meromictic Lake Blankvann in Norway
+T14	Habitat 2661 2666	cells
+T15	Habitat 3113 3123	freshwater
+N1	Reference Annotation:T1 Reference:MBTO:00000750	illuminated, stratified, and anoxic aquatic environment
+N2	Reference Annotation:T2 Reference:MBTO:00000161	sediment
+N3	Reference Annotation:T3 Reference:MBTO:00001953	sulfide-rich environment
+N4	Reference Annotation:T4 Reference:MBTO:00000748	hotspring
+N5	Reference Annotation:T5 Reference:MBTO:00001394	phototroph bacteria
+N6	Reference Annotation:T6 Reference:MBTO:00000744	aquatic environment
+N7	Reference Annotation:T7 Reference:MBTO:00001956	anoxic habitat
+N8	Reference Annotation:T8 Reference:MBTO:00000410	plant
+N9	Reference Annotation:T9 Reference:MBTO:00000805	cell
+N10	Reference Annotation:T10 Reference:MBTO:00001394	phototroph bacteria
+N11	Reference Annotation:T11 Reference:MBTO:00001394	phototroph bacteria
+N12	Reference Annotation:T12 Reference:MBTO:00000805	cell
+N13	Reference Annotation:T13 Reference:MBTO:00000740	anoxic sulfide containing water
+N14	Reference Annotation:T14 Reference:MBTO:00000805	cell
+N15	Reference Annotation:T15 Reference:MBTO:00000163	fresh water

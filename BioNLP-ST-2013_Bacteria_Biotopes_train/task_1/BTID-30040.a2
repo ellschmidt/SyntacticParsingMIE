@@ -1,0 +1,14 @@
+T1	Habitat 48 54	humans
+T2	Habitat 109 114	human
+T3	Habitat 470 475	human
+T4	Habitat 754 766	water system
+T5	Habitat 772 787	French hospital
+T6	Habitat 851 861	nosocomial
+T7	Habitat 1180 1185	human
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001402
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000331
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00002039
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000573
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001402

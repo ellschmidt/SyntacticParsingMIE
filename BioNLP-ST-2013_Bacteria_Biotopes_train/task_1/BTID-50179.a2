@@ -1,0 +1,74 @@
+T1	Habitat 37 50	Brugia malayi
+T2	Habitat 86 91	males
+T3	Habitat 159 172	intracellular
+T4	Habitat 202 215	invertebrates
+T5	Habitat 249 262	Brugia malayi
+T6	Habitat 336 341	worms
+T7	Habitat 372 385	intracellular
+T8	Habitat 432 437	human
+T9	Habitat 432 437;454 472	human filarial parasites
+T10	Habitat 447 472	animal filarial parasites
+T11	Habitat 447 453	animal
+T12	Habitat 520 529	arthropod
+T13	Habitat 542 552	arthropods
+T14	Habitat 772 777	males
+T15	Habitat 827 855	parasitic filarial nematodes
+T16	Habitat 1000 1008	vaccines
+T17	Habitat 1173 1200	tropical areas of the world
+T18	Habitat 1404 1412;1429 1434	tropical areas
+T19	Habitat 1417 1434	subtropical areas
+T20	Habitat 1527 1533	cities
+T21	Habitat 1560 1593	breeding sites for the mosquitoes
+T22	Habitat 1583 1593	mosquitoes
+T23	Habitat 1734 1746	potent drugs
+T24	Habitat 1787 1793	insect
+T25	Habitat 1860 1879	parasitic nematodes
+T26	Habitat 1904 1910	humans
+T27	Habitat 1914 1920	insect
+T28	Habitat 1967 1985	filarial parasites
+T29	Habitat 2036 2042	people
+T30	Habitat 2073 2079	people
+T31	Habitat 2377 2390	Brugia malayi
+T32	Habitat 2396 2413	filarial nematode
+T33	Habitat 2499 2531	bite of blood-feeding mosquitoes
+T34	Habitat 2507 2531	blood-feeding mosquitoes
+T35	Habitat 2507 2512	blood
+T36	Habitat 2561 2577	lymphatic system
+T37	Habitat 2596 2605	lymphatic
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002065
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000548
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001946
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001947
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00002065
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001781
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001946
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001402
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001562
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000160
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001660
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000850
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000850
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000548
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000002
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000063
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000666
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000666
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00002005
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001048
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000501
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000266
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000060
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000141
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001767
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001402
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00000141
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001562
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00001402
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001402
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00002065
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00000002
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001104
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00000266
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00001569
+N36	OntoBiotope Annotation:T36 Referent:MBTO:00001722
+N37	OntoBiotope Annotation:T37 Referent:MBTO:00001722

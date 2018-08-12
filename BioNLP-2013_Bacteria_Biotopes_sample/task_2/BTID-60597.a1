@@ -1,0 +1,77 @@
+T1	Bacteria 0 11	Spirochaeta
+T2	Bacteria 51 62	Spirochaeta
+T3	Bacteria 177 185	bacteria
+T4	Habitat 241 252	freshwaters
+T5	Habitat 257 270	marine waters
+T6	Habitat 350 376	hot springs in New Zealand
+T7	Geographical 365 376	New Zealand
+T8	Bacteria 406 426	Spirochaeta caldaria
+T9	Habitat 432 469;479 485	cyanobacterial mats of hot springs in Oregon
+T10	Habitat 432 474	cyanobacterial mats of hot springs in Utah
+T11	Habitat 455 466	hot springs
+T12	Geographical 470 474	Utah
+T13	Geographical 479 485	Oregon
+T14	Bacteria 517 540	Spirochaeta thermophila
+T15	Habitat 546 589	marine areas in Shiaskotan Island in Russia
+T16	Geographical 562 579	Shiaskotan Island
+T17	Geographical 583 589	Russia
+T18	Bacteria 619 630	spirochetes
+T19	Bacteria 639 650	S. alkalica
+T20	Bacteria 652 663	S. africana
+T21	Bacteria 665 676	S. asiatica
+T22	Geographical 704 715	Lake Magadi
+T23	Geographical 719 724	Kenya
+T24	Habitat 734 791	sulfide-saturated mud sediments of Lake Khatyn in Siberia
+T25	Geographical 769 780	Lake Khatyn
+T26	Geographical 784 791	Siberia
+T27	Bacteria 880 891	Spirochaeta
+T28	Habitat 930 951	anaerobic bioreactors
+T29	Habitat 961 976	digestive tract
+T30	Habitat 980 988	termites
+T31	Bacteria 1043 1054	Spirochaeta
+T32	Habitat 1144 1158	microorganisms
+T33	Habitat 1254 1258	Cell
+T34	Bacteria 1354 1365	Spirochetes
+T35	Bacteria 1391 1407	Spirochaeta spp.
+T36	Habitat 1437 1444	termite
+T37	Habitat 1437 1448	termite gut
+T38	Bacteria 1529 1540	Spirochaeta
+T39	Bacteria 1581 1589	bacteria
+T40	Habitat 1652 1672	aquatic environments
+T41	Bacteria 1693 1704	Spirochaeta
+T42	Bacteria 1817 1840	Spirochaeta isovalerica
+T43	Bacteria 1917 1928	Spirochaeta
+T44	Bacteria 2068 2079	Spirochaeta
+T45	Habitat 2125 2145	aquatic environments
+T46	Habitat 2159 2164	water
+T47	Habitat 2166 2175;2185 2193	sediments of ponds
+T48	Habitat 2180 2193	muds of ponds
+T49	Habitat 2195 2202	marshes
+T50	Habitat 2204 2209	lakes
+T51	Habitat 2211 2217	rivers
+T52	Habitat 2222 2228	oceans
+T53	Bacteria 2253 2264	Spirochaeta
+T54	Habitat 2301 2315	microorganisms
+T55	Bacteria 2414 2425	Spirochetes
+T56	Habitat 2461 2466	cells
+T57	Bacteria 2575 2583	bacteria
+T58	Bacteria 2681 2689	bacteria
+T59	Bacteria 2768 2790	Spirochaeta plicatilis
+T60	Bacteria 2816 2825	Beggiatoa
+T61	Bacteria 2831 2841	spirochete
+T62	Habitat 2875 2884	trichomes
+T63	Bacteria 2888 2897	Beggiatoa
+T64	Habitat 2940 2949	trichomes
+T65	Bacteria 3004 3013	Beggiatoa
+T66	Bacteria 3046 3056	spirochete
+T67	Bacteria 3106 3126	Spirocheata caldaria
+T68	Bacteria 3176 3184	bacteria
+T69	Bacteria 3186 3210	Clostridium thermocellum
+T70	Bacteria 3212 3232	Spirochaeta caldaria
+T71	Bacteria 3251 3261	spirochete
+T72	Habitat 3275 3296	freshwater hot spring
+T73	Bacteria 3389 3413	Clostridium thermocellum
+T74	Bacteria 3423 3433	spirochete
+T75	Bacteria 3514 3525	Spirochaeta
+T76	Habitat 3580 3607	cellulose-containing wastes
+T77	Habitat 3611 3615	fuel

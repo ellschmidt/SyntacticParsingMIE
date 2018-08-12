@@ -1,0 +1,93 @@
+T1	Bacteria 0 23	Burkholderia xenovorans
+T2	Bacteria 53 76	Burkholderia xenovorans
+T3	Bacteria 95 108	B. fungorumis
+T4	Habitat 247 254	animals
+T5	Habitat 259 265	humans
+T6	Bacteria 267 290	Burkholderia xenovorans
+T7	Bacteria 385 397	Burkholderia
+T8	Bacteria 417 449	LB400 of Burkholderia xenovorans
+T9	Bacteria 534 542	bacteria
+T10	Habitat 546 563	soil environments
+T11	Bacteria 569 581	LB400 strain
+T12	Habitat 693 721	landfill contaminated by PCB
+T13	Geographical 725 733	New York
+T14	Bacteria 753 776	Burkholderia xenovorans
+T15	Habitat 804 808	soil
+T16	Habitat 804 821	soil rhizospheres
+T17	Habitat 836 869	soil area surrounding plant roots
+T18	Habitat 858 869	plant roots
+T19	Habitat 858 863	plant
+T20	Bacteria 980 1003	Burkholderia xenovorans
+T21	Bacteria 1032 1040	bacteria
+T22	Bacteria 1113 1136	Burkholderia xenovorans
+T23	Habitat 1217 1222	roots
+T24	Habitat 1238 1242	root
+T25	Bacteria 1530 1553	Burkholderia xenovorans
+T26	Bacteria 1671 1694	Burkholderia xenovorans
+T27	Habitat 1782 1786	soil
+T28	Habitat 1782 1798	soil rhizosphere
+T29	Bacteria 1812 1835	Burkholderia xenovorans
+T30	Habitat 1848 1852	soil
+T31	Habitat 1848 1865	soil rhizospheres
+T32	Habitat 1888 1900	grass plants
+T33	Bacteria 1906 1929	Burkholderia xenovorans
+T34	Habitat 1989 1995	plants
+T35	Habitat 2009 2027	nitrogen-poor soil
+T36	Habitat 2033 2054	roots of these plants
+T37	Habitat 2048 2054	plants
+T38	Bacteria 2060 2083	Burkholderia xenovorans
+T39	Bacteria 2160 2183	Burkholderia xenovorans
+T40	Habitat 2291 2296	plant
+T41	Bacteria 2312 2335	Burkholderia xenovorans
+T42	Habitat 2373 2379	humans
+T43	Habitat 2383 2390	animals
+T44	Bacteria 2447 2471	Burkholderia cenocepacia
+T45	Habitat 2511 2575	patients with cystic fibrosis and certain granulomatous diseases
+T46	Habitat 2553 2566	granulomatous
+T47	Bacteria 2581 2593	Burkholderia
+T48	Bacteria 2931 2954	Burkholderia xenovorans
+T49	Habitat 3215 3229	microorganisms
+T50	Bacteria 3238 3261	Burkholderia xenovorans
+T51	Habitat 3288 3317	PCB-contaminated environments
+T52	Habitat 3464 3473	microbial
+T53	Bacteria 3589 3597	bacteria
+T54	Habitat 3770 3784	microorganisms
+T55	Bacteria 3833 3856	Burkholderia xenovorans
+T56	Habitat 3920 3947	soil contaminated with PCBs
+T57	Bacteria 3958 3981	Burkholderia xenovorans
+T58	Habitat 4068 4072	soil
+T59	Bacteria 4151 4180	Burkholderia xenovorans LB400
+T60	Bacteria 4185 4212	Rhodococcus sp. strain RHA1
+T61	Bacteria 4340 4348	bacteria
+T62	Bacteria 4477 4485	bacteria
+T63	Habitat 4503 4524	PCB-contaminated soil
+T64	Habitat 4673 4699	PCB-contaminated test soil
+T65	Bacteria 4923 4946	Burkholderia xenovorans
+T66	Bacteria 4989 5024	Pseudomonas sp. strain B4-Magdeburg
+T67	Bacteria 5165 5188	Burkholderia xenovorans
+T68	Habitat 5255 5283	experimental mixture of PCBs
+T69	Bacteria 5707 5746	LB400 strain of Burkholderia xenovorans
+T70	Habitat 5825 5852	PCB-containing soil samples
+R1	Localization Bacterium:T8 Localization:T13
+R2	Localization Bacterium:T1 Localization:T32
+R3	Localization Bacterium:T1 Localization:T15
+R4	Localization Bacterium:T9 Localization:T10
+R5	Localization Bacterium:T1 Localization:T18
+R6	Localization Bacterium:T1 Localization:T35
+R7	Localization Bacterium:T8 Localization:T10
+R8	Localization Bacterium:T1 Localization:T16
+R9	Localization Bacterium:T44 Localization:T45
+R10	Localization Bacterium:T1 Localization:T31
+R11	Localization Bacterium:T1 Localization:T30
+R12	Localization Bacterium:T1 Localization:T34
+R13	Localization Bacterium:T8 Localization:T12
+R14	PartOf Host:T32 Part:T31
+*	Equiv T23 T24
+*	Equiv T28 T16 T31
+*	Equiv T56 T63
+*	Equiv T58 T10
+*	Equiv T27 T15 T30
+*	Equiv T67 T39 T48 T20 T1 T14 T41 T38 T22 T29 T55 T50 T2 T6 T33 T65 T57 T25 T26
+*	Equiv T8 T11 T59 T69
+*	Equiv T7 T47
+*	Equiv T37 T34

@@ -1,0 +1,12 @@
+T1	Habitat 262 276	Ixodes ricinus
+T2	Habitat 329 333	tick
+T3	Habitat 427 430	leg
+T4	Habitat 435 439	back
+T5	Habitat 597 616	cerebrospinal fluid
+T6	Habitat 622 651	patient with neuroborreliosis
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000358
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001118
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001075
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000996
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000254
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001607

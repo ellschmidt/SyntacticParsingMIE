@@ -1,0 +1,23 @@
+T1	Bacteria 0 23	Vibrio parahaemolyticus
+T2	Bacteria 24 47	Vibrio parahaemolyticus
+T3	Habitat 55 59	food
+T4	Bacteria 82 89	Vibrios
+T5	Bacteria 118 126	bacteria
+T6	Bacteria 165 183	Enterobacteriaceae
+T7	Habitat 208 214	oceans
+T8	Habitat 216 230	coastal waters
+T9	Habitat 236 245	estuaries
+T10	Bacteria 247 270	Vibrio parahaemolyticus
+T11	Habitat 367 381	coastal waters
+T12	Bacteria 485 508	Vibrio parahaemolyticus
+T13	Habitat 516 520	food
+T14	Habitat 563 570	stomach
+T15	Habitat 575 590	small intestine
+T16	Habitat 597 603	people
+T17	Habitat 662 668	fluids
+T18	Bacteria 674 692	bacterial pathogen
+T19	Geographical 717 730	North America
+T20	Habitat 761 768	seafood
+T21	Habitat 840 844	skin
+T22	Habitat 853 863	open wound
+T23	Habitat 878 891	warm seawater

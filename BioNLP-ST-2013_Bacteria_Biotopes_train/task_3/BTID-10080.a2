@@ -1,0 +1,46 @@
+T1	Bacteria 0 30	Bifidobacterium longum NCC2705
+T2	Bacteria 43 58	Bifidobacterium
+T3	Habitat 113 118	human
+T4	Habitat 113 141	human gastrointestinal tract
+T5	Habitat 143 146	GIT
+T6	Habitat 218 228	intestinal
+T7	Habitat 453 456	GIT
+T8	Bacteria 501 515	bifidobacteria
+T9	Bacteria 674 688	bifidobacteria
+T10	Habitat 717 726	mammalian
+T11	Habitat 717 730	mammalian GIT
+T12	Habitat 750 757;767 773	vaginal cavity
+T13	Habitat 762 773	oral cavity
+T14	Bacteria 819 834	Actinomycetales
+T15	Bacteria 846 889	Gram-positive bacteria with high GC content
+T16	Bacteria 909 923	Corynebacteria
+T17	Bacteria 925 937	Mycobacteria
+T18	Bacteria 943 957	Streptomycetes
+T19	Bacteria 971 993	Bifidobacterium longum
+T20	Habitat 1021 1033	adult humans
+T21	Habitat 1038 1057	formula fed infants
+T22	Habitat 1038 1045	formula
+T23	Habitat 1083 1086	gut
+T24	Bacteria 1106 1143	Bifidobacterium longum strain NCC2705
+T25	Habitat 1175 1181	infant
+T26	Habitat 1175 1187	infant feces
+R1	Localization Bacterium:T2 Localization:T3
+R2	Localization Bacterium:T2 Localization:T10
+R3	Localization Bacterium:T19 Localization:T23
+R4	Localization Bacterium:T1 Localization:T25
+R5	Localization Bacterium:T19 Localization:T20
+R6	Localization Bacterium:T2 Localization:T4
+R7	Localization Bacterium:T2 Localization:T13
+R8	Localization Bacterium:T2 Localization:T11
+R9	Localization Bacterium:T1 Localization:T26
+R10	Localization Bacterium:T2 Localization:T12
+R11	Localization Bacterium:T19 Localization:T21
+R12	PartOf Host:T25 Part:T26
+R13	PartOf Host:T10 Part:T12
+R14	PartOf Host:T3 Part:T4
+R15	PartOf Host:T10 Part:T13
+R16	PartOf Host:T10 Part:T11
+R17	PartOf Host:T20 Part:T23
+R18	PartOf Host:T21 Part:T23
+*	Equiv T24 T1
+*	Equiv T2 T9 T8

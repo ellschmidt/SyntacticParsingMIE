@@ -1,0 +1,177 @@
+T1	Bacteria 0 18	Campylobacter coli
+T2	Bacteria 48 66	Campylobacter coli
+T3	Bacteria 68 75	C. coli
+T4	Bacteria 119 140	epsilonproteobacteria
+T5	Habitat 164 237	S-shaped curved, somewhat rod-shaped cell, about 0.2-0.5 micrometers long
+T6	Habitat 310 337	intestinal tract of animals
+T7	Habitat 330 337	animals
+T8	Bacteria 346 354	bacteria
+T9	Habitat 368 389	intestinal epithelium
+T10	Habitat 429 445	epithelial layer
+T11	Habitat 467 478	bloodstream
+T12	Bacteria 483 490	C. coli
+T13	Bacteria 514 522	bacteria
+T14	Bacteria 533 553	Campylobacter jejuni
+T15	Bacteria 555 564	C. jejuni
+T16	Habitat 598 607	intestine
+T17	Habitat 639 646	animals
+T18	Habitat 651 657	humans
+T19	Habitat 664 669	human
+T20	Bacteria 708 717	C. jejuni
+T21	Bacteria 725 732	C. coli
+T22	Habitat 925 955	patients with severe infection
+T23	Bacteria 1056 1063	C. coli
+T24	Habitat 1089 1093	pigs
+T25	Habitat 1095 1100	birds
+T26	Habitat 1106 1119	surface water
+T27	Bacteria 1256 1262	C.coli
+T28	Bacteria 1267 1275	C.jejuni
+T29	Habitat 1281 1285	Cell
+T30	Bacteria 1311 1318	C. coli
+T31	Bacteria 1348 1356	bacteria
+T32	Bacteria 1485 1492	C. coli
+T33	Habitat 1733 1742	intestine
+T34	Habitat 1802 1818	intestinal tract
+T35	Bacteria 1829 1836	C. coli
+T36	Habitat 1962 1975	complex media
+T37	Habitat 2008 2045	extra growth medium such as glutamate
+T38	Habitat 2008 2035;2047 2056	extra growth medium such as glutamine
+T39	Habitat 2008 2035;2058 2077	extra growth medium such as alpha-ketoglutarate
+T40	Habitat 2008 2035;2082 2089	extra growth medium such as formate
+T41	Bacteria 2099 2106	C. coli
+T42	Bacteria 2352 2359	C. coli
+T43	Bacteria 2399 2407	bacteria
+T44	Bacteria 2418 2427	C. jejuni
+T45	Habitat 2520 2529	intestine
+T46	Geographical 2537 2550	United States
+T47	Bacteria 2573 2579	C.coli
+T48	Habitat 2605 2609	pigs
+T49	Habitat 2611 2616	birds
+T50	Habitat 2621 2648	environmental surface water
+T51	Habitat 2670 2675	birds
+T52	Bacteria 2701 2710	C. jejuni
+T53	Bacteria 2730 2737	C. coli
+T54	Bacteria 2757 2764	C. coli
+T55	Habitat 2817 2822	birds
+T56	Habitat 2824 2863	Birds that are feeding on invertebrates
+T57	Habitat 2865 2886	opportunistic feeders
+T58	Habitat 2892 2921	birds that have a larger mass
+T59	Geographical 2981 2987	Europe
+T60	Geographical 2996 3002	Africa
+T61	Geographical 3008 3019	Middle East
+T62	Geographical 3024 3028	Asia
+T63	Bacteria 3044 3051	C. coli
+T64	Habitat 3069 3076	animals
+T65	Habitat 3081 3087	humans
+T66	Habitat 3089 3095	People
+T67	Habitat 3127 3134	poultry
+T68	Bacteria 3154 3162	bacteria
+T69	Habitat 3171 3179	raw food
+T70	Habitat 3190 3198	raw milk
+T71	Habitat 3213 3225	bottle water
+T72	Bacteria 3257 3265	bacteria
+T73	Bacteria 3314 3322	bacteria
+T74	Habitat 3411 3415	cell
+T75	Habitat 3434 3438	cell
+T76	Habitat 3498 3525	intestinal tract of animals
+T77	Habitat 3498 3517;3530 3536	intestinal tract of humans
+T78	Habitat 3518 3525	animals
+T79	Habitat 3530 3536	humans
+T80	Bacteria 3577 3585	bacteria
+T81	Habitat 3600 3621	intestinal epithelium
+T82	Habitat 3661 3677	epithelial layer
+T83	Habitat 3698 3709	bloodstream
+T84	Habitat 3714 3722	Patients
+T85	Bacteria 3728 3735	C. coli
+T86	Habitat 3763 3772	abdominal
+T87	Habitat 3790 3802	bloody stool
+T88	Geographical 4083 4131	Department of Population Health and Pathobiology
+T89	Geographical 4133 4163	College of Veterinary Medicine
+T90	Geographical 4165 4196	North Carolina State University
+T91	Bacteria 4272 4279	C. coli
+T92	Habitat 4330 4334	farm
+T93	Habitat 4339 4354	slaughter plant
+T94	Habitat 4390 4397	poultry
+T95	Geographical 4415 4421	Europe
+T96	Geographical 4438 4440	US
+T97	Habitat 4464 4468	pigs
+T98	Habitat 4519 4525	animal
+T99	Habitat 4565 4569	farm
+T100	Bacteria 4636 4643	C. coli
+T101	Habitat 4764 4772	ABF pigs
+T102	Geographical 4780 4783	USA
+T103	Bacteria 5076 5085	C. jejuni
+T104	Bacteria 5090 5096	C.coli
+T105	Habitat 5181 5193	chicken meat
+T106	Bacteria 5293 5306	Campylobacter
+T107	Geographical 5310 5312	US
+T108	Habitat 5310 5325	US dairy cattle
+T109	Habitat 5327 5332	Feces
+T110	Habitat 5351 5355	cows
+T111	Bacteria 5373 5382	C. jejuni
+T112	Bacteria 5387 5394	C. coli
+T113	Bacteria 5425 5432	C. coli
+T114	Bacteria 5452 5461	C. jejuni
+T115	Bacteria 5640 5649	C. jejuni
+T116	Bacteria 5706 5713	C. coli
+T117	Bacteria 5802 5820	Campylobacter coli
+R1	Localization Bacteria:T1 Localization:T105
+R2	Localization Bacteria:T1 Localization:T110
+R3	Localization Bacteria:T1 Localization:T71
+R4	Localization Bacteria:T1 Localization:T33
+R5	Localization Bacteria:T1 Localization:T18
+R6	Localization Bacteria:T1 Localization:T109
+R7	Localization Bacteria:T1 Localization:T58
+R8	Localization Bacteria:T1 Localization:T26
+R9	Localization Bacteria:T1 Localization:T64
+R10	Localization Bacteria:T1 Localization:T70
+R11	Localization Bacteria:T1 Localization:T84
+R12	Localization Bacteria:T1 Localization:T67
+R13	Localization Bacteria:T1 Localization:T59
+R14	Localization Bacteria:T1 Localization:T9
+R15	Localization Bacteria:T1 Localization:T60
+R16	Localization Bacteria:T1 Localization:T79
+R17	Localization Bacteria:T1 Localization:T51
+R18	Localization Bacteria:T1 Localization:T10
+R19	Localization Bacteria:T1 Localization:T78
+R20	Localization Bacteria:T1 Localization:T57
+R21	Localization Bacteria:T1 Localization:T76
+R22	Localization Bacteria:T1 Localization:T56
+R23	Localization Bacteria:T1 Localization:T34
+R24	Localization Bacteria:T1 Localization:T82
+R25	Localization Bacteria:T1 Localization:T25
+R26	Localization Bacteria:T1 Localization:T81
+R27	Localization Bacteria:T1 Localization:T97
+R28	Localization Bacteria:T1 Localization:T6
+R30	Localization Bacteria:T1 Localization:T7
+R34	Localization Bacteria:T1 Localization:T11
+R35	Localization Bacteria:T14 Localization:T109
+R36	Localization Bacteria:T14 Localization:T17
+R37	Localization Bacteria:T1 Localization:T17
+R38	Localization Bacteria:T14 Localization:T18
+R39	Localization Bacteria:T14 Localization:T19
+R40	Localization Bacteria:T1 Localization:T19
+R41	Localization Bacteria:T14 Localization:T22
+R42	Localization Bacteria:T1 Localization:T24
+R43	Localization Bacteria:T1 Localization:T48
+R44	Localization Bacteria:T1 Localization:T49
+R45	Localization Bacteria:T1 Localization:T50
+R46	Localization Bacteria:T14 Localization:T51
+R47	Localization Bacteria:T1 Localization:T55
+R48	Localization Bacteria:T1 Localization:T61
+R49	Localization Bacteria:T1 Localization:T62
+R50	Localization Bacteria:T63 Localization:T77
+R51	Localization Bacteria:T1 Localization:T65
+R52	Localization Bacteria:T1 Localization:T66
+R53	Localization Bacteria:T1 Localization:T69
+R60	Localization Bacteria:T1 Localization:T83
+R63	Localization Bacteria:T100 Localization:T101
+R64	Localization Bacteria:T100 Localization:T102
+R65	Localization Bacteria:T14 Localization:T105
+R66	Localization Bacteria:T106 Localization:T108
+R67	Localization Bacteria:T106 Localization:T107
+R68	Localization Bacteria:T14 Localization:T110
+*	Equiv T1 T2 T3 T12 T21 T23 T30 T32 T35 T42 T47 T53 T54 T63 T85 T91 T104 T112
+*	Equiv T14 T15 T20 T44 T52 T103 T111
+*	Equiv T24 T48
+*	Equiv T25 T49

@@ -1,0 +1,268 @@
+T1	Habitat 221 255	normal, free-living microorganisms
+T2	Habitat 263 267	soil
+T3	Habitat 342 349	legumes
+T4	Habitat 480 495	roots of plants
+T5	Habitat 489 495	plants
+T6	Habitat 506 511	cells
+T7	Habitat 620 638	cytoplasmic bridge
+T8	Habitat 674 701	cytoplasm of the root cells
+T9	Habitat 844 871	cytoplasm of the root cells
+T10	Habitat 919 930	atmospheric
+T11	Habitat 1097 1101	soil
+T12	Habitat 1144 1155	fertilizers
+T13	Habitat 1216 1223	nodules
+T14	Habitat 1228 1232	soil
+T15	Habitat 1253 1259	plants
+T16	Habitat 1272 1280	Medicago
+T17	Habitat 1282 1289	alfalfa
+T18	Habitat 1294 1303;1315 1321	perennial medics
+T19	Habitat 1308 1321	annual medics
+T20	Habitat 1324 1333	Melilotus
+T21	Habitat 1335 1347	sweet clover
+T22	Habitat 1354 1364	Trigonella
+T23	Habitat 1366 1375	fenugreek
+T24	Habitat 1464 1479	microbiologists
+T25	Habitat 1514 1527	root surfaces
+T26	Habitat 1592 1598	legume
+T27	Habitat 2049 2054	plant
+T28	Habitat 2244 2249	plant
+T29	Habitat 2426 2431	plant
+T30	Habitat 2618 2651	researchers from around the world
+T31	Habitat 2653 2657	Cell
+T32	Habitat 2768 2772	soil
+T33	Habitat 2783 2809	roots of leguminous plants
+T34	Habitat 2792 2809	leguminous plants
+T35	Habitat 3053 3057	soil
+T36	Habitat 3066 3103	nodules formed on the roots of plants
+T37	Habitat 3097 3103	plants
+T38	Habitat 3116 3120	soil
+T39	Habitat 3170 3174	cell
+T40	Habitat 3223 3230	nodules
+T41	Habitat 3328 3353	highly acidic environment
+T42	Habitat 3571 3575	soil
+T43	Habitat 3609 3615	nodule
+T44	Habitat 3609 3627	nodule environment
+T45	Habitat 3706 3727	root cells of legumes
+T46	Habitat 3720 3727	legumes
+T47	Habitat 3792 3803	atmospheric
+T48	Habitat 3839 3849	root cells
+T49	Habitat 3870 3875	plant
+T50	Habitat 3870 3881	plant cells
+T51	Habitat 4263 4274	atmospheric
+T52	Habitat 4307 4324	leguminous plants
+T53	Habitat 4826 4831	cells
+T54	Habitat 5087 5092	cells
+T55	Habitat 5232 5236	soil
+T56	Habitat 5325 5330	plant
+T57	Habitat 5420 5430	atmosphere
+T58	Habitat 5601 5611	atmosphere
+T59	Habitat 5669 5675	plants
+T60	Habitat 5680 5687	animals
+T61	Habitat 5803 5820	leguminous plants
+T62	Habitat 5897 5903	plants
+T63	Habitat 6477 6488	acidic rain
+T64	Habitat 6513 6524	ozone layer
+T65	Habitat 6758 6767	microbial
+T66	Habitat 6836 6846	wastewater
+T67	Habitat 6848 6873	Nitrogen-rich fertilizers
+T68	Habitat 6911 6923	ground water
+T69	Habitat 6934 6939	water
+T70	Habitat 6968 6982	pregnant women
+T71	Habitat 6987 6994	infants
+T72	Habitat 7004 7014	scientists
+T73	Habitat 7037 7046	microbial
+T74	Habitat 7066 7092	water treatment facilities
+T75	Habitat 7066 7071	water
+T76	Habitat 7179 7183	soil
+T77	Habitat 7248 7254	plants
+T78	Habitat 7355 7372	leguminous plants
+T79	Habitat 7716 7727	acidic rain
+T80	Habitat 7745 7756	ozone layer
+T81	Habitat 7992 8007	microbiologists
+T82	Habitat 8025 8031	plants
+T83	Habitat 8151 8160	microbial
+T84	Habitat 8207 8212	plant
+T85	Habitat 8213 8220	microbe
+T86	Habitat 8235 8246	researchers
+T87	Habitat 8338 8344	plants
+T88	Habitat 8403 8417	root of plants
+T89	Habitat 8411 8417	plants
+T90	Habitat 8485 8499	microorganisms
+T91	Habitat 8519 8530	root region
+T92	Habitat 8571 8582	root region
+T93	Habitat 8698 8705	legumes
+T94	Habitat 8727 8747	microbial ecologists
+T95	Habitat 8873 8877	root
+T96	Habitat 8885 8889	soil
+T97	Habitat 8928 8934	plants
+T98	Habitat 9120 9125	plant
+T99	Habitat 9120 9131	plant roots
+T100	Habitat 9143 9147	soil
+T101	Habitat 9296 9301	plant
+T102	Habitat 9423 9437	drinking water
+T103	Habitat 9573 9599	water treatment facilities
+T104	Habitat 9573 9578	water
+T105	Habitat 9621 9628	filters
+T106	Habitat 9775 9807	undifferentiated cells of plants
+T107	Habitat 9801 9807	plants
+T108	Habitat 9836 9842	plants
+T109	Habitat 9880 9899	team of researchers
+T110	Habitat 9919 9924	plant
+T111	Habitat 10046 10052	legume
+T112	Habitat 10046 10058	legume roots
+T113	Habitat 10090 10094	team
+T114	Habitat 10277 10292	nodule meristem
+T115	Habitat 10369 10399	proliferating meristemic cells
+T116	Habitat 10432 10438	plants
+T117	Habitat 10546 10551	human
+T118	Habitat 10546 10557	human cells
+T119	Habitat 10572 10585	research team
+T120	Habitat 10716 10721	cells
+T121	Habitat 10793 10811	nutrient-poor soil
+T122	Habitat 10817 10822	plant
+T123	Habitat 10817 10834	plant rhizosphere
+T124	Habitat 10844 10866	inside of root nodules
+T125	Habitat 11040 11067	notable institutes in China
+T126	Habitat 11285 11291	nodule
+T127	Habitat 11379 11393	Alfalfa plants
+T128	Habitat 11480 11499	nifA mutant nodules
+T129	Habitat 11665 11672	Alfalfa
+T130	Habitat 11665 11680	Alfalfa nodules
+T131	Habitat 11820 11842	root nodules of plants
+T132	Habitat 11836 11842	plants
+T133	Habitat 12065 12070	cells
+T134	Habitat 12120 12131	Researchers
+N1	Reference Annotation:T1 Reference:MBTO:00002041	free-living microorganism
+N2	Reference Annotation:T2 Reference:MBTO:00000156	soil
+N3	Reference Annotation:T3 Reference:MBTO:00002054	Leguminosae
+N4	Reference Annotation:T4 Reference:MBTO:00000874	root
+N5	Reference Annotation:T5 Reference:MBTO:00000410	plant
+N6	Reference Annotation:T6 Reference:MBTO:00000805	cell
+N7	Reference Annotation:T7 Reference:MBTO:00002073	cell part
+N8	Reference Annotation:T8 Reference:MBTO:00000811	cytoplasm
+N9	Reference Annotation:T9 Reference:MBTO:00002073	cell part
+N10	Reference Annotation:T10 Reference:MBTO:00000784	air
+N11	Reference Annotation:T11 Reference:MBTO:00000156	soil
+N12	Reference Annotation:T12 Reference:MBTO:00002052	fertilizer
+N13	Reference Annotation:T13 Reference:MBTO:00000510	root nodule
+N14	Reference Annotation:T14 Reference:MBTO:00000156	soil
+N15	Reference Annotation:T15 Reference:MBTO:00000410	plant
+N16	Reference Annotation:T16 Reference:MBTO:00002047	terrestrial plant
+N17	Reference Annotation:T17 Reference:MBTO:00002062	Alfalfa
+N18	Reference Annotation:T18 Reference:MBTO:00002047	terrestrial plant
+N19	Reference Annotation:T19 Reference:MBTO:00002047	terrestrial plant
+N20	Reference Annotation:T20 Reference:MBTO:00001774	sweet clover
+N21	Reference Annotation:T21 Reference:MBTO:00001774	sweet clover
+N22	Reference Annotation:T22 Reference:MBTO:00002054	Leguminosae
+N23	Reference Annotation:T23 Reference:MBTO:00002054	Leguminosae
+N24	Reference Annotation:T24 Reference:MBTO:00001044	human
+N25	Reference Annotation:T25 Reference:MBTO:00002057	root part
+N26	Reference Annotation:T26 Reference:MBTO:00002054	Leguminosae
+N27	Reference Annotation:T27 Reference:MBTO:00000410	plant
+N28	Reference Annotation:T28 Reference:MBTO:00000410	plant
+N29	Reference Annotation:T29 Reference:MBTO:00000410	plant
+N30	Reference Annotation:T30 Reference:MBTO:00001989	researcher
+N31	Reference Annotation:T31 Reference:MBTO:00000805	cell
+N32	Reference Annotation:T32 Reference:MBTO:00000156	soil
+N33	Reference Annotation:T33 Reference:MBTO:00000874	root
+N34	Reference Annotation:T34 Reference:MBTO:00002054	Leguminosae
+N35	Reference Annotation:T35 Reference:MBTO:00000156	soil
+N36	Reference Annotation:T36 Reference:MBTO:00000510	root nodule
+N37	Reference Annotation:T37 Reference:MBTO:00000410	plant
+N38	Reference Annotation:T38 Reference:MBTO:00000156	soil
+N39	Reference Annotation:T39 Reference:MBTO:00000805	cell
+N40	Reference Annotation:T40 Reference:MBTO:00000510	root nodule
+N41	Reference Annotation:T41 Reference:MBTO:00002059	highly acid habitat
+N42	Reference Annotation:T42 Reference:MBTO:00000156	soil
+N43	Reference Annotation:T43 Reference:MBTO:00000510	root nodule
+N44	Reference Annotation:T44 Reference:MBTO:00000407	rhizosphere
+N45	Reference Annotation:T45 Reference:MBTO:00000805	cell
+N46	Reference Annotation:T46 Reference:MBTO:00002054	Leguminosae
+N47	Reference Annotation:T47 Reference:MBTO:00000784	air
+N48	Reference Annotation:T48 Reference:MBTO:00000805	cell
+N49	Reference Annotation:T49 Reference:MBTO:00000410	plant
+N50	Reference Annotation:T50 Reference:MBTO:00000805	cell
+N51	Reference Annotation:T51 Reference:MBTO:00000784	air
+N52	Reference Annotation:T52 Reference:MBTO:00002054	Leguminosae
+N53	Reference Annotation:T53 Reference:MBTO:00000805	cell
+N54	Reference Annotation:T54 Reference:MBTO:00000805	cell
+N55	Reference Annotation:T55 Reference:MBTO:00000156	soil
+N56	Reference Annotation:T56 Reference:MBTO:00000410	plant
+N57	Reference Annotation:T57 Reference:MBTO:00000784	air
+N58	Reference Annotation:T58 Reference:MBTO:00000784	air
+N59	Reference Annotation:T59 Reference:MBTO:00000410	plant
+N60	Reference Annotation:T60 Reference:MBTO:00000409	animal
+N61	Reference Annotation:T61 Reference:MBTO:00002054	Leguminosae
+N62	Reference Annotation:T62 Reference:MBTO:00000410	plant
+N63	Reference Annotation:T63 Reference:MBTO:00001509	rainwater
+N64	Reference Annotation:T64 Reference:MBTO:00000784	air
+N65	Reference Annotation:T65 Reference:MBTO:00001971	microorganism
+N66	Reference Annotation:T66 Reference:MBTO:00000157	waste water
+N67	Reference Annotation:T67 Reference:MBTO:00002052	fertilizer
+N68	Reference Annotation:T68 Reference:MBTO:00000179	ground water
+N69	Reference Annotation:T69 Reference:MBTO:00001503	environment water
+N70	Reference Annotation:T70 Reference:MBTO:00002060	pregnant woman
+N71	Reference Annotation:T71 Reference:MBTO:00001050	infant
+N72	Reference Annotation:T72 Reference:MBTO:00001005	adult human
+N73	Reference Annotation:T73 Reference:MBTO:00001971	microorganism
+N74	Reference Annotation:T74 Reference:MBTO:00002061	drinking water facility
+N75	Reference Annotation:T75 Reference:MBTO:00000298	drinking water
+N76	Reference Annotation:T76 Reference:MBTO:00000156	soil
+N77	Reference Annotation:T77 Reference:MBTO:00000410	plant
+N78	Reference Annotation:T78 Reference:MBTO:00002054	Leguminosae
+N79	Reference Annotation:T79 Reference:MBTO:00001509	rainwater
+N80	Reference Annotation:T80 Reference:MBTO:00000784	air
+N81	Reference Annotation:T81 Reference:MBTO:00001005	adult human
+N82	Reference Annotation:T82 Reference:MBTO:00000410	plant
+N83	Reference Annotation:T83 Reference:MBTO:00001971	microorganism
+N84	Reference Annotation:T84 Reference:MBTO:00000410	plant
+N85	Reference Annotation:T85 Reference:MBTO:00001971	microorganism
+N86	Reference Annotation:T86 Reference:MBTO:00001989	researcher
+N87	Reference Annotation:T87 Reference:MBTO:00000410	plant
+N88	Reference Annotation:T88 Reference:MBTO:00000874	root
+N89	Reference Annotation:T89 Reference:MBTO:00000410	plant
+N90	Reference Annotation:T90 Reference:MBTO:00001971	microorganism
+N91	Reference Annotation:T91 Reference:MBTO:00000407	rhizosphere
+N92	Reference Annotation:T92 Reference:MBTO:00000407	rhizosphere
+N93	Reference Annotation:T93 Reference:MBTO:00002054	Leguminosae
+N94	Reference Annotation:T94 Reference:MBTO:00001005	adult human
+N95	Reference Annotation:T95 Reference:MBTO:00000874	root
+N96	Reference Annotation:T96 Reference:MBTO:00000156	soil
+N97	Reference Annotation:T97 Reference:MBTO:00000410	plant
+N98	Reference Annotation:T98 Reference:MBTO:00000410	plant
+N99	Reference Annotation:T99 Reference:MBTO:00000874	root
+N100	Reference Annotation:T100 Reference:MBTO:00000156	soil
+N101	Reference Annotation:T101 Reference:MBTO:00000410	plant
+N102	Reference Annotation:T102 Reference:MBTO:00000298	drinking water
+N103	Reference Annotation:T103 Reference:MBTO:00002061	drinking water facility
+N104	Reference Annotation:T104 Reference:MBTO:00000298	drinking water
+N105	Reference Annotation:T105 Reference:MBTO:00002061	drinking water facility
+N106	Reference Annotation:T106 Reference:MBTO:00000805	cell
+N107	Reference Annotation:T107 Reference:MBTO:00000410	plant
+N108	Reference Annotation:T108 Reference:MBTO:00000410	plant
+N109	Reference Annotation:T109 Reference:MBTO:00001005	adult human
+N110	Reference Annotation:T110 Reference:MBTO:00000410	plant
+N111	Reference Annotation:T111 Reference:MBTO:00002054	Leguminosae
+N112	Reference Annotation:T112 Reference:MBTO:00000874	root
+N113	Reference Annotation:T113 Reference:MBTO:00001005	adult human
+N114	Reference Annotation:T114 Reference:MBTO:00001732	meristem
+N115	Reference Annotation:T115 Reference:MBTO:00000805	cell
+N116	Reference Annotation:T116 Reference:MBTO:00000410	plant
+N117	Reference Annotation:T117 Reference:MBTO:00001044	human
+N118	Reference Annotation:T118 Reference:MBTO:00000805	cell
+N119	Reference Annotation:T119 Reference:MBTO:00001005	adult human
+N120	Reference Annotation:T120 Reference:MBTO:00000805	cell
+N121	Reference Annotation:T121 Reference:MBTO:00000156	soil
+N122	Reference Annotation:T122 Reference:MBTO:00000410	plant
+N123	Reference Annotation:T123 Reference:MBTO:00000407	rhizosphere
+N124	Reference Annotation:T124 Reference:MBTO:00002057	root part
+N125	Reference Annotation:T125 Reference:MBTO:00001990	research and study center
+N126	Reference Annotation:T126 Reference:MBTO:00000510	root nodule
+N127	Reference Annotation:T127 Reference:MBTO:00002062	Alfalfa
+N128	Reference Annotation:T128 Reference:MBTO:00000510	root nodule
+N129	Reference Annotation:T129 Reference:MBTO:00002062	Alfalfa
+N130	Reference Annotation:T130 Reference:MBTO:00000510	root nodule
+N131	Reference Annotation:T131 Reference:MBTO:00000510	root nodule
+N132	Reference Annotation:T132 Reference:MBTO:00000410	plant
+N133	Reference Annotation:T133 Reference:MBTO:00000805	cell
+N134	Reference Annotation:T134 Reference:MBTO:00001989	researcher

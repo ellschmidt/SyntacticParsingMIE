@@ -1,0 +1,14 @@
+T1	Habitat 184 213	thermal spring in New Zealand
+T2	Habitat 364 368	guar
+T3	Habitat 364 372	guar gum
+T4	Habitat 718 725	biofuel
+T5	Habitat 803 817	microorganisms
+T6	Habitat 1516 1524	microbes
+T7	Habitat 1767 1776	microbial
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001206
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001475
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001006
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001647
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001516
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001516
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001516

@@ -1,0 +1,43 @@
+T1	Bacteria 0 24	Geobacillus kaustophilus
+T2	Bacteria 32 43;53 65	Geobacillus kaustophilus
+T3	Habitat 100 107	microbe
+T4	Habitat 130 169	deep-sea sediment of the Mariana Trench
+T5	Habitat 130 138	deep-sea
+T6	Geographical 155 169	Mariana Trench
+T7	Bacteria 288 296	Bacillus
+T8	Habitat 399 404	earth
+T9	Habitat 408 412	soil
+T10	Bacteria 536 544	bacteria
+T11	Bacteria 546 570	Geobacillus kaustophilus
+T12	Habitat 579 599	aquatic environments
+T13	Bacteria 628 639	Geobacillus
+T14	Habitat 661 681	petroleum reservoirs
+T15	Habitat 686 708	cool soil environments
+T16	Bacteria 729 740	Geobacillus
+T17	Habitat 795 802	microbe
+T18	Bacteria 1012 1020	bacteria
+T19	Bacteria 1039 1060	Geobacillus strain T1
+T20	Bacteria 1128 1136	bacteria
+T21	Habitat 1257 1263	bodies
+T22	Habitat 1654 1674	diagnostic equipment
+T23	Habitat 1778 1792	diary products
+T24	Habitat 1800 1828	medicine to help digest food
+T25	Habitat 1824 1828	food
+T26	Bacteria 1928 1949	Geobacillus strain T1
+T27	Bacteria 2255 2279	Geobacillus kaustophilus
+T28	Habitat 2402 2406	food
+T29	Bacteria 2528 2552	Geobacillus kaustophilus
+T30	Habitat 2640 2644	food
+T31	Bacteria 2724 2748	Geobacillus kaustophilus
+T32	Bacteria 2773 2784	Geobacillus
+T33	Bacteria 2962 2973	Geobacillus
+T34	Bacteria 3040 3051	Geobacillus
+T35	Bacteria 3161 3186	Geobacillus sp. strain T1
+T36	Bacteria 3205 3230	Geobacillus sp. Strain T1
+T37	Bacteria 3231 3239	bacteria
+T38	Habitat 3258 3280	Palm Oil Mill Effluent
+T39	Habitat 3258 3266	Palm Oil
+T40	Habitat 3258 3271	Palm Oil Mill
+T41	Habitat 3515 3547	medicines for digestive problems
+T42	Habitat 3578 3592	dairy products
+T43	Habitat 3679 3705	high temperature equipment

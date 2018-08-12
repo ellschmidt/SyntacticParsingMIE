@@ -1,0 +1,40 @@
+T1	Habitat 146 171	soybean plant Glycine max
+T2	Habitat 240 247	legumes
+T3	Habitat 287 298	root nodule
+T4	Habitat 287 291	root
+T5	Habitat 397 402	plant
+T6	Habitat 397 407	plant cell
+T7	Habitat 602 606	root
+T8	Habitat 762 767	plant
+T9	Habitat 798 803	plant
+T10	Habitat 838 849	root nodule
+T11	Habitat 838 842	root
+T12	Habitat 908 921	cortical cell
+T13	Habitat 949 973	membrane bound organelle
+T14	Habitat 985 995	symbiosome
+T15	Habitat 1112 1117	plant
+T16	Habitat 1202 1217	Glycine hispida
+T17	Habitat 1328 1336	soybeans
+T18	Habitat 1460 1471	root nodule
+T19	Habitat 1460 1464	root
+T20	Habitat 1940 1947	soybean
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001967
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000071
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000569
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001374
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00002027
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001852
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001374
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00002027
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00002027
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000569
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001374
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001852
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001214
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001277
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00002027
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001967
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001967
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000569
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001374
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001967

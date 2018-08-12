@@ -1,0 +1,71 @@
+T1	Habitat 247 254	animals
+T2	Habitat 259 265	humans
+T3	Habitat 546 563	soil environments
+T4	Habitat 693 721	landfill contaminated by PCB
+T5	Habitat 804 808	soil
+T6	Habitat 804 821	soil rhizospheres
+T7	Habitat 836 869	soil area surrounding plant roots
+T8	Habitat 858 869	plant roots
+T9	Habitat 858 863	plant
+T10	Habitat 1217 1222	roots
+T11	Habitat 1238 1242	root
+T12	Habitat 1782 1786	soil
+T13	Habitat 1782 1798	soil rhizosphere
+T14	Habitat 1848 1852	soil
+T15	Habitat 1848 1865	soil rhizospheres
+T16	Habitat 1888 1900	grass plants
+T17	Habitat 1989 1995	plants
+T18	Habitat 2009 2027	nitrogen-poor soil
+T19	Habitat 2033 2054	roots of these plants
+T20	Habitat 2048 2054	plants
+T21	Habitat 2291 2296	plant
+T22	Habitat 2373 2379	humans
+T23	Habitat 2383 2390	animals
+T24	Habitat 2511 2575	patients with cystic fibrosis and certain granulomatous diseases
+T25	Habitat 2553 2566	granulomatous
+T26	Habitat 3215 3229	microorganisms
+T27	Habitat 3288 3317	PCB-contaminated environments
+T28	Habitat 3464 3473	microbial
+T29	Habitat 3770 3784	microorganisms
+T30	Habitat 3920 3947	soil contaminated with PCBs
+T31	Habitat 4068 4072	soil
+T32	Habitat 4503 4524	PCB-contaminated soil
+T33	Habitat 4673 4699	PCB-contaminated test soil
+T34	Habitat 5255 5283	experimental mixture of PCBs
+T35	Habitat 5825 5852	PCB-containing soil samples
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001660
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001773
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000273
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001773
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001504
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001504
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001374
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00002027
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001374
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001374
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001773
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001504
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001773
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001504
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000841
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00002027
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001244
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001374
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00002027
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00002027
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001402
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00001660
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000387
+N25	OntoBiotope Annotation:T24 Referent:MBTO:00001385
+N26	OntoBiotope Annotation:T25 Referent:MBTO:00000409
+N27	OntoBiotope Annotation:T26 Referent:MBTO:00001516
+N28	OntoBiotope Annotation:T27 Referent:MBTO:00000763
+N29	OntoBiotope Annotation:T28 Referent:MBTO:00001516
+N30	OntoBiotope Annotation:T29 Referent:MBTO:00001516
+N31	OntoBiotope Annotation:T30 Referent:MBTO:00000905
+N32	OntoBiotope Annotation:T31 Referent:MBTO:00001773
+N33	OntoBiotope Annotation:T32 Referent:MBTO:00000905
+N34	OntoBiotope Annotation:T33 Referent:MBTO:00000905
+N35	OntoBiotope Annotation:T34 Referent:MBTO:00000026
+N36	OntoBiotope Annotation:T35 Referent:MBTO:00000905

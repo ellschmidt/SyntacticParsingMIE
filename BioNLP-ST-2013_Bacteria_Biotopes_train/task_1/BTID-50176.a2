@@ -1,0 +1,37 @@
+T1	Habitat 59 63	food
+T2	Habitat 253 266	warm seawater
+T3	Habitat 394 399	wound
+T4	Habitat 481 500	warm coastal waters
+T5	Habitat 646 649;671 680	raw shellfish
+T6	Habitat 653 680	improperly cooked shellfish
+T7	Habitat 695 702	oysters
+T8	Habitat 738 757	healthy individuals
+T9	Habitat 846 851	Wound
+T10	Habitat 899 909	open wound
+T11	Habitat 915 924	sea water
+T12	Habitat 978 982	body
+T13	Habitat 986 991	coral
+T14	Habitat 993 997	fish
+T15	Habitat 1051 1130	Perso ns who are immunocompromised, especially those with chronic liver disease
+T16	Habitat 1117 1122	liver
+T17	Habitat 1198 1204	person
+T18	Habitat 1208 1214	person
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000688
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001129
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001282
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001752
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000377
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000418
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000966
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000881
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001282
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001609
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001481
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000190
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001124
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000561
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000305
+N16	OntoBiotope Annotation:T15 Referent:MBTO:00001201
+N17	OntoBiotope Annotation:T16 Referent:MBTO:00001443
+N18	OntoBiotope Annotation:T17 Referent:MBTO:00001402
+N19	OntoBiotope Annotation:T18 Referent:MBTO:00001402

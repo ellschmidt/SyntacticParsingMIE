@@ -1,0 +1,34 @@
+T1	Habitat 277 287	laboratory
+T2	Habitat 336 339	gut
+T3	Habitat 354 365	vertebrates
+T4	Habitat 377 383	humans
+T5	Habitat 450 460	intestinal
+T6	Habitat 465 480	extraintestinal
+T7	Habitat 494 500	humans
+T8	Habitat 630 643	urinary tract
+T9	Habitat 667 675	neonatal
+T10	Habitat 776 786	nosocomial
+T11	Habitat 2166 2171	human
+T12	Habitat 2249 2254	human
+T13	Habitat 2782 2798	extra-intestinal
+T14	Habitat 2799 2804	mouse
+T15	Habitat 2858 2863	human
+T16	Habitat 2868 2874	animal
+T17	Habitat 3308 3328	scientific community
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002025
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001828
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001742
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000110
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001776
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001402
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000504
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000348
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000573
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001402
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001776
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001094
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001402
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001660
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000414

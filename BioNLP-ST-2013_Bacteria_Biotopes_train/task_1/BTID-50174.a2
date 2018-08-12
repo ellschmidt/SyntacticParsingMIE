@@ -1,0 +1,62 @@
+T1	Habitat 63 77	marine species
+T2	Habitat 63 69	marine
+T3	Habitat 141 147	marine
+T4	Habitat 282 288	animal
+T5	Habitat 282 295	animal tissue
+T6	Habitat 362 367	human
+T7	Habitat 734 752	marine environment
+T8	Habitat 843 859	luminescent fish
+T9	Habitat 843 854;863 868	luminescent squid
+T10	Habitat 927 948	light-emitting organs
+T11	Habitat 971 977	squids
+T12	Habitat 982 988	fishes
+T13	Habitat 1007 1020	bobtail squid
+T14	Habitat 1022 1039	Euprymna scolopes
+T15	Habitat 1075 1087	light organs
+T16	Habitat 1095 1099	fish
+T17	Habitat 1103 1108	squid
+T18	Habitat 1164 1168	fish
+T19	Habitat 1172 1177	squid
+T20	Habitat 1225 1229	prey
+T21	Habitat 1289 1312	squid Euprymna scolopes
+T22	Habitat 1289 1294	squid
+T23	Habitat 1336 1347	light organ
+T24	Habitat 1372 1381	sea floor
+T25	Habitat 1372 1375	sea
+T26	Habitat 1406 1411	squid
+T27	Habitat 1486 1491	squid
+T28	Habitat 1499 1508	sea floor
+T29	Habitat 1499 1502	sea
+T30	Habitat 1576 1594	marine environment
+T31	Habitat 1644 1656	light organs
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000960
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001481
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001481
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001660
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001580
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001402
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001257
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000561
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000449
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000887
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000449
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000561
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001900
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000631
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000887
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000561
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000449
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000561
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000449
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000960
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000631
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000449
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000887
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001594
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001257
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00000449
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00000449
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001594
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00001257
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001257
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00000887

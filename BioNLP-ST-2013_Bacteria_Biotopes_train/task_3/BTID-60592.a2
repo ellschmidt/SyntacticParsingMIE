@@ -1,0 +1,169 @@
+T1	Bacteria 0 20	Sodalis glossinidius
+T2	Bacteria 50 70	Sodalis glossinidius
+T3	Bacteria 133 141	bacteria
+T4	Habitat 282 292	tsetse fly
+T5	Habitat 294 307	Glossina spp.
+T6	Habitat 350 357	progeny
+T7	Bacteria 384 410	Wigglesworthia glossinidia
+T8	Bacteria 427 436	Wolbachia
+T9	Habitat 509 519	tsetse fly
+T10	Habitat 532 537;548 558	inter cellularly
+T11	Habitat 543 558	intracellularly
+T12	Habitat 566 572;598 611	midgut of the insect
+T13	Habitat 574 582;598 611	fat body of the insect
+T14	Habitat 587 611	haemolymph of the insect
+T15	Habitat 605 611	insect
+T16	Bacteria 616 631	S. glossinidius
+T17	Habitat 651 657	insect
+T18	Geographical 754 775	University of Glasgow
+T19	Habitat 804 843	mosquito (Aedes albopictus) feeder cell
+T20	Habitat 804 858	mosquito (Aedes albopictus) feeder cell culture system
+T21	Habitat 804 812	mosquito
+T22	Habitat 814 830	Aedes albopictus
+T23	Habitat 881 924	haemolymph of Glossinia morsitans morsitans
+T24	Habitat 895 924	Glossinia morsitans morsitans
+T25	Bacteria 966 981	S. glossinidius
+T26	Habitat 998 1033	intracellularly in Aedes albopictus
+T27	Habitat 1017 1033	Aedes albopictus
+T28	Habitat 1051 1126	semidefined solid medium containing already enzimatically digested proteins
+T29	Bacteria 1170 1179	bacterium
+T30	Bacteria 1335 1355	Sodalis glossinidius
+T31	Habitat 1413 1427	micro-organism
+T32	Bacteria 1589 1607	Enterobacteriaceae
+T33	Bacteria 1739 1754	S. glossinidius
+T34	Habitat 1774 1787	intracellular
+T35	Habitat 1858 1866	in vitro
+T36	Habitat 2033 2039	tsetse
+T37	Habitat 2033 2049	tsetse host cell
+T38	Bacteria 2087 2105	Enterobacteriaceae
+T39	Bacteria 2136 2151	S. glossinidius
+T40	Habitat 2188 2202	micro-organism
+T41	Habitat 2214 2241	microaerophilic environment
+T42	Bacteria 2640 2655	S. glossinidius
+T43	Habitat 2759 2772	intracellular
+T44	Bacteria 2782 2795	R. prowazekii
+T45	Bacteria 2829 2837	Buchnera
+T46	Habitat 2862 2875	intracellular
+T47	Bacteria 2994 3009	S. glossinidius
+T48	Bacteria 3055 3070	S. glossinidius
+T49	Habitat 3139 3146	insects
+T50	Habitat 3245 3257	Glossina spp
+T51	Habitat 3299 3305	tsetse
+T52	Habitat 3312 3319	enteric
+T53	Bacteria 3397 3412	S. glossinidius
+T54	Bacteria 3480 3488	bacteria
+T55	Habitat 3551 3565	micro-organism
+T56	Bacteria 3758 3773	S. glossinidius
+T57	Bacteria 4173 4182	bacterial
+T58	Bacteria 4253 4261	bacteria
+T59	Habitat 4305 4309	cell
+T60	Bacteria 4553 4576	Yersinia enterocolitica
+T61	Habitat 4619 4623	cell
+T62	Bacteria 4649 4659	Salmonella
+T63	Bacteria 4704 4721	Shigella flexneri
+T64	Bacteria 4779 4787	bacteria
+T65	Bacteria 4859 4874	Salmonella spp.
+T66	Bacteria 4879 4894	Yersinia pestis
+T67	Habitat 5007 5013	larval
+T68	Bacteria 5053 5068	S. glossinidius
+T69	Habitat 5083 5088	cells
+T70	Habitat 5150 5171	intra-uterine progeny
+T71	Habitat 5150 5163	intra-uterine
+T72	Bacteria 5177 5192	S. glossinidius
+T73	Bacteria 5322 5330	bacteria
+T74	Habitat 5538 5554	vertebrate blood
+T75	Habitat 5538 5548	vertebrate
+T76	Habitat 5593 5599	tsetse
+T77	Habitat 5809 5845	constant microaerophilic environment
+T78	Habitat 5853 5859	tsetse
+T79	Habitat 5853 5866	tsetse midgut
+T80	Habitat 5853 5859;5871 5881	tsetse haemolymph
+T81	Habitat 5894 5915	iron-rich environment
+T82	Habitat 6359 6370;6400 6417	exoskeleton of the tsetse fly
+T83	Habitat 6375 6417	gut peritrophic membrane of the tsetse fly
+T84	Habitat 6375 6378	gut
+T85	Habitat 6407 6417	tsetse fly
+T86	Bacteria 6422 6437	S. glossinidius
+T87	Bacteria 6519 6534	S. glossinidius
+T88	Habitat 6561 6571	tsetse fly
+T89	Habitat 6604 6619	T. b. gambiense
+T90	Habitat 6638 6659	blood-feeding insects
+T91	Habitat 6638 6643	blood
+T92	Habitat 6709 6714	blood
+T93	Habitat 6875 6889	micro-organism
+T94	Bacteria 6903 6918	S. glossinidius
+T95	Habitat 6940 6951	trypanosome
+T96	Habitat 6971 6977	tsetse
+T97	Bacteria 7026 7046	Sodalis glossinidius
+T98	Habitat 7062 7076	micro-organism
+T99	Habitat 7080 7086	tsetse
+T100	Habitat 7235 7243	microbes
+T101	Bacteria 7311 7326	S. glossinidius
+T102	Habitat 7359 7370	trypanosome
+T103	Habitat 7389 7395	tsetse
+T104	Habitat 7418 7424	tsetse
+T105	Habitat 7418 7438	tsetse immune system
+T106	Habitat 7448 7454	tsetse
+T107	Bacteria 7606 7621	S. glossinidius
+T108	Habitat 7642 7647	pupal
+T109	Habitat 7747 7762	T. b. gambiense
+T110	Habitat 7800 7813	tsetse midgut
+T111	Habitat 7800 7806	tsetse
+T112	Habitat 7878 7888	tsetse fly
+T113	Habitat 7949 7963	tsetse puparia
+T114	Habitat 7949 7955	tsetse
+T115	Bacteria 8021 8036	S. glossinigius
+T116	Habitat 8063 8074	trypanosome
+T117	Habitat 8094 8100	tsetse
+T118	Bacteria 8137 8152	S. glossinidius
+T119	Habitat 8317 8327	tsetse fly
+T120	Bacteria 8437 8457	Sodalis glossinidius
+T121	Bacteria 8471 8480	bacterial
+T122	Bacteria 8568 8588	Sodalis glossinidius
+T123	Habitat 8676 8704	Glossina morsitans morsitans
+T124	Bacteria 9063 9078	S. glossinidius
+T125	Habitat 9107 9113	tsetse
+T126	Bacteria 9294 9311	Erwinia amylovora
+T127	Bacteria 9382 9408	Corynebacterium glutamicum
+T128	Bacteria 9461 9476	S. glossinidius
+R1	Localization Bacterium:T8 Localization:T4
+R2	Localization Bacterium:T1 Localization:T12
+R3	Localization Bacterium:T44 Localization:T43
+R4	Localization Bacterium:T1 Localization:T17
+R5	Localization Bacterium:T60 Localization:T61
+R6	Localization Bacterium:T1 Localization:T113
+R7	Localization Bacterium:T1 Localization:T10
+R8	Localization Bacterium:T1 Localization:T46
+R9	Localization Bacterium:T1 Localization:T59
+R10	Localization Bacterium:T7 Localization:T4
+R11	Localization Bacterium:T1 Localization:T9
+R12	Localization Bacterium:T1 Localization:T34
+R13	Localization Bacterium:T1 Localization:T69
+R14	Localization Bacterium:T1 Localization:T37
+R15	Localization Bacterium:T1 Localization:T52
+R16	Localization Bacterium:T1 Localization:T13
+R17	Localization Bacterium:T1 Localization:T14
+R18	Localization Bacterium:T1 Localization:T4
+R19	Localization Bacterium:T1 Localization:T70
+R20	Localization Bacterium:T1 Localization:T11
+R21	PartOf Host:T9 Part:T52
+R22	PartOf Host:T9 Part:T10
+R23	PartOf Host:T9 Part:T14
+R24	PartOf Host:T70 Part:T69
+R25	PartOf Host:T9 Part:T37
+R26	PartOf Host:T9 Part:T12
+R27	PartOf Host:T9 Part:T13
+R28	PartOf Host:T27 Part:T26
+R29	PartOf Host:T85 Part:T84
+R30	PartOf Host:T85 Part:T83
+R31	PartOf Host:T9 Part:T11
+*	Equiv T42 T30 T124 T115 T97 T101 T2 T94 T39 T25 T128 T118 T48 T122 T120 T47 T87 T1 T16 T86 T72 T68 T33
+*	Equiv T32 T38
+*	Equiv T65 T62
+*	Equiv T49 T17 T15
+*	Equiv T85 T114 T119 T88 T125 T111 T96 T4 T78 T5 T76 T104 T24 T106 T112 T36 T103 T9 T51 T50 T99 T117
+*	Equiv T98 T93 T31 T40
+*	Equiv T14 T80 T23
+*	Equiv T110 T12 T79
+*	Equiv T59 T46 T69 T61 T26 T34 T43
+*	Equiv T91 T92

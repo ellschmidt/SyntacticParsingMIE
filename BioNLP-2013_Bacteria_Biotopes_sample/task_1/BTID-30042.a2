@@ -1,0 +1,60 @@
+T1	Habitat 18 23	sheep
+T2	Habitat 28 33	goats
+T3	Habitat 131 146	small ruminants
+T4	Habitat 823 841	sequencing centers
+T5	Habitat 1794 1807	intracellular
+T6	Habitat 1842 1849	animals
+T7	Habitat 1861 1867	humans
+T8	Habitat 1872 1879	insects
+T9	Habitat 1885 1891	plants
+T10	Habitat 2015 2019	cell
+T11	Habitat 2502 2515	intracellular
+T12	Habitat 2630 2636	humans
+T13	Habitat 2641 2648	animals
+T14	Habitat 2650 2655	Human
+T15	Habitat 2707 2718;2734 2740	respiratory tracts
+T16	Habitat 2723 2740	urogenital tracts
+T17	Habitat 2769 2781	farm animals
+T18	Habitat 2769 2773	farm
+T19	Habitat 3832 3837;3848 3857	sheep in Europe
+T20	Habitat 3842 3857	goats in Europe
+T21	Habitat 3913 3926	milk industry
+T22	Habitat 3913 3917	milk
+T23	Habitat 3979 3985	cattle
+T24	Habitat 3995 4006	respiratory
+T25	Habitat 4011 4018	mammary
+T26	Habitat 4070 4074	calf
+T27	Habitat 5519 5528	ruminants
+T28	Habitat 6612 6627	small ruminants
+T29	Habitat 6919 6945	molecular diagnostic tools
+T30	Habitat 7055 7102	expert annotators from the collaborating groups
+N1	Reference Annotation:T1 Reference:MBTO:00001178	sheep
+N2	Reference Annotation:T2 Reference:MBTO:00001115	goat
+N3	Reference Annotation:T3 Reference:MBTO:00001180	small ruminant
+N4	Reference Annotation:T4 Reference:MBTO:00001990	research and study center
+N5	Reference Annotation:T5 Reference:MBTO:00000838	intracellular
+N6	Reference Annotation:T6 Reference:MBTO:00000409	animal
+N7	Reference Annotation:T7 Reference:MBTO:00001044	human
+N8	Reference Annotation:T8 Reference:MBTO:00000413	insect
+N9	Reference Annotation:T9 Reference:MBTO:00000410	plant
+N10	Reference Annotation:T10 Reference:MBTO:00000805	cell
+N11	Reference Annotation:T11 Reference:MBTO:00000838	intracellular
+N12	Reference Annotation:T12 Reference:MBTO:00001044	human
+N13	Reference Annotation:T13 Reference:MBTO:00000409	animal
+N14	Reference Annotation:T14 Reference:MBTO:00001044	human
+N15	Reference Annotation:T15 Reference:MBTO:00000681	respiratory tract
+N16	Reference Annotation:T16 Reference:MBTO:00000680	urogenital tract
+N17	Reference Annotation:T17 Reference:MBTO:00001103	farm animal
+N18	Reference Annotation:T18 Reference:MBTO:00001511	farm
+N19	Reference Annotation:T19 Reference:MBTO:00001178	sheep
+N20	Reference Annotation:T20 Reference:MBTO:00001115	goat
+N21	Reference Annotation:T21 Reference:MBTO:00000324	dairy industry
+N22	Reference Annotation:T22 Reference:MBTO:00000417	milk
+N23	Reference Annotation:T23 Reference:MBTO:00001088	cattle
+N24	Reference Annotation:T24 Reference:MBTO:00000681	respiratory tract
+N25	Reference Annotation:T25 Reference:MBTO:00000701	mammary gland
+N26	Reference Annotation:T26 Reference:MBTO:00001085	calf
+N27	Reference Annotation:T27 Reference:MBTO:00000676	ruminant
+N28	Reference Annotation:T28 Reference:MBTO:00001180	small ruminant
+N29	Reference Annotation:T29 Reference:MBTO:00001997	tool
+N30	Reference Annotation:T30 Reference:MBTO:00001044	human

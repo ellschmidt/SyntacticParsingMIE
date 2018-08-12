@@ -1,0 +1,30 @@
+T1	Habitat 113 118	human
+T2	Habitat 113 141	human gastrointestinal tract
+T3	Habitat 143 146	GIT
+T4	Habitat 218 228	intestinal
+T5	Habitat 453 456	GIT
+T6	Habitat 717 726	mammalian
+T7	Habitat 717 730	mammalian GIT
+T8	Habitat 750 757;767 773	vaginal cavity
+T9	Habitat 762 773	oral cavity
+T10	Habitat 1021 1033	adult humans
+T11	Habitat 1038 1057	formula fed infants
+T12	Habitat 1038 1045	formula
+T13	Habitat 1083 1086	gut
+T14	Habitat 1175 1181	infant
+T15	Habitat 1175 1187	infant feces
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001828
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001828
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000110
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001828
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001514
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001828
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001066
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000999
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001522
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000308
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000798
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001828
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000778
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000341

@@ -1,0 +1,16 @@
+T1	Habitat 48 54	humans
+T2	Bacteria 55 65	Legionella
+T3	Bacteria 84 92	bacteria
+T4	Habitat 109 114	human
+T5	Bacteria 245 255	Legionella
+T6	Bacteria 283 297	L. pneumophila
+T7	Habitat 470 475	human
+T8	Bacteria 565 602	L. pneumophila isolates of serogoup 1
+T9	Geographical 654 660	France
+T10	Bacteria 684 710	L. pneumophila serogroup 1
+T11	Habitat 754 766	water system
+T12	Geographical 772 778	French
+T13	Habitat 772 787	French hospital
+T14	Bacteria 798 812	L. pneumophila
+T15	Habitat 851 861	nosocomial
+T16	Habitat 1180 1185	human

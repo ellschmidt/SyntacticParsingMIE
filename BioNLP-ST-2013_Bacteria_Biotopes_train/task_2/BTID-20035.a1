@@ -1,0 +1,19 @@
+T1	Bacteria 0 30	Burkholderia phytofirmans PsJN
+T2	Bacteria 31 70	Burkholderia phytofirmans strain PsJN T
+T3	Bacteria 86 105	beta-Proteobacteria
+T4	Habitat 148 209	surface-sterilized Glomus vesiculiferum -infected onion roots
+T5	Habitat 167 187	Glomus vesiculiferum
+T6	Habitat 167 203	Glomus vesiculiferum -infected onion
+T7	Habitat 296 301	soils
+T8	Habitat 306 318	rhizospheres
+T9	Bacteria 460 464	PsJN
+T10	Habitat 526 531	plant
+T11	Bacteria 656 660	PsJN
+T12	Habitat 678 684	plants
+T13	Habitat 685 699	endophytically
+T14	Habitat 711 723	rhizospheres
+T15	Habitat 728 733	plant
+T16	Habitat 783 789	plants
+T17	Habitat 798 804	potato
+T18	Habitat 806 812	tomato
+T19	Habitat 814 823	grapevine

@@ -1,0 +1,26 @@
+T1	Bacteria 0 18	Xanthomonas oryzae
+T2	Bacteria 19 37	Xanthomonas oryzae
+T3	Bacteria 45 54	bacterial
+T4	Habitat 55 59	leaf
+T5	Habitat 70 74	rice
+T6	Bacteria 75 93	Xanthomonas oryzae
+T7	Bacteria 190 199	bacterial
+T8	Habitat 210 214	rice
+T9	Habitat 217 232	Oryza sativa L.
+T10	Bacteria 235 244	Bacterial
+T11	Habitat 271 275	rice
+T12	Habitat 287 311	tropical Asian countries
+T13	Geographical 296 301	Asian
+T14	Habitat 318 346	high-yielding rice cultivars
+T15	Habitat 400 408	vascular
+T16	Habitat 430 480	tannish-gray to white lesions along the leaf veins
+T17	Habitat 470 480	leaf veins
+T18	Habitat 470 474	leaf
+T19	Habitat 485 509	severely infested fields
+R1	Localization Bacterium:T1 Localization:T5
+R2	Localization Bacterium:T1 Localization:T13
+R3	Localization Bacterium:T1 Localization:T14
+R4	Localization Bacterium:T1 Localization:T12
+*	Equiv T6 T2 T1
+*	Equiv T5 T9 T8 T11
+*	Equiv T4 T16

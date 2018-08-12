@@ -1,0 +1,16 @@
+Bifidobacterium adolescentis ATCC 15703
+Description
+Bifidobacterium adolescentis.
+This species is a normal inhabitant of the healthy human gut.
+Newborns, especially those that are breast-fed, are colonized with Bifidobacteria within days after birth.
+This species was first isolated from the feces of a breast-fed infant.
+The population of these bacteria in the colon appears to be relatively stable until late adulthood when it appears to decline.
+In one comprehensive 16S rDNA sequence-based enumeration of the colonic microbiota of three healthy adult humans it represents, on average, 0.008% of all 16S rDNA sequences and 4.302% of the sequences in its division (Eckburg et. al. (2005)).
+The bifidobacteria population is influenced by a number of factors, including diet, antibiotics and stress.
+Their name is derived from the observation that they often exist in a Y-shaped or bifid form.
+They are saccharolytic organisms that produce acetic and lactic acids without generation of CO2, except during degradation of gluconate.
+Description
+Bifidobacterium adolescentis ATCC 15703.
+This strain is being sequenced for comparative genome analysis.
+
+

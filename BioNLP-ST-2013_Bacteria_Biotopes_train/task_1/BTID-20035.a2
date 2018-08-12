@@ -1,0 +1,28 @@
+T1	Habitat 148 209	surface-sterilized Glomus vesiculiferum -infected onion roots
+T2	Habitat 167 187	Glomus vesiculiferum
+T3	Habitat 167 203	Glomus vesiculiferum -infected onion
+T4	Habitat 296 301	soils
+T5	Habitat 306 318	rhizospheres
+T6	Habitat 526 531	plant
+T7	Habitat 678 684	plants
+T8	Habitat 685 699	endophytically
+T9	Habitat 711 723	rhizospheres
+T10	Habitat 728 733	plant
+T11	Habitat 783 789	plants
+T12	Habitat 798 804	potato
+T13	Habitat 806 812	tomato
+T14	Habitat 814 823	grapevine
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001374
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000385
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001062
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001773
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001504
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00002027
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00002027
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001727
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001504
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00002027
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00002027
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001508
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001614
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000228

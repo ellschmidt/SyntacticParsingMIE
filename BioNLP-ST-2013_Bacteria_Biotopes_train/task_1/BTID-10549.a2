@@ -1,0 +1,20 @@
+T1	Habitat 97 103	marine
+T2	Habitat 149 179	decaying Spartina alterniflora
+T3	Habitat 183 204	salt marsh cord grass
+T4	Habitat 183 193	salt marsh
+T5	Habitat 474 492	insect exoskeleton
+T6	Habitat 474 480	insect
+T7	Habitat 494 499	plant
+T8	Habitat 494 509	plant cell wall
+T9	Habitat 544 549	algal
+T10	Habitat 544 559	algal cell wall
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001481
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000131
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000841
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000241
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001034
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000141
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00002027
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001285
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000242
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001285

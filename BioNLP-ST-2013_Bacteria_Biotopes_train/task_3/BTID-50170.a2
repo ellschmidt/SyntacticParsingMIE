@@ -1,0 +1,14 @@
+T1	Bacteria 0 18	Treponema pallidum
+T2	Bacteria 19 37	Treponema pallidum
+T3	Bacteria 54 72	Treponema pallidum
+T4	Habitat 325 329	body
+T5	Bacteria 553 563	spirochete
+T6	Bacteria 589 598	bacterium
+T7	Bacteria 772 783	T. pallidum
+T8	Habitat 799 804	human
+T9	Habitat 851 859	in vitro
+T10	Bacteria 993 1004	T. pallidum
+R1	Localization Bacterium:T1 Localization:T8
+R2	Localization Bacterium:T1 Localization:T4
+R3	PartOf Host:T8 Part:T4
+*	Equiv T10 T7 T1 T2 T3

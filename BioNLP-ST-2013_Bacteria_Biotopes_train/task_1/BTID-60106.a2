@@ -1,0 +1,126 @@
+T1	Habitat 310 337	intestinal tract of animals
+T2	Habitat 330 337	animals
+T3	Habitat 368 389	intestinal epithelium
+T4	Habitat 368 378	intestinal
+T5	Habitat 429 445	epithelial layer
+T6	Habitat 467 478	bloodstream
+T7	Habitat 598 607	intestine
+T8	Habitat 639 646	animals
+T9	Habitat 651 657	humans
+T10	Habitat 664 669	human
+T11	Habitat 925 955	patients with severe infection
+T12	Habitat 1089 1093	pigs
+T13	Habitat 1095 1100	birds
+T14	Habitat 1106 1119	surface water
+T15	Habitat 1733 1742	intestine
+T16	Habitat 1802 1818	intestinal tract
+T17	Habitat 1962 1975	complex media
+T18	Habitat 2008 2035;2047 2056	extra growth medium such as glutamine
+T19	Habitat 2008 2045	extra growth medium such as glutamate
+T20	Habitat 2008 2035;2058 2077	extra growth medium such as alpha-ketoglutarate
+T21	Habitat 2008 2035;2082 2089	extra growth medium such as formate
+T22	Habitat 2520 2529	intestine
+T23	Habitat 2605 2609	pigs
+T24	Habitat 2611 2616	birds
+T25	Habitat 2621 2648	environmental surface water
+T26	Habitat 2670 2675	birds
+T27	Habitat 2817 2822	birds
+T28	Habitat 2824 2863	Birds that are feeding on invertebrates
+T29	Habitat 2850 2863	invertebrates
+T30	Habitat 2865 2886	opportunistic feeders
+T31	Habitat 2892 2921	birds that have a larger mass
+T32	Habitat 3069 3076	animals
+T33	Habitat 3081 3087	humans
+T34	Habitat 3089 3095	People
+T35	Habitat 3127 3134	poultry
+T36	Habitat 3171 3179	raw food
+T37	Habitat 3190 3198	raw milk
+T38	Habitat 3213 3225	bottle water
+T39	Habitat 3411 3415	cell
+T40	Habitat 3434 3438	cell
+T41	Habitat 3498 3525	intestinal tract of animals
+T42	Habitat 3498 3517;3530 3536	intestinal tract of humans
+T43	Habitat 3518 3525	animals
+T44	Habitat 3530 3536	humans
+T45	Habitat 3600 3621	intestinal epithelium
+T46	Habitat 3600 3610	intestinal
+T47	Habitat 3661 3677	epithelial layer
+T48	Habitat 3698 3709	bloodstream
+T49	Habitat 3714 3722	Patients
+T50	Habitat 3763 3772	abdominal
+T51	Habitat 3790 3802	bloody stool
+T52	Habitat 3790 3796	bloody
+T53	Habitat 4330 4334	farm
+T54	Habitat 4339 4354	slaughter plant
+T55	Habitat 4390 4397	poultry
+T56	Habitat 4464 4468	pigs
+T57	Habitat 4519 4525	animal
+T58	Habitat 4565 4569	farm
+T59	Habitat 4764 4772	ABF pigs
+T60	Habitat 5181 5193	chicken meat
+T61	Habitat 5310 5325	US dairy cattle
+T62	Habitat 5327 5332	Feces
+T63	Habitat 5351 5355	cows
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000110
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001660
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001300
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000110
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001487
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001569
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000110
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001660
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001402
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001402
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001607
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000882
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000550
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000321
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000110
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000110
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000026
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000026
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000026
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000026
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000026
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000110
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000882
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000550
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00000321
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00000550
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00000550
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00000306
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00001947
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001660
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00000550
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00001660
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001402
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00001402
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00001970
+N36	OntoBiotope Annotation:T36 Referent:MBTO:00001313
+N37	OntoBiotope Annotation:T37 Referent:MBTO:00000197
+N38	OntoBiotope Annotation:T38 Referent:MBTO:00000554
+N39	OntoBiotope Annotation:T39 Referent:MBTO:00001852
+N40	OntoBiotope Annotation:T40 Referent:MBTO:00001852
+N41	OntoBiotope Annotation:T41 Referent:MBTO:00000110
+N42	OntoBiotope Annotation:T42 Referent:MBTO:00000110
+N43	OntoBiotope Annotation:T43 Referent:MBTO:00001660
+N44	OntoBiotope Annotation:T44 Referent:MBTO:00001402
+N45	OntoBiotope Annotation:T45 Referent:MBTO:00001300
+N46	OntoBiotope Annotation:T46 Referent:MBTO:00000110
+N47	OntoBiotope Annotation:T47 Referent:MBTO:00001487
+N48	OntoBiotope Annotation:T48 Referent:MBTO:00001569
+N49	OntoBiotope Annotation:T49 Referent:MBTO:00001607
+N50	OntoBiotope Annotation:T50 Referent:MBTO:00000369
+N51	OntoBiotope Annotation:T51 Referent:MBTO:00000341
+N52	OntoBiotope Annotation:T52 Referent:MBTO:00001569
+N53	OntoBiotope Annotation:T53 Referent:MBTO:00000380
+N54	OntoBiotope Annotation:T54 Referent:MBTO:00001701
+N55	OntoBiotope Annotation:T55 Referent:MBTO:00001970
+N56	OntoBiotope Annotation:T56 Referent:MBTO:00000882
+N57	OntoBiotope Annotation:T57 Referent:MBTO:00001660
+N58	OntoBiotope Annotation:T58 Referent:MBTO:00000380
+N59	OntoBiotope Annotation:T59 Referent:MBTO:00000882
+N60	OntoBiotope Annotation:T60 Referent:MBTO:00001671
+N61	OntoBiotope Annotation:T61 Referent:MBTO:00000846
+N62	OntoBiotope Annotation:T62 Referent:MBTO:00000341
+N63	OntoBiotope Annotation:T63 Referent:MBTO:00000726

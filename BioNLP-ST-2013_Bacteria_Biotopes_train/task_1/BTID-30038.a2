@@ -1,0 +1,30 @@
+T1	Habitat 22 26	food
+T2	Habitat 250 276	intestinal tract of humans
+T3	Habitat 250 269;281 288	intestinal tract of animals
+T4	Habitat 270 276	humans
+T5	Habitat 281 288	animals
+T6	Habitat 334 340	cheese
+T7	Habitat 345 352	sausage
+T8	Habitat 403 411	foodborn
+T9	Habitat 433 443	nosocomial
+T10	Habitat 581 591	nosocomial
+T11	Habitat 913 919	humans
+T12	Habitat 924 931	animals
+T13	Habitat 1032 1042	nosocomial
+T14	Habitat 1058 1077	intensive care unit
+T15	Habitat 1058 1107	intensive care unit patients in the United States
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000688
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000110
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000110
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001660
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000802
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000199
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000688
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000573
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000573
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001660
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000573
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000192
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001607

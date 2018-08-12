@@ -1,0 +1,6 @@
+T1	Habitat 325 329	body
+T2	Habitat 799 804	human
+T3	Habitat 851 859	in vitro
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000190
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000026

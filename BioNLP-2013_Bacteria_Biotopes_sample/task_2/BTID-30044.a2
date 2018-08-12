@@ -1,0 +1,26 @@
+R1	Localization Bacteria:T1 Localization:T26
+R2	Localization Bacteria:T1 Localization:T25
+R3	Localization Bacteria:T1 Localization:T2
+R4	Localization Bacteria:T5 Localization:T17
+R5	Localization Bacteria:T7 Localization:T17
+R6	Localization Bacteria:T7 Localization:T30
+R7	Localization Bacteria:T9 Localization:T17
+R8	Localization Bacteria:T11 Localization:T17
+R9	Localization Bacteria:T13 Localization:T20
+R10	Localization Bacteria:T13 Localization:T17
+R11	Localization Bacteria:T15 Localization:T17
+R12	Localization Bacteria:T5 Localization:T20
+R13	Localization Bacteria:T7 Localization:T21
+R14	Localization Bacteria:T9 Localization:T21
+R15	Localization Bacteria:T11 Localization:T21
+R16	Localization Bacteria:T15 Localization:T21
+R19	Localization Bacteria:T5 Localization:T28
+R22	Localization Bacteria:T33 Localization:T35
+R23	Localization Bacteria:T34 Localization:T35
+*	Equiv T9 T10
+*	Equiv T7 T8 T31
+*	Equiv T13 T14 T19
+*	Equiv T11 T12
+*	Equiv T1 T24
+*	Equiv T5 T6 T18 T29
+*	Equiv T15 T16

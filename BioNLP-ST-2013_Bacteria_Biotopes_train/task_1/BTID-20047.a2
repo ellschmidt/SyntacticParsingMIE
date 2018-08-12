@@ -1,0 +1,8 @@
+T1	Habitat 736 755	anoxic environments
+T2	Habitat 875 891	stratified lakes
+T3	Habitat 893 907	microbial mats
+T4	Habitat 913 937	sulfide-rich hot springs
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001547
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000603
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000034
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001173

@@ -1,0 +1,32 @@
+T1	Habitat 29 33	skin
+T2	Habitat 208 212	skin
+T3	Habitat 327 331;360 368	meat products
+T4	Habitat 333 340	sausage
+T5	Habitat 346 350;360 368	milk products
+T6	Habitat 352 358	cheese
+T7	Habitat 439 447	sausages
+T8	Habitat 528 554	surface of certain cheeses
+T9	Habitat 667 688	production facilities
+T10	Habitat 763 771	biofilms
+T11	Habitat 903 907	milk
+T12	Habitat 912 919	raw ham
+T13	Habitat 991 999	consumer
+T14	Habitat 1060 1067	animals
+T15	Habitat 1128 1138	nosocomial
+T16	Habitat 1599 1626	agro-alimentary environment
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001789
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001789
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000895
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000199
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001517
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000802
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000199
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000015
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000407
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001805
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000757
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001664
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001402
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001660
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000573
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000688

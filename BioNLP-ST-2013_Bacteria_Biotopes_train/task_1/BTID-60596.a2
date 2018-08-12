@@ -1,0 +1,16 @@
+T1	Habitat 292 352	water of a cooling tower of a sugar-beet refinery in England
+T2	Habitat 303 352	cooling tower of a sugar-beet refinery in England
+T3	Habitat 322 352	sugar-beet refinery in England
+T4	Habitat 322 332	sugar-beet
+T5	Habitat 362 386	water of a polluted pond
+T6	Habitat 373 386	polluted pond
+T7	Habitat 452 466	stagnant water
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001429
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001944
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000288
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000419
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000493
+N6	OntoBiotope Annotation:T5 Referent:MBTO:00000840
+N7	OntoBiotope Annotation:T6 Referent:MBTO:00001621
+N8	OntoBiotope Annotation:T6 Referent:MBTO:00000763
+N9	OntoBiotope Annotation:T7 Referent:MBTO:00000824

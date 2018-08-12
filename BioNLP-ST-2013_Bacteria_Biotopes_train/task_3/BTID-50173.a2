@@ -1,0 +1,39 @@
+T1	Bacteria 0 15	Vibrio cholerae
+T2	Bacteria 16 31	Vibrio cholerae
+T3	Bacteria 47 54	Vibrios
+T4	Bacteria 83 91	bacteria
+T5	Bacteria 130 148	Enterobacteriaceae
+T6	Habitat 173 179	oceans
+T7	Habitat 181 195	coastal waters
+T8	Habitat 201 210	estuaries
+T9	Bacteria 238 253	Vibrio cholerae
+T10	Habitat 299 305	humans
+T11	Bacteria 317 323	Vibrio
+T12	Bacteria 420 427	Vibrios
+T13	Habitat 583 588	Fluid
+T14	Habitat 736 744	children
+T15	Geographical 857 864	Bengali
+T16	Geographical 913 922	Indonesia
+T17	Geographical 949 967	Western hemisphere
+T18	Geographical 1000 1004	Peru
+T19	Geographical 1035 1053	Western hemisphere
+T20	Bacteria 1128 1143	Vibrio cholerae
+T21	Bacteria 1531 1545	Proteobacteria
+T22	Bacteria 1662 1668	Vibrio
+T23	Bacteria 1682 1697	Vibrio cholerae
+T24	Habitat 1791 1804	microorganism
+T25	Habitat 1815 1820	human
+R1	Localization Bacterium:T1 Localization:T10
+R2	Localization Bacterium:T1 Localization:T16
+R3	Localization Bacterium:T1 Localization:T15
+R4	Localization Bacterium:T1 Localization:T17
+R5	Localization Bacterium:T3 Localization:T7
+R6	Localization Bacterium:T1 Localization:T14
+R7	Localization Bacterium:T1 Localization:T18
+R8	Localization Bacterium:T3 Localization:T6
+R9	Localization Bacterium:T1 Localization:T19
+R10	Localization Bacterium:T3 Localization:T8
+*	Equiv T23 T1 T2 T20 T9
+*	Equiv T11 T22 T12 T3
+*	Equiv T25 T10
+*	Equiv T17 T19

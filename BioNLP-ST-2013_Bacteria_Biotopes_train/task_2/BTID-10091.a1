@@ -1,0 +1,18 @@
+T1	Bacteria 0 20	Borrelia garinii PBi
+T2	Bacteria 33 49	Borrelia garinii
+T3	Bacteria 93 113	Borrelia burgdorferi
+T4	Bacteria 123 133	B. garinii
+T5	Bacteria 233 243	B. garinii
+T6	Habitat 262 276	Ixodes ricinus
+T7	Geographical 280 286	France
+T8	Bacteria 288 298	B. garinii
+T9	Habitat 329 333	tick
+T10	Geographical 355 361	Europe
+T11	Habitat 427 430	leg
+T12	Habitat 435 439	back
+T13	Bacteria 480 490	B. garinii
+T14	Bacteria 504 532	Borrelia garinii s train PBi
+T15	Bacteria 547 562	OspA serotype 4
+T16	Geographical 580 587	Germany
+T17	Habitat 597 616	cerebrospinal fluid
+T18	Habitat 622 651	patient with neuroborreliosis

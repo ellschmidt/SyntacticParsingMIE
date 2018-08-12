@@ -1,0 +1,9 @@
+Thermobifida fusca
+Thermobifida fusca is able to biodegrade plant cell walls
+Thermobifida fusca, previously named Thermomonaspora fusca is a moderate thermophilic soil bacterium that grow optimally at 55C and has a broad pH range (4-10).
+It is a major degrader of plant cell walls in heated organic materials such as compost heaps, rotting hay, manure piles or mushroom growth medium.
+It appears to degrade all major plant cell wall polymers except lignin and pectin and can grow on most simple sugars and carboxylic acids.
+It is an actinomycete and its extracellular enzymes, including cellulases, have been studied extensively because of their thermostability, and high activity.
+Thermobifida fusca produces spores that can be allergenic and causes a condition called farmers lung (extrinsic allergic alveolitis).
+
+

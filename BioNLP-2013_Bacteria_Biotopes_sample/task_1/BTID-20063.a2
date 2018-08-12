@@ -1,0 +1,20 @@
+T1	Habitat 291 316	chlorinated solvent sites
+T2	Habitat 509 520	groundwater
+T3	Habitat 832 841	microbial
+T4	Habitat 1522 1527	human
+T5	Habitat 1613 1638	chlorinated solvent sites
+T6	Habitat 1690 1729	PCE-to-ethene-dechlorinating microcosms
+T7	Habitat 1747 1763	aquifer material
+T8	Habitat 1781 1811	contaminated Bachman Road site
+T9	Habitat 2319 2344	chlorinated solvent sites
+T10	Habitat 2630 2648	contaminated sites
+N1	Reference Annotation:T1 Reference:MBTO:00001985	contaminated site
+N2	Reference Annotation:T2 Reference:MBTO:00000179	ground water
+N3	Reference Annotation:T3 Reference:MBTO:00001971	microorganism
+N4	Reference Annotation:T4 Reference:MBTO:00001044	human
+N5	Reference Annotation:T5 Reference:MBTO:00001985	contaminated site
+N6	Reference Annotation:T6 Reference:MBTO:00001937	microcosm
+N7	Reference Annotation:T7 Reference:MBTO:00001482	aquifer
+N8	Reference Annotation:T8 Reference:MBTO:00001985	contaminated site
+N9	Reference Annotation:T9 Reference:MBTO:00001985	contaminated site
+N10	Reference Annotation:T10 Reference:MBTO:00001985	contaminated site

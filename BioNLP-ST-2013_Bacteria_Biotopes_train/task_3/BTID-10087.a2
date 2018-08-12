@@ -1,0 +1,10 @@
+T1	Bacteria 0 20	Borrelia afzelii PKo
+T2	Bacteria 33 49	Borrelia afzelii
+T3	Habitat 84 133	skin lesion from a Lyme disease patient in Europe
+T4	Habitat 103 133	Lyme disease patient in Europe
+T5	Geographical 127 133	Europe
+T6	Bacteria 271 279	Borrelia
+R1	Localization Bacterium:T2 Localization:T4
+R2	Localization Bacterium:T2 Localization:T3
+R3	Localization Bacterium:T2 Localization:T5
+R4	PartOf Host:T4 Part:T3

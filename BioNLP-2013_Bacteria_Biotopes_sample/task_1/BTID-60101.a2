@@ -1,0 +1,72 @@
+T1	Habitat 247 254	animals
+T2	Habitat 259 265	humans
+T3	Habitat 546 563	soil environments
+T4	Habitat 693 721	landfill contaminated by PCB
+T5	Habitat 804 821	soil rhizospheres
+T6	Habitat 809 821	rhizospheres
+T7	Habitat 836 869	soil area surrounding plant roots
+T8	Habitat 858 869	plant roots
+T9	Habitat 858 863	plant
+T10	Habitat 950 954	Cell
+T11	Habitat 1217 1222	roots
+T12	Habitat 1238 1242	root
+T13	Habitat 1782 1798	soil rhizosphere
+T14	Habitat 1787 1798	rhizosphere
+T15	Habitat 1848 1865	soil rhizospheres
+T16	Habitat 1853 1865	rhizospheres
+T17	Habitat 1888 1900	grass plants
+T18	Habitat 1989 1995	plants
+T19	Habitat 2009 2027	nitrogen-poor soil
+T20	Habitat 2033 2054	roots of these plants
+T21	Habitat 2048 2054	plants
+T22	Habitat 2291 2296	plant
+T23	Habitat 2373 2379	humans
+T24	Habitat 2383 2390	animals
+T25	Habitat 2511 2575	patients with cystic fibrosis and certain granulomatous diseases
+T26	Habitat 2553 2566	granulomatous
+T27	Habitat 3215 3229	microorganisms
+T28	Habitat 3288 3317	PCB-contaminated environments
+T29	Habitat 3464 3473	microbial
+T30	Habitat 3770 3784	microorganisms
+T31	Habitat 3920 3947	soil contaminated with PCBs
+T32	Habitat 4068 4072	soil
+T33	Habitat 4503 4524	PCB-contaminated soil
+T34	Habitat 4673 4699	PCB-contaminated test soil
+T35	Habitat 5255 5283	experimental mixture of PCBs
+T36	Habitat 5825 5852	PCB-containing soil samples
+N1	Reference Annotation:T1 Reference:MBTO:00000409	animal
+N2	Reference Annotation:T2 Reference:MBTO:00001044	human
+N3	Reference Annotation:T3 Reference:MBTO:00000156	soil
+N4	Reference Annotation:T4 Reference:MBTO:00000736	landfill contaminated by PCB
+N5	Reference Annotation:T5 Reference:MBTO:00001987	soil rhizosphere
+N6	Reference Annotation:T6 Reference:MBTO:00000407	rhizosphere
+N7	Reference Annotation:T7 Reference:MBTO:00000407	rhizosphere
+N8	Reference Annotation:T8 Reference:MBTO:00000874	root
+N9	Reference Annotation:T9 Reference:MBTO:00000410	plant
+N10	Reference Annotation:T10 Reference:MBTO:00000805	cell
+N11	Reference Annotation:T11 Reference:MBTO:00000874	root
+N12	Reference Annotation:T12 Reference:MBTO:00000874	root
+N13	Reference Annotation:T13 Reference:MBTO:00001987	soil rhizosphere
+N14	Reference Annotation:T14 Reference:MBTO:00000407	rhizosphere
+N15	Reference Annotation:T15 Reference:MBTO:00001987	soil rhizosphere
+N16	Reference Annotation:T16 Reference:MBTO:00000407	rhizosphere
+N17	Reference Annotation:T17 Reference:MBTO:00001119	grass plant
+N18	Reference Annotation:T18 Reference:MBTO:00000410	plant
+N19	Reference Annotation:T19 Reference:MBTO:00000737	nitrogen-poor soil
+N20	Reference Annotation:T20 Reference:MBTO:00000874	root
+N21	Reference Annotation:T21 Reference:MBTO:00000410	plant
+N22	Reference Annotation:T22 Reference:MBTO:00000410	plant
+N23	Reference Annotation:T23 Reference:MBTO:00001044	human
+N24	Reference Annotation:T24 Reference:MBTO:00000409	animal
+N25	Reference Annotation:T25 Reference:MBTO:00001058	patient with cystic fibrosis
+N26	Reference Annotation:T26 Reference:MBTO:00000886	granuloma
+N27	Reference Annotation:T27 Reference:MBTO:00001971	microorganism
+N28	Reference Annotation:T28 Reference:MBTO:00001957	polluted environment
+N29	Reference Annotation:T29 Reference:MBTO:00001971	microorganism
+N30	Reference Annotation:T30 Reference:MBTO:00001971	microorganism
+N31	Reference Annotation:T31 Reference:MBTO:00000735	PCB contaminated soil
+N32	Reference Annotation:T32 Reference:MBTO:00000156	soil
+N33	Reference Annotation:T33 Reference:MBTO:00000735	PCB contaminated soil
+N34	Reference Annotation:T34 Reference:MBTO:00000735	PCB contaminated soil
+N35	Reference Annotation:T35 Reference:MBTO:00001988	experimental medium
+N36	Reference Annotation:T36 Reference:MBTO:00000735	PCB contaminated soil

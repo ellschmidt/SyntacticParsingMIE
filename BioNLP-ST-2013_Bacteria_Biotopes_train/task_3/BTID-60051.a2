@@ -1,0 +1,155 @@
+T1	Bacteria 0 8	Bacillus
+T2	Bacteria 9 27	Bacillus anthracis
+T3	Bacteria 137 145	Bacillus
+T4	Bacteria 189 206	Bacillus subtilis
+T5	Bacteria 286 295	bacterium
+T6	Bacteria 371 388	Bacillus subtilis
+T7	Habitat 395 400	plant
+T8	Bacteria 418 432	rhizobacterium
+T9	Bacteria 510 521	B. subtilis
+T10	Bacteria 537 548	B. subtilis
+T11	Habitat 576 580	crop
+T12	Habitat 656 661	plant
+T13	Bacteria 712 730	Bacillus anthracis
+T14	Bacteria 819 831	B. anthracis
+T15	Bacteria 878 887	B. cereus
+T16	Bacteria 892 908	B. thuringiensis
+T17	Bacteria 955 967	B. anthracis
+T18	Bacteria 1037 1046	B. cereus
+T19	Bacteria 1202 1211	B. cereus
+T20	Bacteria 1295 1313	Bacillus anthracis
+T21	Bacteria 1371 1386	B. cereus group
+T22	Bacteria 1397 1409	B. anthracis
+T23	Bacteria 1411 1420	B. cereus
+T24	Bacteria 1426 1442	B. thuringiensis
+T25	Bacteria 1460 1472	B. anthracis
+T26	Bacteria 1563 1574	B. subtilis
+T27	Habitat 1702 1708	insect
+T28	Bacteria 1718 1734	B. thuringiensis
+T29	Bacteria 1789 1797	Bacillus
+T30	Bacteria 1799 1806	bacilli
+T31	Habitat 1863 1867	soil
+T32	Habitat 1872 1879	insects
+T33	Habitat 1883 1889	humans
+T34	Bacteria 1891 1913	Bacillus thuringiensis
+T35	Habitat 1926 1933	insects
+T36	Habitat 1964 1968	pest
+T37	Bacteria 2014 2021	bacilli
+T38	Bacteria 2055 2063	Bacillus
+T39	Habitat 2110 2125	decaying matter
+T40	Bacteria 2148 2165	Bacillus subtilis
+T41	Habitat 2179 2190	rhizosphere
+T42	Habitat 2223 2228	plant
+T43	Habitat 2223 2234	plant roots
+T44	Habitat 2255 2259	soil
+T45	Habitat 2265 2271	plants
+T46	Habitat 2265 2277	plants roots
+T47	Habitat 2293 2300	biofilm
+T48	Habitat 2355 2359	soil
+T49	Bacteria 2424 2441	Bacillus subtilis
+T50	Bacteria 2561 2568	bacilli
+T51	Bacteria 2654 2662	bacteria
+T52	Bacteria 2711 2718	bacilli
+T53	Bacteria 2801 2809	bacteria
+T54	Bacteria 2872 2879	bacilli
+T55	Bacteria 2954 2961	Bacilli
+T56	Habitat 2996 2999	ear
+T57	Habitat 3030 3043	urinary tract
+T58	Habitat 3115 3136	immunodeficient hosts
+T59	Habitat 3150 3167	compromised hosts
+T60	Habitat 3221 3227	tissue
+T61	Bacteria 3328 3335	bacilli
+T62	Bacteria 3358 3376	Bacillus anthracis
+T63	Habitat 3410 3416	humans
+T64	Geographical 3476 3481	Egypt
+T65	Habitat 3525 3532	animals
+T66	Habitat 3572 3577	boils
+T67	Habitat 3589 3595	humans
+T68	Habitat 3672 3676	cows
+T69	Habitat 3945 3955	herbivores
+T70	Bacteria 3972 3981	bacterium
+T71	Habitat 3992 4008	plants with dust
+T72	Habitat 3992 3998	plants
+T73	Habitat 4004 4008	dust
+T74	Habitat 4039 4045	Humans
+T75	Habitat 4092 4101	Cutaneous
+T76	Habitat 4124 4129	human
+T77	Habitat 4170 4184	dust particles
+T78	Habitat 4203 4209	animal
+T79	Habitat 4213 4220	carcass
+T80	Habitat 4231 4234	cut
+T81	Habitat 4238 4246	abrasion
+T82	Habitat 4248 4257	Cutaneous
+T83	Habitat 4401 4407	papule
+T84	Habitat 4446 4452	papule
+T85	Habitat 4510 4516	eschar
+T86	Habitat 4581 4597	Gastrointestinal
+T87	Habitat 4633 4650	contaminated meat
+T88	Habitat 4669 4686	intestinal mucosa
+T89	Habitat 4717 4723	mucosa
+T90	Habitat 4746 4753	lesions
+T91	Habitat 4785 4794	cutaneous
+T92	Habitat 4893 4902	Pulmonary
+T93	Habitat 4971 4982	lymph nodes
+T94	Habitat 5047 5059	blood stream
+T95	Habitat 5064 5074	lymphatics
+T96	Bacteria 5387 5405	Bacillus anthracis
+T97	Bacteria 5545 5557	B. anthracis
+T98	Bacteria 5622 5631	B. cereus
+T99	Bacteria 5636 5652	B. thuringiensis
+T100	Habitat 5710 5723	infected mice
+T101	Habitat 5964 5975	Researchers
+T102	Bacteria 6157 6166	bacterium
+T103	Bacteria 6221 6228	bacilli
+T104	Bacteria 6327 6335	bacteria
+T105	Bacteria 6465 6472	bacilli
+T106	Bacteria 6490 6498	Bacillus
+T107	Habitat 6499 6507	microbes
+T108	Bacteria 6545 6553	bacillus
+T109	Bacteria 6588 6599	B. subtilis
+T110	Habitat 6691 6695	soil
+R1	Localization Bacterium:T1 Localization:T59
+R2	Localization Bacterium:T62 Localization:T73
+R3	Localization Bacterium:T62 Localization:T78
+R4	Localization Bacterium:T1 Localization:T56
+R5	Localization Bacterium:T62 Localization:T69
+R6	Localization Bacterium:T62 Localization:T87
+R7	Localization Bacterium:T1 Localization:T33
+R8	Localization Bacterium:T1 Localization:T32
+R9	Localization Bacterium:T4 Localization:T45
+R10	Localization Bacterium:T62 Localization:T95
+R11	Localization Bacterium:T62 Localization:T100
+R12	Localization Bacterium:T62 Localization:T81
+R13	Localization Bacterium:T62 Localization:T93
+R14	Localization Bacterium:T62 Localization:T88
+R15	Localization Bacterium:T62 Localization:T80
+R16	Localization Bacterium:T62 Localization:T79
+R17	Localization Bacterium:T62 Localization:T68
+R18	Localization Bacterium:T62 Localization:T94
+R19	Localization Bacterium:T62 Localization:T90
+R20	Localization Bacterium:T28 Localization:T35
+R21	Localization Bacterium:T28 Localization:T27
+R22	Localization Bacterium:T62 Localization:T74
+R23	Localization Bacterium:T1 Localization:T31
+R24	Localization Bacterium:T1 Localization:T57
+R25	Localization Bacterium:T4 Localization:T41
+R26	Localization Bacterium:T1 Localization:T58
+R27	PartOf Host:T45 Part:T41
+R28	PartOf Host:T59 Part:T56
+R29	PartOf Host:T74 Part:T90
+R30	PartOf Host:T74 Part:T95
+R31	PartOf Host:T74 Part:T88
+R32	PartOf Host:T74 Part:T93
+R33	PartOf Host:T74 Part:T81
+R34	PartOf Host:T74 Part:T94
+R35	PartOf Host:T58 Part:T56
+R36	PartOf Host:T59 Part:T57
+R37	PartOf Host:T58 Part:T57
+R38	PartOf Host:T74 Part:T80
+*	Equiv T73 T77
+*	Equiv T89 T88
+*	Equiv T76 T74
+*	Equiv T4 T10 T109 T26 T6 T9 T49 T40
+*	Equiv T16 T34 T24 T99 T28
+*	Equiv T14 T20 T22 T96 T62 T97 T13 T2 T25 T17
+*	Equiv T15 T98 T19 T23 T18

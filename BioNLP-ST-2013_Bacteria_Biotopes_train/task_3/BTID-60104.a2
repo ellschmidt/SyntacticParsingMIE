@@ -1,0 +1,97 @@
+T1	Bacteria 0 13	Campylobacter
+T2	Bacteria 22 28	C.coli
+T3	Bacteria 30 40	C.concisus
+T4	Bacteria 42 51	C. curvus
+T5	Bacteria 53 64	C. faecalis
+T6	Bacteria 66 78	C. fetus sp.
+T7	Bacteria 80 91	C. gracilis
+T8	Bacteria 93 106	C. helveticus
+T9	Bacteria 108 118	C. hominis
+T10	Bacteria 120 142	C. hyointestinalis sp.
+T11	Bacteria 144 157	C. jejuni sp.
+T12	Bacteria 159 168	C. jejuni
+T13	Bacteria 174 183	bacterium
+T14	Bacteria 185 200	C. lanienae sp.
+T15	Bacteria 202 209	C. lari
+T16	Bacteria 211 223	C. mucosalis
+T17	Bacteria 225 237	C. mucosalis
+T18	Bacteria 243 252	bacterium
+T19	Bacteria 254 263	C. rectus
+T20	Bacteria 265 274	C. showae
+T21	Bacteria 276 291	C. sputorum sp.
+T22	Bacteria 293 307	C. upsaliensis
+T23	Bacteria 337 350	Campylobacter
+T24	Habitat 468 472	food
+T25	Bacteria 501 511	Salmonella
+T26	Bacteria 552 572	Campylobacter jejuni
+T27	Geographical 601 614	Sanger Centre
+T28	Bacteria 638 647	C. jejuni
+T29	Bacteria 724 733	C. jejuni
+T30	Bacteria 757 766	bacterium
+T31	Bacteria 896 909	Campylobacter
+T32	Bacteria 968 977	bacterial
+T33	Habitat 996 1000	body
+T34	Bacteria 1116 1129	Campylobacter
+T35	Habitat 1155 1159	body
+T36	Habitat 1176 1180	body
+T37	Habitat 1229 1233	body
+T38	Bacteria 1284 1297	Campylobacter
+T39	Habitat 1312 1355	habitats with an oxygen level lower than 5%
+T40	Habitat 1390 1417	intestinal tract of animals
+T41	Habitat 1410 1417	animals
+T42	Bacteria 1419 1432	Campylobacter
+T43	Habitat 1447 1472	mucosal surfaces of birds
+T44	Habitat 1447 1466;1477 1484	mucosal surfaces of mammals
+T45	Habitat 1467 1472	birds
+T46	Habitat 1477 1484	mammals
+T47	Habitat 1525 1536	mucous flow
+T48	Bacteria 1566 1579	Campylobacter
+T49	Bacteria 1644 1657	Campylobacter
+T50	Bacteria 1751 1764	Campylobacter
+T51	Bacteria 1765 1773	bacteria
+T52	Bacteria 1806 1814	Shigella
+T53	Bacteria 1819 1829	Salmonella
+T54	Bacteria 1962 1975	Campylobacter
+T55	Bacteria 1977 1986	C. jejuni
+T56	Bacteria 2006 2019	Campylobacter
+T57	Habitat 2042 2048	bloody
+T58	Habitat 2086 2092	Humans
+T59	Bacteria 2116 2129	Campylobacter
+T60	Habitat 2147 2164	contaminated milk
+T61	Habitat 2147 2159;2169 2174	contaminated water
+T62	Habitat 2193 2209	undercooked meat
+T63	Habitat 2224 2231	chicken
+T64	Bacteria 2233 2242	C. jejuni
+T65	Bacteria 2281 2294	Campylobacter
+T66	Habitat 2334 2363	lining of the small intestine
+T67	Habitat 2348 2363	small intestine
+T68	Habitat 2375 2385	gut mucosa
+T69	Bacteria 2418 2431	Campylobacter
+R1	Localization Bacterium:T1 Localization:T63
+R2	Localization Bacterium:T25 Localization:T24
+R3	Localization Bacterium:T1 Localization:T41
+R4	Localization Bacterium:T1 Localization:T62
+R5	Localization Bacterium:T64 Localization:T66
+R6	Localization Bacterium:T1 Localization:T40
+R7	Localization Bacterium:T1 Localization:T46
+R8	Localization Bacterium:T1 Localization:T60
+R9	Localization Bacterium:T1 Localization:T33
+R10	Localization Bacterium:T1 Localization:T43
+R11	Localization Bacterium:T1 Localization:T47
+R12	Localization Bacterium:T1 Localization:T24
+R13	Localization Bacterium:T1 Localization:T45
+R14	Localization Bacterium:T1 Localization:T61
+R15	Localization Bacterium:T1 Localization:T58
+R16	Localization Bacterium:T64 Localization:T67
+R17	PartOf Host:T45 Part:T43
+R18	PartOf Host:T41 Part:T40
+R19	PartOf Host:T45 Part:T47
+R20	PartOf Host:T46 Part:T47
+R21	PartOf Host:T58 Part:T66
+R22	PartOf Host:T46 Part:T44
+R23	PartOf Host:T58 Part:T68
+R24	PartOf Host:T58 Part:T67
+*	Equiv T1 T50 T59 T65 T38 T49 T23 T34 T31 T42 T48
+*	Equiv T26 T28 T29
+*	Equiv T64 T55
+*	Equiv T33 T35 T36 T37

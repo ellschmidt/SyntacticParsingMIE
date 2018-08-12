@@ -1,0 +1,24 @@
+T1	Habitat 55 59	leaf
+T2	Habitat 70 74	rice
+T3	Habitat 210 214	rice
+T4	Habitat 217 232	Oryza sativa L.
+T5	Habitat 271 275	rice
+T6	Habitat 287 311	tropical Asian countries
+T7	Habitat 318 346	high-yielding rice cultivars
+T8	Habitat 400 408	vascular
+T9	Habitat 430 480	tannish-gray to white lesions along the leaf veins
+T10	Habitat 470 480	leaf veins
+T11	Habitat 470 474	leaf
+T12	Habitat 485 509	severely infested fields
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001188
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001821
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001821
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001821
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001821
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001041
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001821
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000675
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000268
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000123
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001188
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000261

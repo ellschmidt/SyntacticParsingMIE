@@ -1,0 +1,46 @@
+ Sample Data for BioNLP'13 Shared Task on Event Extraction -- Bacteria Biotopes tasks
+
+
+- Contains 15 documents their entities, localization and coreference relations
+
+- For format details, please refer to the shared task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+
+File Descriptions:
+
+*.txt   files contain the target text, each newline denotes a paragraph break.
+
+
+The directory "task_1" contains the annotation files for task 1 (entity recognition and categorization):
+
+*.a2    files contain habitat entity annotations and their categorizations.
+	These files are provided to the participants for training. For the test, participants are only provided the document text contents.
+
+
+The directory "task_2" contains the annotation files for task 2 (relation extraction):
+
+*.a1	files contain bacteria, habitat and geographical entities.
+	These files are provided to the participants for training and testing.
+
+*.a2	files contain localization relations and coreference groups.
+	These files are provided to the participants for training only. The evaluation takes the coreferences into account, but the systems are not required to predict them.
+
+
+The directory "task_3" contains the annotation files for task 3 (entity recognition and relation extraction):
+
+*.a1	files contain bacteria, habitat and geographical entities, localization relations and coreference groups.
+	These files are provided to the participants for training only. For the test, participants are only provided the document text contents. The evaluation takes the coreferences into account, but the systems are not required to predict them.
+
+
+
+History:
+
+19 October 2012, sample data release
+
+Authors:
+
+BioNLP'13 Shared Task organizers,
+bionlpsharedtask@gmail.com
+https://sites.google.com/site/bionlpst2013

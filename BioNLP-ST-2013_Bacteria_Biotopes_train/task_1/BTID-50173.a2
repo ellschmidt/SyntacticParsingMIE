@@ -1,0 +1,16 @@
+T1	Habitat 173 179	oceans
+T2	Habitat 181 195	coastal waters
+T3	Habitat 201 210	estuaries
+T4	Habitat 299 305	humans
+T5	Habitat 583 588	Fluid
+T6	Habitat 736 744	children
+T7	Habitat 1791 1804	microorganism
+T8	Habitat 1815 1820	human
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001257
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000429
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001463
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000921
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000650
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001516
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001402

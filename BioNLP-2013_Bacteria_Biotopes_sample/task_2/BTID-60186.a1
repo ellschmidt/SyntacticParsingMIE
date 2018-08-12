@@ -1,0 +1,66 @@
+T1	Bacteria 0 23	Dechloromonas aromatica
+T2	Bacteria 54 77	Dechloromonas aromatica
+T3	Habitat 83 99	rod shaped cells
+T4	Habitat 117 124	aquatic
+T5	Habitat 129 145	aquatic sediment
+T6	Bacteria 239 262	D. aromatica strain RCB
+T7	Geographical 281 294	Potomic River
+T8	Habitat 281 303	Potomic River sediment
+T9	Geographical 305 313	Maryland
+T10	Geographical 315 318	USA
+T11	Habitat 347 359	pure culture
+T12	Habitat 519 530	researchers
+T13	Habitat 698 704;717 723	ground waters
+T14	Habitat 709 723	surface waters
+T15	Habitat 891 912	petroleum-based fuels
+T16	Bacteria 1173 1185	D. aromatica
+T17	Bacteria 1209 1225	D. aromatica RCB
+T18	Habitat 1483 1522	areas of high perchlorate concentration
+T19	Bacteria 1566 1589	Dechloromonas aromatica
+T20	Habitat 1983 1989	humans
+T21	Habitat 2031 2036	human
+T22	Habitat 2095 2126	foods contaminated with benzene
+T23	Habitat 2149 2156	stomach
+T24	Habitat 2176 2182	humans
+T25	Habitat 2269 2285	ovaries in women
+T26	Habitat 2280 2285	women
+T27	Geographical 2318 2360	US Department of Health and Human Services
+T28	Habitat 2384 2391	animals
+T29	Habitat 2443 2447	bone
+T30	Habitat 2463 2474	bone morrow
+T31	Habitat 2487 2503	pregnant animals
+T32	Geographical 2547 2549	US
+T33	Habitat 2579 2629	sites of benzene soil or groundwater contamination
+T34	Habitat 2596 2600	soil
+T35	Habitat 2604 2615	groundwater
+T36	Geographical 2679 2710	rapidly industrializing nations
+T37	Geographical 2719 2724	China
+T38	Habitat 2751 2773	water supply to Harbin
+T39	Geographical 2767 2773	Harbin
+T40	Habitat 2777 2819	city with a population of almost 9 million
+T41	Habitat 2884 2928	China National Petroleum Corporation factory
+T42	Geographical 2884 2920	China National Petroleum Corporation
+T43	Bacteria 3001 3024	Dechloromonas aromatica
+T44	Habitat 3187 3193	humans
+T45	Habitat 3325 3378	areas where there is contaminated soil or groundwater
+T46	Habitat 3346 3363	contaminated soil
+T47	Habitat 3346 3358;3367 3378	contaminated groundwater
+T48	Habitat 3407 3418	Researchers
+T49	Habitat 3565 3608	soil containing radioactive labeled benzene
+T50	Bacteria 3629 3652	Dechloromonas aromatica
+T51	Bacteria 3768 3791	Dechloromonas aromatica
+T52	Habitat 3884 3895	researchers
+T53	Bacteria 3928 3931	RCB
+T54	Habitat 4139 4155	cells in culture
+T55	Habitat 4217 4228	researchers
+T56	Habitat 4341 4367	benzene contaminated sites
+T57	Habitat 4429 4441	pure culture
+T58	Bacteria 4460 4473	Dechloromonas
+T59	Habitat 4609 4620	researchers
+T60	Bacteria 4684 4718	Dechloromonas aromatica strain RCB
+T61	Bacteria 4924 4958	Dechloromonas aromatica strain RCB
+T62	Bacteria 5087 5121	Dechloromonas aromatica strain RCB
+T63	Bacteria 5251 5275	Dechloromonas Strain RCB
+T64	Habitat 5376 5387	researchers
+T65	Bacteria 5589 5623	Dechloromonas aromatica strain RCB
+T66	Bacteria 5919 5943	Dechloromonas Strain RCB

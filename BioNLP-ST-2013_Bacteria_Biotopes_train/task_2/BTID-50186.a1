@@ -1,0 +1,38 @@
+T1	Bacteria 0 27	Yersinia pseudotuberculosis
+T2	Bacteria 28 55	Yersinia pseudotuberculosis
+T3	Habitat 61 66	human
+T4	Bacteria 123 131	Yersinia
+T5	Habitat 214 220	humans
+T6	Bacteria 222 232	Y . pestis
+T7	Bacteria 235 257	Y . pseudotuberculosis
+T8	Bacteria 264 282	Y . enterocolitica
+T9	Bacteria 284 305	Y. pseudotuberculosis
+T10	Bacteria 363 381	Enterobacteriaceae
+T11	Bacteria 501 509	Yersinia
+T12	Habitat 612 634	mesenteric lymph nodes
+T13	Habitat 623 628	lymph
+T14	Bacteria 734 755	Y. pseudotuberculosis
+T15	Habitat 793 797	soil
+T16	Habitat 799 804	water
+T17	Habitat 806 816	vegetables
+T18	Bacteria 829 838	bacterium
+T19	Habitat 864 868;882 889	wild animals
+T20	Habitat 873 889	domestic animals
+T21	Habitat 920 926	animal
+T22	Bacteria 961 982	Y. pseudotuberculosis
+T23	Habitat 1068 1075	animals
+T24	Habitat 1169 1173	feco
+T25	Habitat 1174 1178	oral
+T26	Habitat 1189 1195	humans
+T27	Bacteria 1197 1218	Y. pseudotuberculosis
+T28	Habitat 1297 1302	water
+T29	Habitat 1306 1310	food
+T30	Habitat 1338 1344	animal
+T31	Habitat 1338 1351	animal faeces
+T32	Habitat 1366 1372	Humans
+T33	Habitat 1414 1423	abdominal
+T34	Bacteria 1722 1743	Y. pseudotuberculosis
+T35	Bacteria 1787 1796	Y. pestis
+T36	Bacteria 1977 1986	Y. pestis
+T37	Bacteria 2039 2060	Y. pseudotuberculosis
+T38	Bacteria 2114 2135	Y. pseudotuberculosis

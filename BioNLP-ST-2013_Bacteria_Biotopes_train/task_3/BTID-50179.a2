@@ -1,0 +1,65 @@
+T1	Bacteria 0 9	Wolbachia
+T2	Bacteria 10 19	Wolbachia
+T3	Habitat 37 50	Brugia malayi
+T4	Habitat 86 91	males
+T5	Bacteria 112 121	Wolbachia
+T6	Bacteria 140 148	bacteria
+T7	Habitat 159 172	intracellular
+T8	Habitat 202 215	invertebrates
+T9	Habitat 249 262	Brugia malayi
+T10	Habitat 336 341	worms
+T11	Bacteria 352 361	Wolbachia
+T12	Habitat 372 385	intracellular
+T13	Bacteria 386 406	alpha-proteobacteria
+T14	Habitat 432 437	human
+T15	Habitat 432 437;454 472	human filarial parasites
+T16	Habitat 447 472	animal filarial parasites
+T17	Habitat 447 453	animal
+T18	Habitat 520 529	arthropod
+T19	Habitat 542 552	arthropods
+T20	Bacteria 558 567	Wolbachia
+T21	Habitat 772 777	males
+T22	Bacteria 779 788	Wolbachia
+T23	Habitat 827 855	parasitic filarial nematodes
+T24	Bacteria 939 948	Wolbachia
+T25	Habitat 1000 1008	vaccines
+T26	Habitat 1173 1200	tropical areas of the world
+T27	Habitat 1404 1412;1429 1434	tropical areas
+T28	Habitat 1417 1434	subtropical areas
+T29	Habitat 1527 1533	cities
+T30	Habitat 1560 1593	breeding sites for the mosquitoes
+T31	Habitat 1583 1593	mosquitoes
+T32	Habitat 1734 1746	potent drugs
+T33	Habitat 1787 1793	insect
+T34	Habitat 1860 1879	parasitic nematodes
+T35	Habitat 1904 1910	humans
+T36	Habitat 1914 1920	insect
+T37	Habitat 1967 1985	filarial parasites
+T38	Habitat 2036 2042	people
+T39	Habitat 2073 2079	people
+T40	Habitat 2377 2390	Brugia malayi
+T41	Habitat 2396 2413	filarial nematode
+T42	Geographical 2446 2451;2467 2471	South Asia
+T43	Geographical 2456 2471	South East Asia
+T44	Habitat 2499 2531	bite of blood-feeding mosquitoes
+T45	Habitat 2507 2531	blood-feeding mosquitoes
+T46	Habitat 2507 2512	blood
+T47	Habitat 2561 2577	lymphatic system
+T48	Habitat 2596 2605	lymphatic
+R1	Localization Bacterium:T2 Localization:T3
+R2	Localization Bacterium:T2 Localization:T19
+R3	Localization Bacterium:T2 Localization:T7
+R4	Localization Bacterium:T2 Localization:T23
+R5	Localization Bacterium:T2 Localization:T12
+R6	Localization Bacterium:T2 Localization:T15
+R7	Localization Bacterium:T2 Localization:T8
+R8	Localization Bacterium:T2 Localization:T4
+R9	Localization Bacterium:T2 Localization:T16
+R10	PartOf Host:T15 Part:T12
+R11	PartOf Host:T16 Part:T12
+R12	PartOf Host:T8 Part:T7
+*	Equiv T4 T21
+*	Equiv T40 T10 T9 T3
+*	Equiv T35 T14
+*	Equiv T36 T33
+*	Equiv T2 T5 T24 T1 T11 T20 T22

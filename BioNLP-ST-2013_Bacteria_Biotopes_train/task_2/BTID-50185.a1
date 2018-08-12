@@ -1,0 +1,49 @@
+T1	Bacteria 0 15	Yersinia pestis
+T2	Bacteria 16 31	Yersinia pestis
+T3	Bacteria 54 69	Yersinia pestis
+T4	Bacteria 120 138	Enterobacteriaceae
+T5	Bacteria 305 320	Yersinia pestis
+T6	Habitat 354 375	French bacteriologist
+T7	Geographical 354 360	French
+T8	Geographical 384 401	Institute Pasteur
+T9	Geographical 409 417	Far East
+T10	Geographical 419 428	Hong Kong
+T11	Bacteria 495 510	Yersinia pestis
+T12	Habitat 526 532	rodent
+T13	Habitat 548 554	humans
+T14	Habitat 607 615	rat flea
+T15	Habitat 607 610	rat
+T16	Habitat 621 625	flea
+T17	Bacteria 639 648	Y. pestis
+T18	Habitat 668 684	intestinal tract
+T19	Habitat 718 722	flea
+T20	Habitat 737 758	flea's proventriculus
+T21	Habitat 737 741	flea
+T22	Habitat 760 777	digestive chamber
+T23	Bacteria 785 794	Y. pestis
+T24	Habitat 802 806	flea
+T25	Habitat 838 842	flea
+T26	Habitat 857 862	blood
+T27	Habitat 943 947	flea
+T28	Habitat 988 999	bloodstream
+T29	Habitat 1031 1036	liver
+T30	Habitat 1038 1044	spleen
+T31	Habitat 1050 1055	lungs
+T32	Habitat 1061 1068	patient
+T33	Bacteria 1087 1096	bacterial
+T34	Habitat 1160 1163	air
+T35	Habitat 1206 1224	untreated patients
+T36	Habitat 1368 1372	flea
+T37	Bacteria 1549 1558	Y. pestis
+T38	Habitat 1719 1739	harmless stomach bug
+T39	Habitat 1728 1735	stomach
+T40	Habitat 1745 1750	blood
+T41	Bacteria 1778 1787	Y. pestis
+T42	Bacteria 1814 1822	bacteria
+T43	Habitat 1866 1871	blood
+T44	Habitat 1887 1896	intestine
+T45	Habitat 1914 1925	researchers
+T46	Bacteria 2157 2166	Y. pestis
+T47	Habitat 2184 2189	human
+T48	Habitat 2184 2193	human gut
+T49	Habitat 2323 2326	gut

@@ -1,0 +1,37 @@
+T1	Habitat 37 47	nosocomial
+T2	Habitat 240 244	soil
+T3	Habitat 380 390	nosocomial
+T4	Habitat 554 572	tropical countries
+T5	Habitat 605 614	community
+T6	Habitat 658 666	hospital
+T7	Habitat 765 770	blood
+T8	Habitat 789 807	alcoholic patients
+T9	Habitat 914 924	nosocomial
+T10	Habitat 958 966	hospital
+T11	Habitat 1142 1151	community
+T12	Habitat 1335 1339	body
+T13	Habitat 1335 1344	body lice
+T14	Habitat 1358 1390	homeless people living in France
+T15	Habitat 1407 1421	louse interior
+T16	Habitat 1407 1412	louse
+T17	Habitat 1571 1581	nosocomial
+T18	Habitat 1611 1620	community
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000573
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001773
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000573
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001041
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001658
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00002039
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001569
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001681
+N9	OntoBiotope Annotation:T8 Referent:MBTO:00001607
+N10	OntoBiotope Annotation:T9 Referent:MBTO:00000573
+N11	OntoBiotope Annotation:T10 Referent:MBTO:00002039
+N12	OntoBiotope Annotation:T11 Referent:MBTO:00001658
+N13	OntoBiotope Annotation:T12 Referent:MBTO:00000190
+N14	OntoBiotope Annotation:T13 Referent:MBTO:00002052
+N15	OntoBiotope Annotation:T14 Referent:MBTO:00001402
+N16	OntoBiotope Annotation:T15 Referent:MBTO:00001046
+N17	OntoBiotope Annotation:T16 Referent:MBTO:00002052
+N18	OntoBiotope Annotation:T17 Referent:MBTO:00000573
+N19	OntoBiotope Annotation:T18 Referent:MBTO:00001658

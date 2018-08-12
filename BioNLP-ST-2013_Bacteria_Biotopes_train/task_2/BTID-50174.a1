@@ -1,0 +1,51 @@
+T1	Bacteria 0 15	Vibrio fischeri
+T2	Bacteria 16 31	Vibrio fischeri
+T3	Habitat 63 77	marine species
+T4	Habitat 63 69	marine
+T5	Bacteria 78 93	Vibrio fischeri
+T6	Bacteria 109 121	Vibrionaceae
+T7	Habitat 141 147	marine
+T8	Bacteria 148 168	gamma-proteobacteria
+T9	Habitat 282 288	animal
+T10	Habitat 282 295	animal tissue
+T11	Bacteria 336 342	Vibrio
+T12	Habitat 362 367	human
+T13	Bacteria 427 442	Vibrio cholerae
+T14	Bacteria 444 467	Vibrio parahaemolyticus
+T15	Bacteria 473 490	Vibrio vulnificus
+T16	Bacteria 527 533	Vibrio
+T17	Bacteria 607 619	Vibrionaceae
+T18	Bacteria 684 699	Vibrio fischeri
+T19	Habitat 734 752	marine environment
+T20	Habitat 843 859	luminescent fish
+T21	Habitat 843 854;863 868	luminescent squid
+T22	Habitat 927 948	light-emitting organs
+T23	Habitat 971 977	squids
+T24	Habitat 982 988	fishes
+T25	Habitat 1007 1020	bobtail squid
+T26	Habitat 1022 1039	Euprymna scolopes
+T27	Bacteria 1045 1053	bacteria
+T28	Habitat 1075 1087	light organs
+T29	Habitat 1095 1099	fish
+T30	Habitat 1103 1108	squid
+T31	Habitat 1164 1168	fish
+T32	Habitat 1172 1177	squid
+T33	Habitat 1225 1229	prey
+T34	Habitat 1289 1312	squid Euprymna scolopes
+T35	Habitat 1289 1294	squid
+T36	Habitat 1336 1347	light organ
+T37	Habitat 1372 1381	sea floor
+T38	Habitat 1372 1375	sea
+T39	Habitat 1406 1411	squid
+T40	Habitat 1486 1491	squid
+T41	Habitat 1499 1508	sea floor
+T42	Habitat 1499 1502	sea
+T43	Bacteria 1548 1556	bacteria
+T44	Habitat 1576 1594	marine environment
+T45	Bacteria 1600 1608	bacteria
+T46	Habitat 1644 1656	light organs
+T47	Bacteria 1751 1759	bacteria
+T48	Bacteria 1881 1892	V. fischeri
+T49	Bacteria 2097 2108	V. fischeri
+T50	Bacteria 2121 2130	bacterium
+T51	Bacteria 2282 2293	V. cholerae

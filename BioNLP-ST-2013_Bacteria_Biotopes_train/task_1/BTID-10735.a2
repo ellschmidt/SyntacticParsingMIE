@@ -1,0 +1,46 @@
+T1	Habitat 93 98	human
+T2	Habitat 393 398	human
+T3	Habitat 561 565	cell
+T4	Habitat 637 663	Institut Pasteur scientist
+T5	Habitat 736 743	bubonic
+T6	Habitat 748 757	pulmonary
+T7	Habitat 855 859	rats
+T8	Habitat 863 869	humans
+T9	Habitat 902 906	flea
+T10	Habitat 915 920	human
+T11	Habitat 924 929	human
+T12	Habitat 942 945	air
+T13	Habitat 1140 1154	enteroinvasive
+T14	Habitat 1189 1200	macrophages
+T15	Habitat 1858 1864	murine
+T16	Habitat 1882 1885	rat
+T17	Habitat 1889 1894	human
+T18	Habitat 1953 1957	flea
+T19	Habitat 1953 1964	flea midgut
+T20	Habitat 1966 1977	Deep tissue
+T21	Habitat 2182 2195	intracellular
+T22	Habitat 2333 2340	patient
+T23	Habitat 2415 2418	cat
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001852
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000414
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000769
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000476
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001438
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001402
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000506
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001402
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000611
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000110
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000012
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001808
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001438
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001402
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000506
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001983
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000292
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001946
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001607
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000006

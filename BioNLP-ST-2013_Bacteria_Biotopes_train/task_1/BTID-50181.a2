@@ -1,0 +1,50 @@
+T1	Habitat 51 56	plant
+T2	Habitat 78 84	citrus
+T3	Habitat 95 101	citrus
+T4	Habitat 95 108	citrus fruits
+T5	Habitat 356 362	citrus
+T6	Habitat 407 434	commercial citrus cultivars
+T7	Habitat 471 477	citrus
+T8	Habitat 532 546	canker lesions
+T9	Habitat 550 556	fruits
+T10	Habitat 558 564	leaves
+T11	Habitat 569 574	stems
+T12	Habitat 603 608	fruit
+T13	Habitat 613 619	leaves
+T14	Habitat 621 625	twig
+T15	Habitat 647 651	tree
+T16	Habitat 719 730	citrus leaf
+T17	Habitat 719 725	citrus
+T18	Habitat 719 736	citrus leaf miner
+T19	Habitat 738 760	Phyllocnistis citrella
+T20	Habitat 813 829	foliar mesophyll
+T21	Habitat 891 897	plants
+T22	Habitat 943 954	Researchers
+T23	Habitat 980 985	plant
+T24	Habitat 1054 1059	crops
+T25	Habitat 1072 1078	plants
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002027
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000102
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000102
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001798
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000102
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000102
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000102
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000268
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001605
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001188
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000512
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001605
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001188
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000323
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000772
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001188
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000102
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000120
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000120
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000243
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00002027
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001581
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00002027
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001555
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00002027

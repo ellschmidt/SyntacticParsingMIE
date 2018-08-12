@@ -1,0 +1,114 @@
+T1	Habitat 39 55	sugar cane crops
+T2	Habitat 39 49	sugar cane
+T3	Habitat 157 167	sugar cane
+T4	Habitat 175 179	leaf
+T5	Habitat 260 266	leaves
+T6	Habitat 287 292	plant
+T7	Habitat 328 334	leaves
+T8	Habitat 375 393	tropical countries
+T9	Habitat 408 418	sugar cane
+T10	Habitat 455 460	field
+T11	Habitat 469 476	factory
+T12	Habitat 523 558	juice extracted from the sugar cane
+T13	Habitat 619 624	crops
+T14	Habitat 674 707	resistant varieties of sugar cane
+T15	Habitat 792 795	rum
+T16	Habitat 846 874	bio-carburant in automobiles
+T17	Habitat 895 899	food
+T18	Habitat 907 917	sugar cane
+T19	Habitat 1186 1196	sugar cane
+T20	Habitat 1305 1316	sweet stems
+T21	Habitat 1334 1339	plant
+T22	Habitat 1517 1532	phytopathogenic
+T23	Habitat 1670 1676	leaves
+T24	Habitat 2134 2144	sugar cane
+T25	Habitat 2134 2150	sugar cane stems
+T26	Habitat 2418 2424	plants
+T27	Habitat 2428 2436;2451 2456	tropical zones
+T28	Habitat 2441 2456	temperate zones
+T29	Habitat 2517 2523	plants
+T30	Habitat 2532 2538	coffee
+T31	Habitat 2540 2546	grapes
+T32	Habitat 2548 2559	fruit trees
+T33	Habitat 2561 2573	citrus fruit
+T34	Habitat 2575 2582	almonds
+T35	Habitat 2584 2590	olives
+T36	Habitat 2596 2612	decorative trees
+T37	Habitat 2617 2623	shrubs
+T38	Habitat 2625 2628	oak
+T39	Habitat 2630 2635	maple
+T40	Habitat 2637 2645	oleander
+T41	Habitat 2793 2799	Humans
+T42	Habitat 2870 2899	contaminated harvesting tools
+T43	Habitat 2916 2939	infected plant material
+T44	Habitat 2925 2930	plant
+T45	Habitat 2941 2951	sugar cane
+T46	Habitat 2941 2960	sugar cane cuttings
+T47	Habitat 3005 3008	air
+T48	Habitat 3057 3065	aerosols
+T49	Habitat 3068 3075	insects
+T50	Habitat 3079 3089	Sugar cane
+T51	Habitat 3079 3096	Sugar cane fields
+T52	Habitat 3118 3132	healthy plants
+T53	Habitat 3187 3192	human
+T54	Habitat 3428 3438	sugar cane
+T55	Habitat 3893 3903	sugar cane
+T56	Habitat 3893 3909	sugar cane crops
+T57	Habitat 4149 4154	plant
+N1	Reference Annotation:T1 Reference:MBTO:00001849	crop
+N2	Reference Annotation:T2 Reference:MBTO:00001188	sugar cane
+N3	Reference Annotation:T3 Reference:MBTO:00001188	sugar cane
+N4	Reference Annotation:T4 Reference:MBTO:00001269	leaf
+N5	Reference Annotation:T5 Reference:MBTO:00001269	leaf
+N6	Reference Annotation:T6 Reference:MBTO:00000410	plant
+N7	Reference Annotation:T7 Reference:MBTO:00001269	leaf
+N8	Reference Annotation:T8 Reference:MBTO:00000957	tropical country
+N9	Reference Annotation:T9 Reference:MBTO:00001188	sugar cane
+N10	Reference Annotation:T10 Reference:MBTO:00001500	field
+N11	Reference Annotation:T11 Reference:MBTO:00001778	factory
+N12	Reference Annotation:T12 Reference:MBTO:00001965	juice
+N13	Reference Annotation:T13 Reference:MBTO:00001849	crop
+N14	Reference Annotation:T14 Reference:MBTO:00001188	sugar cane
+N15	Reference Annotation:T15 Reference:MBTO:00001970	rum
+N16	Reference Annotation:T16 Reference:MBTO:00001959	biofuel
+N17	Reference Annotation:T17 Reference:MBTO:00000158	food
+N18	Reference Annotation:T18 Reference:MBTO:00001188	sugar cane
+N19	Reference Annotation:T19 Reference:MBTO:00001188	sugar cane
+N20	Reference Annotation:T20 Reference:MBTO:00000883	sweet stem
+N21	Reference Annotation:T21 Reference:MBTO:00000410	plant
+N22	Reference Annotation:T22 Reference:MBTO:00000410	plant
+N23	Reference Annotation:T23 Reference:MBTO:00001269	leaf
+N24	Reference Annotation:T24 Reference:MBTO:00001188	sugar cane
+N25	Reference Annotation:T25 Reference:MBTO:00000879	stem
+N26	Reference Annotation:T26 Reference:MBTO:00000410	plant
+N27	Reference Annotation:T27 Reference:MBTO:00000956	tropical zone
+N28	Reference Annotation:T28 Reference:MBTO:00000955	temperate zone
+N29	Reference Annotation:T29 Reference:MBTO:00000410	plant
+N30	Reference Annotation:T30 Reference:MBTO:00001091	coffee
+N31	Reference Annotation:T31 Reference:MBTO:00001117	grape
+N32	Reference Annotation:T32 Reference:MBTO:00001112	fruit tree
+N33	Reference Annotation:T33 Reference:MBTO:00001090	citrus fruit
+N34	Reference Annotation:T34 Reference:MBTO:00001059	almond
+N35	Reference Annotation:T35 Reference:MBTO:00001153	olive
+N36	Reference Annotation:T36 Reference:MBTO:00001097	decorative tree
+N37	Reference Annotation:T37 Reference:MBTO:00001179	shrub
+N38	Reference Annotation:T38 Reference:MBTO:00001150	oak
+N39	Reference Annotation:T39 Reference:MBTO:00001141	maple
+N40	Reference Annotation:T40 Reference:MBTO:00001152	oleander
+N41	Reference Annotation:T41 Reference:MBTO:00001044	human
+N42	Reference Annotation:T42 Reference:MBTO:00000922	harvesting tool
+N43	Reference Annotation:T43 Reference:MBTO:00000939	plant material
+N44	Reference Annotation:T44 Reference:MBTO:00000410	plant
+N45	Reference Annotation:T45 Reference:MBTO:00001188	sugar cane
+N46	Reference Annotation:T46 Reference:MBTO:00001945	plant cutting
+N47	Reference Annotation:T47 Reference:MBTO:00000784	air
+N48	Reference Annotation:T48 Reference:MBTO:00001123	aerosol
+N49	Reference Annotation:T49 Reference:MBTO:00000413	insect
+N50	Reference Annotation:T50 Reference:MBTO:00001188	sugar cane
+N51	Reference Annotation:T51 Reference:MBTO:00001500	field
+N52	Reference Annotation:T52 Reference:MBTO:00000410	plant
+N53	Reference Annotation:T53 Reference:MBTO:00001044	human
+N54	Reference Annotation:T54 Reference:MBTO:00001188	sugar cane
+N55	Reference Annotation:T55 Reference:MBTO:00001188	sugar cane
+N56	Reference Annotation:T56 Reference:MBTO:00001849	crop
+N57	Reference Annotation:T57 Reference:MBTO:00000410	plant

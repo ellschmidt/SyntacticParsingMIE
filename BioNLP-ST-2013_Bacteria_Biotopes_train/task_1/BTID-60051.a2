@@ -1,0 +1,116 @@
+T1	Habitat 395 400	plant
+T2	Habitat 576 580	crop
+T3	Habitat 656 661	plant
+T4	Habitat 1702 1708	insect
+T5	Habitat 1863 1867	soil
+T6	Habitat 1872 1879	insects
+T7	Habitat 1883 1889	humans
+T8	Habitat 1926 1933	insects
+T9	Habitat 1964 1968	pest
+T10	Habitat 2110 2125	decaying matter
+T11	Habitat 2179 2190	rhizosphere
+T12	Habitat 2223 2228	plant
+T13	Habitat 2223 2234	plant roots
+T14	Habitat 2255 2259	soil
+T15	Habitat 2265 2271	plants
+T16	Habitat 2265 2277	plants roots
+T17	Habitat 2293 2300	biofilm
+T18	Habitat 2355 2359	soil
+T19	Habitat 2996 2999	ear
+T20	Habitat 3030 3043	urinary tract
+T21	Habitat 3115 3136	immunodeficient hosts
+T22	Habitat 3150 3167	compromised hosts
+T23	Habitat 3221 3227	tissue
+T24	Habitat 3410 3416	humans
+T25	Habitat 3525 3532	animals
+T26	Habitat 3572 3577	boils
+T27	Habitat 3589 3595	humans
+T28	Habitat 3672 3676	cows
+T29	Habitat 3945 3955	herbivores
+T30	Habitat 3992 4008	plants with dust
+T31	Habitat 3992 3998	plants
+T32	Habitat 4004 4008	dust
+T33	Habitat 4039 4045	Humans
+T34	Habitat 4092 4101	Cutaneous
+T35	Habitat 4124 4129	human
+T36	Habitat 4170 4184	dust particles
+T37	Habitat 4203 4209	animal
+T38	Habitat 4213 4220	carcass
+T39	Habitat 4231 4234	cut
+T40	Habitat 4238 4246	abrasion
+T41	Habitat 4248 4257	Cutaneous
+T42	Habitat 4401 4407	papule
+T43	Habitat 4446 4452	papule
+T44	Habitat 4510 4516	eschar
+T45	Habitat 4581 4597	Gastrointestinal
+T46	Habitat 4633 4650	contaminated meat
+T47	Habitat 4669 4686	intestinal mucosa
+T48	Habitat 4717 4723	mucosa
+T49	Habitat 4746 4753	lesions
+T50	Habitat 4785 4794	cutaneous
+T51	Habitat 4893 4902	Pulmonary
+T52	Habitat 4971 4982	lymph nodes
+T53	Habitat 5047 5059	blood stream
+T54	Habitat 5064 5074	lymphatics
+T55	Habitat 5710 5723	infected mice
+T56	Habitat 5964 5975	Researchers
+T57	Habitat 6499 6507	microbes
+T58	Habitat 6691 6695	soil
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002027
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001555
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00002027
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000141
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001773
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000141
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001402
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000141
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001791
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001189
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001504
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00002027
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001374
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001773
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00002027
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001374
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001805
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001773
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001538
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000504
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001201
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001201
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00001580
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001402
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001660
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00000891
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00001402
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00000726
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00000892
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00002027
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00002027
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00000367
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001402
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00001789
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00001402
+N36	OntoBiotope Annotation:T36 Referent:MBTO:00000367
+N37	OntoBiotope Annotation:T37 Referent:MBTO:00001660
+N38	OntoBiotope Annotation:T38 Referent:MBTO:00001268
+N39	OntoBiotope Annotation:T39 Referent:MBTO:00001505
+N40	OntoBiotope Annotation:T40 Referent:MBTO:00000492
+N41	OntoBiotope Annotation:T41 Referent:MBTO:00001789
+N42	OntoBiotope Annotation:T42 Referent:MBTO:00001142
+N43	OntoBiotope Annotation:T43 Referent:MBTO:00001142
+N44	OntoBiotope Annotation:T44 Referent:MBTO:00001097
+N45	OntoBiotope Annotation:T45 Referent:MBTO:00001828
+N46	OntoBiotope Annotation:T46 Referent:MBTO:00000895
+N47	OntoBiotope Annotation:T47 Referent:MBTO:00000847
+N48	OntoBiotope Annotation:T48 Referent:MBTO:00000752
+N49	OntoBiotope Annotation:T49 Referent:MBTO:00001590
+N50	OntoBiotope Annotation:T50 Referent:MBTO:00001789
+N51	OntoBiotope Annotation:T51 Referent:MBTO:00000476
+N52	OntoBiotope Annotation:T52 Referent:MBTO:00000769
+N53	OntoBiotope Annotation:T53 Referent:MBTO:00001569
+N54	OntoBiotope Annotation:T54 Referent:MBTO:00001722
+N55	OntoBiotope Annotation:T55 Referent:MBTO:00001094
+N56	OntoBiotope Annotation:T56 Referent:MBTO:00001581
+N57	OntoBiotope Annotation:T57 Referent:MBTO:00001516
+N58	OntoBiotope Annotation:T58 Referent:MBTO:00001773

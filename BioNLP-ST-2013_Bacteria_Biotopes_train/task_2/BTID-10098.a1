@@ -1,0 +1,30 @@
+T1	Bacteria 0 20	Brucella abortus S19
+T2	Bacteria 33 41	Brucella
+T3	Bacteria 55 68	Brucella spp.
+T4	Habitat 102 108	humans
+T5	Bacteria 110 129	Brucella melitensis
+T6	Bacteria 131 147	Brucella abortus
+T7	Bacteria 149 163	Brucella canis
+T8	Bacteria 168 181	Brucella suis
+T9	Habitat 260 275	animal products
+T10	Habitat 291 294	air
+T11	Habitat 374 378	body
+T12	Habitat 394 407	intracellular
+T13	Habitat 423 428	blood
+T14	Habitat 433 442	lymphatic
+T15	Habitat 471 481	phagocytes
+T16	Bacteria 530 538	bacteria
+T17	Habitat 551 556	blood
+T18	Habitat 628 641	intracellular
+T19	Bacteria 704 720	Brucella abortus
+T20	Geographical 761 776	island of Malta
+T21	Habitat 821 837	British soldiers
+T22	Geographical 821 828	British
+T23	Habitat 866 872	bovine
+T24	Habitat 992 996	food
+T25	Habitat 1008 1011	man
+T26	Bacteria 1128 1144	Brucella abortus
+T27	Bacteria 1227 1247	Brucella abortus S19
+T28	Habitat 1549 1555	cattle
+T29	Bacteria 1588 1592	RB51
+T30	Bacteria 1737 1740	S19

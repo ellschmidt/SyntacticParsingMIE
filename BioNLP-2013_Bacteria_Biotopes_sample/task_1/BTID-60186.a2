@@ -1,0 +1,80 @@
+T1	Habitat 83 99	rod shaped cells
+T2	Habitat 117 124	aquatic
+T3	Habitat 129 145	aquatic sediment
+T4	Habitat 281 303	Potomic River sediment
+T5	Habitat 347 359	pure culture
+T6	Habitat 519 530	researchers
+T7	Habitat 698 704;717 723	ground waters
+T8	Habitat 709 723	surface waters
+T9	Habitat 891 912	petroleum-based fuels
+T10	Habitat 1483 1522	areas of high perchlorate concentration
+T11	Habitat 1983 1989	humans
+T12	Habitat 2031 2036	human
+T13	Habitat 2095 2126	foods contaminated with benzene
+T14	Habitat 2149 2156	stomach
+T15	Habitat 2176 2182	humans
+T16	Habitat 2269 2285	ovaries in women
+T17	Habitat 2280 2285	women
+T18	Habitat 2384 2391	animals
+T19	Habitat 2443 2447	bone
+T20	Habitat 2463 2474	bone morrow
+T21	Habitat 2487 2503	pregnant animals
+T22	Habitat 2579 2629	sites of benzene soil or groundwater contamination
+T23	Habitat 2596 2600	soil
+T24	Habitat 2604 2615	groundwater
+T25	Habitat 2751 2773	water supply to Harbin
+T26	Habitat 2777 2819	city with a population of almost 9 million
+T27	Habitat 2884 2928	China National Petroleum Corporation factory
+T28	Habitat 3187 3193	humans
+T29	Habitat 3325 3378	areas where there is contaminated soil or groundwater
+T30	Habitat 3346 3363	contaminated soil
+T31	Habitat 3346 3358;3367 3378	contaminated groundwater
+T32	Habitat 3407 3418	Researchers
+T33	Habitat 3565 3608	soil containing radioactive labeled benzene
+T34	Habitat 3884 3895	researchers
+T35	Habitat 4139 4155	cells in culture
+T36	Habitat 4217 4228	researchers
+T37	Habitat 4341 4367	benzene contaminated sites
+T38	Habitat 4429 4441	pure culture
+T39	Habitat 4609 4620	researchers
+T40	Habitat 5376 5387	researchers
+N1	Reference Annotation:T1 Reference:MBTO:00000805	cell
+N2	Reference Annotation:T2 Reference:MBTO:00000744	aquatic environment
+N3	Reference Annotation:T3 Reference:MBTO:00000161	sediment
+N4	Reference Annotation:T4 Reference:MBTO:00000161	sediment
+N5	Reference Annotation:T5 Reference:MBTO:00001988	experimental medium
+N6	Reference Annotation:T6 Reference:MBTO:00001989	researcher
+N7	Reference Annotation:T7 Reference:MBTO:00000179	ground water
+N8	Reference Annotation:T8 Reference:MBTO:00001240	surface water
+N9	Reference Annotation:T9 Reference:MBTO:00001715	petroleum-based fuel
+N10	Reference Annotation:T10 Reference:MBTO:00001690	perchlorate-contaminated site
+N11	Reference Annotation:T11 Reference:MBTO:00001044	human
+N12	Reference Annotation:T12 Reference:MBTO:00001044	human
+N13	Reference Annotation:T13 Reference:MBTO:00000158	food
+N14	Reference Annotation:T14 Reference:MBTO:00001210	stomach
+N15	Reference Annotation:T15 Reference:MBTO:00001044	human
+N16	Reference Annotation:T16 Reference:MBTO:00001744	ovary
+N17	Reference Annotation:T17 Reference:MBTO:00001472	woman
+N18	Reference Annotation:T18 Reference:MBTO:00000409	animal
+N19	Reference Annotation:T19 Reference:MBTO:00001133	bone
+N20	Reference Annotation:T20 Reference:MBTO:00002063	bone marrow
+N21	Reference Annotation:T21 Reference:MBTO:00000409	animal
+N22	Reference Annotation:T22 Reference:MBTO:00002066	benzene-contaminated site
+N23	Reference Annotation:T23 Reference:MBTO:00000156	soil
+N24	Reference Annotation:T24 Reference:MBTO:00000179	ground water
+N25	Reference Annotation:T25 Reference:MBTO:00000772	water system
+N26	Reference Annotation:T26 Reference:MBTO:00001703	city
+N27	Reference Annotation:T27 Reference:MBTO:00001778	factory
+N28	Reference Annotation:T28 Reference:MBTO:00001044	human
+N29	Reference Annotation:T29 Reference:MBTO:00001985	contaminated site
+N30	Reference Annotation:T30 Reference:MBTO:00000189	contaminated soil
+N31	Reference Annotation:T31 Reference:MBTO:00002065	contaminated groundwater
+N32	Reference Annotation:T32 Reference:MBTO:00001989	researcher
+N33	Reference Annotation:T33 Reference:MBTO:00002066	benzene-contaminated site
+N34	Reference Annotation:T34 Reference:MBTO:00001989	researcher
+N35	Reference Annotation:T35 Reference:MBTO:00000805	cell
+N36	Reference Annotation:T36 Reference:MBTO:00001989	researcher
+N37	Reference Annotation:T37 Reference:MBTO:00002066	benzene-contaminated site
+N38	Reference Annotation:T38 Reference:MBTO:00001988	experimental medium
+N39	Reference Annotation:T39 Reference:MBTO:00001989	researcher
+N40	Reference Annotation:T40 Reference:MBTO:00001989	researcher

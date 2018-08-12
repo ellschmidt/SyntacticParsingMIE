@@ -1,0 +1,26 @@
+T1	Bacteria 0 17	Vibrio vulnificus
+T2	Bacteria 18 33	Vibrio vulnicus
+T3	Habitat 59 63	food
+T4	Bacteria 74 91	Vibrio vulnificus
+T5	Bacteria 172 181	bacterium
+T6	Habitat 253 266	warm seawater
+T7	Bacteria 293 300	vibrios
+T8	Habitat 394 399	wound
+T9	Habitat 481 500	warm coastal waters
+T10	Bacteria 507 516	bacterium
+T11	Habitat 646 649;671 680	raw shellfish
+T12	Habitat 653 680	improperly cooked shellfish
+T13	Habitat 695 702	oysters
+T14	Bacteria 721 734	V. vulnificus
+T15	Habitat 738 757	healthy individuals
+T16	Habitat 846 851	Wound
+T17	Habitat 899 909	open wound
+T18	Habitat 915 924	sea water
+T19	Habitat 978 982	body
+T20	Habitat 986 991	coral
+T21	Habitat 993 997	fish
+T22	Habitat 1051 1130	Perso ns who are immunocompromised, especially those with chronic liver disease
+T23	Habitat 1117 1122	liver
+T24	Bacteria 1154 1171	Vibrio vulnificus
+T25	Habitat 1198 1204	person
+T26	Habitat 1208 1214	person

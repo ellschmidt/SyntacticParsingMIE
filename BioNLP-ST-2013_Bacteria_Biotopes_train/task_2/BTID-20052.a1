@@ -1,0 +1,40 @@
+T1	Bacteria 0 35	Chlorobium phaeobacteroides DSM 266
+T2	Bacteria 40 61	green sulfur bacteria
+T3	Bacteria 63 66	GSB
+T4	Bacteria 75 83	Chlorobi
+T5	Habitat 108 164	illuminated, stratified, and anoxic aquatic environments
+T6	Habitat 166 175	sediments
+T7	Habitat 187 212	sulfide-rich environments
+T8	Habitat 223 234	hot springs
+T9	Bacteria 315 323	bacteria
+T10	Habitat 425 445	aquatic environments
+T11	Bacteria 652 655	GSB
+T12	Bacteria 857 865	bacteria
+T13	Bacteria 991 994	GSB
+T14	Habitat 1088 1107	anoxic environments
+T15	Bacteria 1109 1117	Chlorobi
+T16	Bacteria 1216 1219	GSB
+T17	Habitat 1401 1414	higher plants
+T18	Bacteria 1419 1432	cyanobacteria
+T19	Bacteria 1656 1659	GSB
+T20	Bacteria 1707 1710	GSB
+T21	Bacteria 1892 1895	GSB
+T22	Bacteria 2006 2014	bacteria
+T23	Bacteria 2069 2082	cyanobacteria
+T24	Bacteria 2084 2099	purple bacteria
+T25	Bacteria 2101 2115	proteobacteria
+T26	Bacteria 2118 2131	heliobacteria
+T27	Bacteria 2173 2198	green non-sulfur bacteria
+T28	Bacteria 2202 2217	Chloroflexaceae
+T29	Bacteria 2234 2242	Chlorobi
+T30	Bacteria 2284 2297	Bacteroidetes
+T31	Bacteria 2303 2348	Chlorobium phaeobacteroides strain DSMZ 266 T
+T32	Bacteria 2377 2380	GSB
+T33	Habitat 2503 2594	anoxic sulfide containing water 19.5 m below surface of meromictic Lake Blankvann in Norway
+T34	Habitat 2548 2594	surface of meromictic Lake Blankvann in Norway
+T35	Habitat 2559 2584	meromictic Lake Blankvann
+T36	Geographical 2570 2584	Lake Blankvann
+T37	Geographical 2588 2594	Norway
+T38	Bacteria 2640 2643	GSB
+T39	Bacteria 3059 3080	Chl. phaeobacteroides
+T40	Habitat 3113 3123	freshwater

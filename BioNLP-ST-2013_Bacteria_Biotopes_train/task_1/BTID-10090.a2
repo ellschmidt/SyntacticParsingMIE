@@ -1,0 +1,36 @@
+T1	Habitat 96 100	tick
+T2	Habitat 246 276	children under the age of five
+T3	Habitat 313 362	bite of the soft-bodied tick Ornithodoros moubata
+T4	Habitat 325 362	soft-bodied tick Ornithodoros moubata
+T5	Habitat 364 369	Ticks
+T6	Habitat 429 444	infected rodent
+T7	Habitat 527 531	tick
+T8	Habitat 552 556	tick
+T9	Habitat 584 598	mammalian host
+T10	Habitat 611 628	infectious saliva
+T11	Habitat 630 636	Humans
+T12	Habitat 659 673	infected ticks
+T13	Habitat 695 702	rodents
+T14	Habitat 706 718	rodent nests
+T15	Habitat 706 712	rodent
+T16	Habitat 1008 1021	immune system
+T17	Habitat 1279 1338	2-year-old girl with tick-borne relapsing fever in Tanzania
+T18	Habitat 1300 1304	tick
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001118
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000650
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001104
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000964
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001118
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000108
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001118
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001118
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001514
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001783
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001118
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000108
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001525
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000108
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001774
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000654
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001118

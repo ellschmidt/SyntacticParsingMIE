@@ -1,0 +1,64 @@
+T1	Habitat 354 375	French bacteriologist
+T2	Habitat 526 532	rodent
+T3	Habitat 548 554	humans
+T4	Habitat 607 615	rat flea
+T5	Habitat 607 610	rat
+T6	Habitat 621 625	flea
+T7	Habitat 668 684	intestinal tract
+T8	Habitat 718 722	flea
+T9	Habitat 737 758	flea's proventriculus
+T10	Habitat 737 741	flea
+T11	Habitat 760 777	digestive chamber
+T12	Habitat 802 806	flea
+T13	Habitat 838 842	flea
+T14	Habitat 857 862	blood
+T15	Habitat 943 947	flea
+T16	Habitat 988 999	bloodstream
+T17	Habitat 1031 1036	liver
+T18	Habitat 1038 1044	spleen
+T19	Habitat 1050 1055	lungs
+T20	Habitat 1061 1068	patient
+T21	Habitat 1160 1163	air
+T22	Habitat 1206 1224	untreated patients
+T23	Habitat 1368 1372	flea
+T24	Habitat 1719 1739	harmless stomach bug
+T25	Habitat 1728 1735	stomach
+T26	Habitat 1745 1750	blood
+T27	Habitat 1866 1871	blood
+T28	Habitat 1887 1896	intestine
+T29	Habitat 1914 1925	researchers
+T30	Habitat 2184 2189	human
+T31	Habitat 2184 2193	human gut
+T32	Habitat 2323 2326	gut
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001581
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000108
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001402
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000540
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001438
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000506
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000110
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000506
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000224
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000506
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000638
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000506
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000506
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001569
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000506
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001569
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001443
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000055
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000476
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001607
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000611
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000816
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000506
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001516
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001291
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001569
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00001569
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00000110
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00001581
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001402
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00001828
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00001828

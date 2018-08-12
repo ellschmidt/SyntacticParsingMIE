@@ -1,0 +1,28 @@
+T1	Habitat 100 156	illuminated, stratified, and anoxic aquatic environments
+T2	Habitat 158 167	sediments
+T3	Habitat 179 204	sulfide-rich environments
+T4	Habitat 215 226	hot springs
+T5	Habitat 417 437	aquatic environments
+T6	Habitat 1081 1100	anoxic environments
+T7	Habitat 1394 1407	higher plants
+T8	Habitat 1803 1808	cells
+T9	Habitat 2461 2476	elongated cells
+T10	Habitat 2668 2673	cells
+T11	Habitat 2741 2746	slime
+T12	Habitat 2784 2789	cells
+T13	Habitat 2879 2884	Cells
+T14	Habitat 3076 3086	freshwater
+N1	Reference Annotation:T1 Reference:MBTO:00000750	illuminated, stratified, and anoxic aquatic environment
+N2	Reference Annotation:T2 Reference:MBTO:00000161	sediment
+N3	Reference Annotation:T3 Reference:MBTO:00001953	sulfide-rich environment
+N4	Reference Annotation:T4 Reference:MBTO:00000748	hotspring
+N5	Reference Annotation:T5 Reference:MBTO:00000744	aquatic environment
+N6	Reference Annotation:T6 Reference:MBTO:00001956	anoxic habitat
+N7	Reference Annotation:T7 Reference:MBTO:00000410	plant
+N8	Reference Annotation:T8 Reference:MBTO:00000805	cell
+N9	Reference Annotation:T9 Reference:MBTO:00000805	cell
+N10	Reference Annotation:T10 Reference:MBTO:00000805	cell
+N11	Reference Annotation:T11 Reference:MBTO:00000598	bacteria associated habitat
+N12	Reference Annotation:T12 Reference:MBTO:00000805	cell
+N13	Reference Annotation:T13 Reference:MBTO:00000805	cell
+N14	Reference Annotation:T14 Reference:MBTO:00000163	fresh water

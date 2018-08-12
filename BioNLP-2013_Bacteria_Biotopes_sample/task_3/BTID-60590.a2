@@ -1,0 +1,279 @@
+T1	Bacteria 0 22	Sinorhizobium meliloti
+T2	Bacteria 64 86	Sinorhizobium meliloti
+T3	Bacteria 117 139	Sinorhizobium meliloti
+T4	Bacteria 159 168	bacterium
+T5	Bacteria 183 191	Rhizobia
+T6	Bacteria 193 204	S. meliloti
+T7	Habitat 221 255	normal, free-living microorganisms
+T8	Habitat 263 267	soil
+T9	Habitat 342 349	legumes
+T10	Bacteria 355 366	S. meliloti
+T11	Bacteria 379 390	S. meliloti
+T12	Habitat 480 495	roots of plants
+T13	Habitat 489 495	plants
+T14	Habitat 506 511	cells
+T15	Habitat 620 638	cytoplasmic bridge
+T16	Habitat 674 701	cytoplasm of the root cells
+T17	Bacteria 786 795	bacterial
+T18	Bacteria 816 827	S. meliloti
+T19	Habitat 844 871	cytoplasm of the root cells
+T20	Bacteria 897 908	S. meliloti
+T21	Habitat 919 930	atmospheric
+T22	Bacteria 1022 1033	S. meliloti
+T23	Habitat 1097 1101	soil
+T24	Habitat 1144 1155	fertilizers
+T25	Bacteria 1165 1176	S. meliloti
+T26	Habitat 1216 1223	nodules
+T27	Habitat 1228 1232	soil
+T28	Habitat 1253 1259	plants
+T29	Habitat 1272 1280	Medicago
+T30	Habitat 1282 1289	alfalfa
+T31	Habitat 1294 1303;1315 1321	perennial medics
+T32	Habitat 1308 1321	annual medics
+T33	Habitat 1324 1333	Melilotus
+T34	Habitat 1335 1347	sweet clover
+T35	Habitat 1354 1364	Trigonella
+T36	Habitat 1366 1375	fenugreek
+T37	Bacteria 1413 1424	S. meliloti
+T38	Bacteria 1435 1443	Rhizobia
+T39	Habitat 1464 1479	microbiologists
+T40	Bacteria 1496 1504	bacteria
+T41	Habitat 1514 1527	root surfaces
+T42	Bacteria 1582 1591	rhizobium
+T43	Habitat 1592 1598	legume
+T44	Bacteria 1645 1656	S. meliloti
+T45	Bacteria 1675 1684	Rhizobium
+T46	Bacteria 2014 2022	bacteria
+T47	Habitat 2049 2054	plant
+T48	Bacteria 2126 2137	S. meliloti
+T49	Habitat 2244 2249	plant
+T50	Habitat 2426 2431	plant
+T51	Bacteria 2547 2556	bacterium
+T52	Habitat 2618 2651	researchers from around the world
+T53	Habitat 2653 2657	Cell
+T54	Bacteria 2683 2694	S. meliloti
+T55	Bacteria 2709 2718	bacterium
+T56	Habitat 2768 2772	soil
+T57	Habitat 2783 2809	roots of leguminous plants
+T58	Habitat 2792 2809	leguminous plants
+T59	Bacteria 2954 2965	S. meliloti
+T60	Habitat 3053 3057	soil
+T61	Habitat 3066 3103	nodules formed on the roots of plants
+T62	Habitat 3097 3103	plants
+T63	Habitat 3116 3120	soil
+T64	Habitat 3170 3174	cell
+T65	Habitat 3223 3230	nodules
+T66	Habitat 3328 3353	highly acidic environment
+T67	Bacteria 3403 3414	S. meliloti
+T68	Bacteria 3512 3523	S. meliloti
+T69	Habitat 3571 3575	soil
+T70	Habitat 3609 3615	nodule
+T71	Habitat 3609 3627	nodule environment
+T72	Bacteria 3690 3701	S. meliloti
+T73	Habitat 3706 3727	root cells of legumes
+T74	Habitat 3720 3727	legumes
+T75	Bacteria 3772 3781	bacterial
+T76	Habitat 3792 3803	atmospheric
+T77	Habitat 3839 3849	root cells
+T78	Habitat 3870 3875	plant
+T79	Habitat 3870 3881	plant cells
+T80	Bacteria 3924 3935	S. meliloti
+T81	Bacteria 4030 4041	S. meliloti
+T82	Bacteria 4228 4238	S. melioti
+T83	Habitat 4263 4274	atmospheric
+T84	Habitat 4307 4324	leguminous plants
+T85	Bacteria 4359 4368	bacterial
+T86	Bacteria 4584 4592	bacteria
+T87	Bacteria 4730 4741	S. meliloti
+T88	Habitat 4826 4831	cells
+T89	Bacteria 4929 4938	bacterial
+T90	Habitat 5087 5092	cells
+T91	Habitat 5232 5236	soil
+T92	Bacteria 5237 5245	bacteria
+T93	Bacteria 5247 5269	Sinorhizobium meliloti
+T94	Habitat 5325 5330	plant
+T95	Habitat 5420 5430	atmosphere
+T96	Habitat 5601 5611	atmosphere
+T97	Habitat 5669 5675	plants
+T98	Habitat 5680 5687	animals
+T99	Bacteria 5693 5704	S. meliloti
+T100	Habitat 5803 5820	leguminous plants
+T101	Habitat 5897 5903	plants
+T102	Bacteria 5994 6005	S. meliloti
+T103	Bacteria 6164 6175	S. meliloti
+T104	Habitat 6477 6488	acidic rain
+T105	Habitat 6513 6524	ozone layer
+T106	Bacteria 6564 6575	S. meliloti
+T107	Habitat 6758 6767	microbial
+T108	Habitat 6836 6846	wastewater
+T109	Habitat 6848 6873	Nitrogen-rich fertilizers
+T110	Habitat 6911 6923	ground water
+T111	Habitat 6934 6939	water
+T112	Habitat 6968 6982	pregnant women
+T113	Habitat 6987 6994	infants
+T114	Habitat 7004 7014	scientists
+T115	Habitat 7037 7046	microbial
+T116	Habitat 7066 7092	water treatment facilities
+T117	Habitat 7066 7071	water
+T118	Bacteria 7135 7157	Sinorhizobium meliloti
+T119	Habitat 7179 7183	soil
+T120	Bacteria 7184 7192	bacteria
+T121	Habitat 7248 7254	plants
+T122	Habitat 7355 7372	leguminous plants
+T123	Bacteria 7418 7429	S. meliloti
+T124	Habitat 7716 7727	acidic rain
+T125	Habitat 7745 7756	ozone layer
+T126	Bacteria 7777 7788	S. meliloti
+T127	Bacteria 7946 7957	S. meliloti
+T128	Habitat 7992 8007	microbiologists
+T129	Habitat 8025 8031	plants
+T130	Bacteria 8082 8091	bacterial
+T131	Habitat 8151 8160	microbial
+T132	Habitat 8207 8212	plant
+T133	Habitat 8213 8220	microbe
+T134	Habitat 8235 8246	researchers
+T135	Habitat 8338 8344	plants
+T136	Habitat 8403 8417	root of plants
+T137	Habitat 8411 8417	plants
+T138	Habitat 8485 8499	microorganisms
+T139	Habitat 8519 8530	root region
+T140	Habitat 8571 8582	root region
+T141	Bacteria 8656 8667	S. meliloti
+T142	Bacteria 8678 8686	Rhizobia
+T143	Habitat 8698 8705	legumes
+T144	Habitat 8727 8747	microbial ecologists
+T145	Bacteria 8771 8780	Bacterial
+T146	Habitat 8873 8877	root
+T147	Habitat 8885 8889	soil
+T148	Bacteria 8906 8914	bacteria
+T149	Habitat 8928 8934	plants
+T150	Habitat 9120 9125	plant
+T151	Habitat 9120 9131	plant roots
+T152	Habitat 9143 9147	soil
+T153	Bacteria 9276 9284	bacteria
+T154	Habitat 9296 9301	plant
+T155	Bacteria 9387 9409	Sinorhizobium meliloti
+T156	Habitat 9423 9437	drinking water
+T157	Bacteria 9538 9549	S. meliloti
+T158	Habitat 9573 9599	water treatment facilities
+T159	Habitat 9573 9578	water
+T160	Habitat 9621 9628	filters
+T161	Geographical 9654 9729	The Australian National University - Research School of Biological Sciences
+T162	Habitat 9775 9807	undifferentiated cells of plants
+T163	Habitat 9801 9807	plants
+T164	Habitat 9836 9842	plants
+T165	Bacteria 9854 9863	bacterial
+T166	Habitat 9880 9899	team of researchers
+T167	Habitat 9919 9924	plant
+T168	Bacteria 9982 10004	Sinorhizobium meliloti
+T169	Habitat 10046 10052	legume
+T170	Habitat 10046 10058	legume roots
+T171	Habitat 10090 10094	team
+T172	Habitat 10277 10292	nodule meristem
+T173	Habitat 10369 10399	proliferating meristemic cells
+T174	Habitat 10432 10438	plants
+T175	Geographical 10459 10481	Australian environment
+T176	Habitat 10546 10551	human
+T177	Habitat 10546 10557	human cells
+T178	Habitat 10572 10585	research team
+T179	Bacteria 10635 10646	S. meliloti
+T180	Habitat 10716 10721	cells
+T181	Bacteria 10728 10736	bacteria
+T182	Habitat 10793 10811	nutrient-poor soil
+T183	Habitat 10817 10822	plant
+T184	Habitat 10817 10834	plant rhizosphere
+T185	Habitat 10844 10866	inside of root nodules
+T186	Geographical 10970 11021	The National Laboratory of Plant Molecular Genetics
+T187	Habitat 11040 11067	notable institutes in China
+T188	Geographical 11062 11067	China
+T189	Bacteria 11109 11120	S. meliloti
+T190	Bacteria 11177 11186	Rhizobium
+T191	Habitat 11285 11291	nodule
+T192	Bacteria 11292 11300	bacteria
+T193	Bacteria 11343 11365	Sinorhizobium meliloti
+T194	Habitat 11379 11393	Alfalfa plants
+T195	Habitat 11480 11499	nifA mutant nodules
+T196	Bacteria 11571 11582	S. meliloti
+T197	Habitat 11665 11672	Alfalfa
+T198	Habitat 11665 11680	Alfalfa nodules
+T199	Geographical 11689 11706	Dublin University
+T200	Bacteria 11789 11811	Sinorhizobium meliloti
+T201	Habitat 11820 11842	root nodules of plants
+T202	Habitat 11836 11842	plants
+T203	Bacteria 11897 11908	S. meliloti
+T204	Habitat 12065 12070	cells
+T205	Habitat 12120 12131	Researchers
+R1	Localization Bacteria:T1 Localization:T62
+R2	Localization Bacteria:T1 Localization:T185
+R3	Localization Bacteria:T1 Localization:T101
+R4	Localization Bacteria:T1 Localization:T8
+R7	Localization Bacteria:T1 Localization:T41
+R12	Localization Bacteria:T1 Localization:T19
+R13	Localization Bacteria:T5 Localization:T8
+R14	Localization Bacteria:T1 Localization:T9
+R15	Localization Bacteria:T1 Localization:T12
+R17	Localization Bacteria:T1 Localization:T13
+R27	Localization Bacteria:T1 Localization:T15
+R28	Localization Bacteria:T1 Localization:T16
+R29	Localization Bacteria:T1 Localization:T23
+R30	Localization Bacteria:T1 Localization:T26
+R33	Localization Bacteria:T1 Localization:T27
+R34	Localization Bacteria:T1 Localization:T28
+R36	Localization Bacteria:T1 Localization:T29
+R38	Localization Bacteria:T1 Localization:T30
+R39	Localization Bacteria:T1 Localization:T31
+R41	Localization Bacteria:T1 Localization:T32
+R43	Localization Bacteria:T1 Localization:T33
+R45	Localization Bacteria:T1 Localization:T34
+R47	Localization Bacteria:T1 Localization:T35
+R48	Localization Bacteria:T1 Localization:T36
+R50	Localization Bacteria:T5 Localization:T41
+R51	Localization Bacteria:T5 Localization:T43
+R52	Localization Bacteria:T1 Localization:T43
+R54	Localization Bacteria:T1 Localization:T47
+R55	Localization Bacteria:T1 Localization:T49
+R56	Localization Bacteria:T1 Localization:T50
+R57	Localization Bacteria:T1 Localization:T56
+R58	Localization Bacteria:T1 Localization:T57
+R59	Localization Bacteria:T1 Localization:T58
+R61	Localization Bacteria:T1 Localization:T60
+R62	Localization Bacteria:T1 Localization:T61
+R64	Localization Bacteria:T1 Localization:T63
+R65	Localization Bacteria:T1 Localization:T69
+R66	Localization Bacteria:T1 Localization:T71
+R67	Localization Bacteria:T1 Localization:T73
+R68	Localization Bacteria:T1 Localization:T74
+R70	Localization Bacteria:T1 Localization:T77
+R72	Localization Bacteria:T1 Localization:T78
+R73	Localization Bacteria:T1 Localization:T84
+R74	Localization Bacteria:T1 Localization:T91
+R75	Localization Bacteria:T1 Localization:T100
+R76	Localization Bacteria:T1 Localization:T119
+R77	Localization Bacteria:T1 Localization:T121
+R78	Localization Bacteria:T1 Localization:T122
+R79	Localization Bacteria:T142 Localization:T143
+R80	Localization Bacteria:T1 Localization:T143
+R81	Localization Bacteria:T1 Localization:T170
+R82	Localization Bacteria:T1 Localization:T169
+R84	Localization Bacteria:T1 Localization:T182
+R85	Localization Bacteria:T1 Localization:T184
+R86	Localization Bacteria:T1 Localization:T183
+R89	Localization Bacteria:T1 Localization:T191
+R90	Localization Bacteria:T1 Localization:T194
+R91	Localization Bacteria:T1 Localization:T198
+R93	Localization Bacteria:T1 Localization:T201
+R95	Localization Bacteria:T1 Localization:T202
+*	Equiv T5 T38
+*	Equiv T1 T2 T3 T6 T10 T11 T18 T20 T22 T25 T37 T44 T48 T54 T59 T67 T68 T72 T80 T81 T82 T87 T93 T99 T102 T103 T106 T118 T123 T126 T127 T141 T155 T157 T168 T179 T189 T193 T196 T200 T203
+*	Equiv T16 T19
+*	Equiv T12
+*	Equiv T65 T70
+*	Equiv T139 T140 T146
+*	Equiv T56 T60 T63 T69
+*	Equiv T147 T152
+*	Equiv T194 T197
+*	Equiv T47 T49 T50
+*	Equiv T94 T97 T101
+*	Equiv T129 T132 T135 T137 T149 T150 T154
+*	Equiv T163 T164 T167 T174 T183
+*	Equiv T166 T178

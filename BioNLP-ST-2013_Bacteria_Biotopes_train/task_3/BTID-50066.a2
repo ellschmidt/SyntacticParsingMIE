@@ -1,0 +1,20 @@
+T1	Bacteria 0 22	Desulfovibrio vulgaris
+T2	Bacteria 23 45	Desulfovibrio vulgaris
+T3	Habitat 81 90	machinery
+T4	Bacteria 175 197	Desulfovibrio vulgaris
+T5	Bacteria 267 275	bacteria
+T6	Habitat 287 291	cell
+T7	Habitat 316 320	soil
+T8	Habitat 322 328	animal
+T9	Habitat 322 339	animal intestines
+T10	Habitat 322 328;344 349	animal feces
+T11	Habitat 355 360;370 375	fresh water
+T12	Habitat 365 375	salt water
+R1	Localization Bacterium:T1 Localization:T8
+R2	Localization Bacterium:T1 Localization:T9
+R3	Localization Bacterium:T1 Localization:T7
+R4	Localization Bacterium:T1 Localization:T10
+R5	Localization Bacterium:T1 Localization:T11
+R6	PartOf Host:T8 Part:T9
+R7	PartOf Host:T8 Part:T10
+*	Equiv T4 T1 T2

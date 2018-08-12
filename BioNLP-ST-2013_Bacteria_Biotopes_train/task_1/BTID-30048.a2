@@ -1,0 +1,24 @@
+T1	Habitat 32 37	human
+T2	Habitat 32 49	human oral cavity
+T3	Habitat 119 148	oral cavity in healthy humans
+T4	Habitat 134 148	healthy humans
+T5	Habitat 196 209	dental plaque
+T6	Habitat 327 340	dental plaque
+T7	Habitat 546 557	oral cavity
+T8	Habitat 887 900	dental plaque
+T9	Habitat 992 1000	cavities
+T10	Habitat 1016 1024	children
+T11	Habitat 1181 1204	most sensitive subjects
+T12	Habitat 1212 1229	medical personnel
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000999
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000999
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000881
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000530
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000530
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000999
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000530
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001830
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000650
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001666

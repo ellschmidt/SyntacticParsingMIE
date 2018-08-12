@@ -1,0 +1,33 @@
+T1	Habitat 32 37	human
+T2	Habitat 32 49	human oral cavity
+T3	Bacteria 50 74	Streptococcus salivarius
+T4	Bacteria 102 111	bacterium
+T5	Habitat 119 148	oral cavity in healthy humans
+T6	Habitat 134 148	healthy humans
+T7	Bacteria 166 175	bacterium
+T8	Habitat 196 209	dental plaque
+T9	Habitat 327 340	dental plaque
+T10	Bacteria 422 431	bacterium
+T11	Bacteria 498 506	bacteria
+T12	Habitat 546 557	oral cavity
+T13	Bacteria 573 582	bacterium
+T14	Bacteria 739 748	bacterium
+T15	Habitat 887 900	dental plaque
+T16	Habitat 992 1000	cavities
+T17	Habitat 1016 1024	children
+T18	Habitat 1181 1204	most sensitive subjects
+T19	Habitat 1212 1229	medical personnel
+R1	Localization Bacterium:T3 Localization:T1
+R2	Localization Bacterium:T3 Localization:T2
+R3	Localization Bacterium:T3 Localization:T8
+R4	Localization Bacterium:T3 Localization:T18
+R5	Localization Bacterium:T3 Localization:T6
+R6	Localization Bacterium:T3 Localization:T19
+R7	Localization Bacterium:T3 Localization:T1
+R8	Localization Bacterium:T3 Localization:T16
+R9	Localization Bacterium:T3 Localization:T17
+R10	PartOf Host:T6 Part:T8
+R11	PartOf Host:T1 Part:T2
+R12	PartOf Host:T6 Part:T5
+R13	PartOf Host:T17 Part:T16
+*	Equiv T8 T9 T15

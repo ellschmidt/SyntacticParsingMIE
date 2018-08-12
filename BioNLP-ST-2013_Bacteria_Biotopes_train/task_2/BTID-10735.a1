@@ -1,0 +1,44 @@
+T1	Bacteria 0 20	Yersinia pestis CO92
+T2	Bacteria 33 41	Yersinia
+T3	Habitat 93 98	human
+T4	Bacteria 246 254	Yersinia
+T5	Habitat 393 398	human
+T6	Habitat 561 565	cell
+T7	Bacteria 579 594	Yersinia pestis
+T8	Geographical 637 653	Institut Pasteur
+T9	Habitat 637 663	Institut Pasteur scientist
+T10	Geographical 688 697	Hong Kong
+T11	Habitat 736 743	bubonic
+T12	Habitat 748 757	pulmonary
+T13	Habitat 855 859	rats
+T14	Habitat 863 869	humans
+T15	Habitat 902 906	flea
+T16	Habitat 915 920	human
+T17	Habitat 924 929	human
+T18	Habitat 942 945	air
+T19	Bacteria 975 990	Yersinia pestis
+T20	Habitat 1140 1154	enteroinvasive
+T21	Habitat 1189 1200	macrophages
+T22	Bacteria 1254 1269	Yersinia pestis
+T23	Bacteria 1310 1317	Antiqua
+T24	Bacteria 1319 1329	Mediavalis
+T25	Bacteria 1335 1345	Orientalis
+T26	Geographical 1560 1565	China
+T27	Bacteria 1657 1665	Microtus
+T28	Bacteria 1667 1682	Yersinia pestis
+T29	Bacteria 1770 1783	Yersinia spp.
+T30	Habitat 1858 1864	murine
+T31	Habitat 1882 1885	rat
+T32	Habitat 1889 1894	human
+T33	Habitat 1953 1957	flea
+T34	Habitat 1953 1964	flea midgut
+T35	Habitat 1966 1977	Deep tissue
+T36	Bacteria 2067 2082	Yersinia pestis
+T37	Bacteria 2159 2169	Salmonella
+T38	Habitat 2182 2195	intracellular
+T39	Bacteria 2234 2261	Yersinia pestis strain CO92
+T40	Bacteria 2287 2297	Orientalis
+T41	Geographical 2322 2325	USA
+T42	Habitat 2333 2340	patient
+T43	Habitat 2415 2418	cat
+T44	Bacteria 2458 2480	Yersinia pestis KIM10+

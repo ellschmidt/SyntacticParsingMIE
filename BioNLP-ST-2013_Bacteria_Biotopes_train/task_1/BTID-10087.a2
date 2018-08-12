@@ -1,0 +1,4 @@
+T1	Habitat 84 133	skin lesion from a Lyme disease patient in Europe
+T2	Habitat 103 133	Lyme disease patient in Europe
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001857
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001607

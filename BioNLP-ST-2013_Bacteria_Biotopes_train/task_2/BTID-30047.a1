@@ -1,0 +1,15 @@
+T1	Bacteria 21 39	Rickettsia conorii
+T2	Habitat 121 124	man
+T3	Habitat 179 205	bite of the brown dog tick
+T4	Habitat 191 205	brown dog tick
+T5	Habitat 197 200	dog
+T6	Bacteria 207 225	Rickettsia conorii
+T7	Habitat 241 254	intracellular
+T8	Habitat 288 317	cytoplasm of eukaryotic cells
+T9	Habitat 301 311	eukaryotic
+T10	Habitat 301 317	eukaryotic cells
+T11	Bacteria 358 366	bacteria
+T12	Habitat 401 411	arthropods
+T13	Bacteria 447 465	Rickettsia conorii
+T14	Bacteria 505 525	Rickettsia prowazeki
+T15	Bacteria 579 609	alpha branch of proteobacteria

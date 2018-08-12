@@ -1,0 +1,22 @@
+T1	Bacteria 0 29	Saccharophagus degradans 2-40
+T2	Bacteria 42 78	Saccharophagus degradans strain 2-40
+T3	Habitat 97 103	marine
+T4	Bacteria 104 125	gamma-proteobacterium
+T5	Habitat 149 179	decaying Spartina alterniflora
+T6	Habitat 183 204	salt marsh cord grass
+T7	Habitat 183 193	salt marsh
+T8	Geographical 213 227	Chesapeake Bay
+T9	Geographical 229 232	USA
+T10	Habitat 474 492	insect exoskeleton
+T11	Habitat 474 480	insect
+T12	Habitat 494 499	plant
+T13	Habitat 494 509	plant cell wall
+T14	Habitat 544 549	algal
+T15	Habitat 544 559	algal cell wall
+R1	Localization Bacterium:T1 Localization:T8
+R2	Localization Bacterium:T1 Localization:T5
+R3	Localization Bacterium:T1 Localization:T9
+R4	PartOf Host:T12 Part:T13
+R5	PartOf Host:T14 Part:T15
+R6	PartOf Host:T11 Part:T10
+*	Equiv T1 T2

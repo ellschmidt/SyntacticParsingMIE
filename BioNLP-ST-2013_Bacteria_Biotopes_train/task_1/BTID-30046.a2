@@ -1,0 +1,39 @@
+T1	Habitat 21 31	Drosophila
+T2	Habitat 36 43	insects
+T3	Habitat 68 81	immune system
+T4	Habitat 153 199	innate (non-adaptive) immune system of mammals
+T5	Habitat 192 199	mammals
+T6	Habitat 216 225	microbial
+T7	Habitat 242 264	fat body of the insect
+T8	Habitat 258 264	insect
+T9	Habitat 283 298	mammalian liver
+T10	Habitat 283 292	mammalian
+T11	Habitat 475 485	Drosophila
+T12	Habitat 597 614	decomposing fruit
+T13	Habitat 616 632	adult Drosophila
+T14	Habitat 636 647	dead larvae
+T15	Habitat 740 750	Drosophila
+T16	Habitat 1293 1299	humans
+T17	Habitat 1319 1325	plants
+T18	Habitat 1839 1849	Drosophila
+T19	Habitat 2119 2129	Drosophila
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001238
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000141
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001774
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001774
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001514
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001516
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001495
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000141
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001443
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001514
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001238
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001550
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001238
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001139
+N15	OntoBiotope Annotation:T14 Referent:MBTO:00001111
+N16	OntoBiotope Annotation:T15 Referent:MBTO:00001238
+N17	OntoBiotope Annotation:T16 Referent:MBTO:00001402
+N18	OntoBiotope Annotation:T17 Referent:MBTO:00002027
+N19	OntoBiotope Annotation:T18 Referent:MBTO:00001238
+N20	OntoBiotope Annotation:T19 Referent:MBTO:00001238

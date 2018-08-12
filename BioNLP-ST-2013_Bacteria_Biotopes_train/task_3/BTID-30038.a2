@@ -1,0 +1,42 @@
+T1	Habitat 22 26	food
+T2	Bacteria 38 49	Enterococci
+T3	Bacteria 50 61	Enterococci
+T4	Bacteria 71 83	Streptococci
+T5	Habitat 250 276	intestinal tract of humans
+T6	Habitat 250 269;281 288	intestinal tract of animals
+T7	Habitat 270 276	humans
+T8	Habitat 281 288	animals
+T9	Habitat 334 340	cheese
+T10	Habitat 345 352	sausage
+T11	Habitat 403 411	foodborn
+T12	Habitat 433 443	nosocomial
+T13	Bacteria 538 549	Enterococci
+T14	Habitat 581 591	nosocomial
+T15	Bacteria 732 743	E. faecalis
+T16	Bacteria 808 819	E. faecalis
+T17	Bacteria 830 840	E. faecium
+T18	Bacteria 874 884	E. faecium
+T19	Habitat 913 919	humans
+T20	Habitat 924 931	animals
+T21	Habitat 1032 1042	nosocomial
+T22	Habitat 1058 1077	intensive care unit
+T23	Habitat 1058 1107	intensive care unit patients in the United States
+T24	Geographical 1094 1107	United States
+T25	Bacteria 1166 1176	E. faecium
+R1	Localization Bacterium:T2 Localization:T7
+R2	Localization Bacterium:T18 Localization:T21
+R3	Localization Bacterium:T13 Localization:T14
+R4	Localization Bacterium:T2 Localization:T10
+R5	Localization Bacterium:T2 Localization:T12
+R6	Localization Bacterium:T18 Localization:T20
+R7	Localization Bacterium:T18 Localization:T24
+R8	Localization Bacterium:T18 Localization:T19
+R9	Localization Bacterium:T2 Localization:T5
+R10	Localization Bacterium:T18 Localization:T23
+R11	Localization Bacterium:T2 Localization:T9
+R12	Localization Bacterium:T2 Localization:T8
+R13	Localization Bacterium:T18 Localization:T22
+R14	Localization Bacterium:T2 Localization:T11
+R15	PartOf Host:T7 Part:T5
+R16	PartOf Host:T8 Part:T5
+*	Equiv T3 T2

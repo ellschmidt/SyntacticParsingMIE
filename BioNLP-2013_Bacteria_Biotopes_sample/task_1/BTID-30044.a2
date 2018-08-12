@@ -1,0 +1,22 @@
+T1	Habitat 42 48	animal
+T2	Habitat 376 385	ruminants
+T3	Habitat 471 476	goose
+T4	Habitat 618 627	ruminants
+T5	Habitat 743 748	farms
+T6	Habitat 1043 1049	cattle
+T7	Habitat 1053 1057	goat
+T8	Habitat 1078 1083	organ
+T9	Habitat 1085 1089	lung
+T10	Habitat 1101 1114	mammary gland
+T11	Habitat 1442 1447	plant
+N1	Reference Annotation:T1 Reference:MBTO:00000409	animal
+N2	Reference Annotation:T2 Reference:MBTO:00000676	ruminant
+N3	Reference Annotation:T3 Reference:MBTO:00000463	goose
+N4	Reference Annotation:T4 Reference:MBTO:00000676	ruminant
+N5	Reference Annotation:T5 Reference:MBTO:00001511	farm
+N6	Reference Annotation:T6 Reference:MBTO:00001088	cattle
+N7	Reference Annotation:T7 Reference:MBTO:00001115	goat
+N8	Reference Annotation:T8 Reference:MBTO:00000492	organ
+N9	Reference Annotation:T9 Reference:MBTO:00000494	lung
+N10	Reference Annotation:T10 Reference:MBTO:00000701	mammary gland
+N11	Reference Annotation:T11 Reference:MBTO:00000410	plant

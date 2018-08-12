@@ -1,0 +1,36 @@
+T1	Bacteria 0 31	Burkholderia cenocepacia HI2424
+T2	Bacteria 42 54	Burkholderia
+T3	Bacteria 75 92	bacterial species
+T4	Habitat 112 116	soil
+T5	Bacteria 243 271	Burkholderia cepacia complex
+T6	Bacteria 273 276	Bcc
+T7	Habitat 434 439	human
+T8	Habitat 479 507	persons with cystic fibrosis
+T9	Bacteria 535 559	Burkholderia cenocepacia
+T10	Habitat 628 633	human
+T11	Bacteria 645 673	B. cenocepacia strain HI2424
+T12	Habitat 693 710	agricultural soil
+T13	Geographical 714 724	upstate NY
+T14	Bacteria 891 897	HI2424
+T15	Bacteria 942 961	B. cenocepacia PHDC
+T16	Habitat 1046 1051	human
+T17	Habitat 1089 1100	CF patients
+T18	Geographical 1107 1116	US states
+T19	Geographical 1139 1145	Europe
+T20	Bacteria 1168 1174	HI2424
+T21	Habitat 1364 1376	onion tissue
+T22	Habitat 1364 1369	onion
+T23	Bacteria 1481 1494	Brucella suis
+T24	Bacteria 1499 1521	Sinorhizobium meliloti
+T25	Bacteria 1566 1572	HI2424
+T26	Bacteria 1575 1579	BCC1
+R1	Localization Bacterium:T1 Localization:T18
+R2	Localization Bacterium:T5 Localization:T8
+R3	Localization Bacterium:T1 Localization:T13
+R4	Localization Bacterium:T1 Localization:T17
+R5	Localization Bacterium:T1 Localization:T19
+R6	Localization Bacterium:T1 Localization:T16
+R7	Localization Bacterium:T9 Localization:T10
+R8	Localization Bacterium:T1 Localization:T12
+R9	Localization Bacterium:T5 Localization:T7
+R10	Localization Bacterium:T2 Localization:T4

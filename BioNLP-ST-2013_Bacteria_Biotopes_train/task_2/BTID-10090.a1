@@ -1,0 +1,30 @@
+T1	Bacteria 0 20	Borrelia duttonii Ly
+T2	Bacteria 33 50	Borrelia duttonii
+T3	Bacteria 52 69	Borrelia duttonii
+T4	Habitat 96 100	tick
+T5	Geographical 126 137	east Africa
+T6	Geographical 174 185	east Africa
+T7	Habitat 246 276	children under the age of five
+T8	Habitat 313 362	bite of the soft-bodied tick Ornithodoros moubata
+T9	Habitat 325 362	soft-bodied tick Ornithodoros moubata
+T10	Habitat 364 369	Ticks
+T11	Bacteria 391 408	Borrelia duttonii
+T12	Habitat 429 444	infected rodent
+T13	Bacteria 446 454	Borrelia
+T14	Habitat 527 531	tick
+T15	Habitat 552 556	tick
+T16	Habitat 584 598	mammalian host
+T17	Habitat 611 628	infectious saliva
+T18	Habitat 630 636	Humans
+T19	Habitat 659 673	infected ticks
+T20	Habitat 695 702	rodents
+T21	Habitat 706 718	rodent nests
+T22	Habitat 706 712	rodent
+T23	Bacteria 940 948	Borrelia
+T24	Habitat 1008 1021	immune system
+T25	Bacteria 1216 1236	Borrelia duttonii Ly
+T26	Bacteria 1238 1258	Borrelia duttonii Ly
+T27	Habitat 1279 1338	2-year-old girl with tick-borne relapsing fever in Tanzania
+T28	Habitat 1300 1304	tick
+T29	Geographical 1330 1338	Tanzania
+T30	Bacteria 1403 1411	Borrelia

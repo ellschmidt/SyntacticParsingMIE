@@ -1,0 +1,14 @@
+T1	Bacteria 0 29	Bordetella pertussis Tohama I
+T2	Bacteria 42 52	Bordetella
+T3	Habitat 105 133	respiratory tract of animals
+T4	Habitat 126 133	animals
+T5	Habitat 386 391	cells
+T6	Bacteria 405 434	Bordetella pertussis Tohama I
+T7	Habitat 510 515	human
+T8	Habitat 587 593	people
+T9	Habitat 648 675	patient with whooping cough
+T10	Habitat 889 894	cells
+T11	Habitat 960 964	cell
+T12	Habitat 999 1012	intracellular
+T13	Habitat 1064 1074	phagocytes
+T14	Bacteria 1112 1121	bacterium

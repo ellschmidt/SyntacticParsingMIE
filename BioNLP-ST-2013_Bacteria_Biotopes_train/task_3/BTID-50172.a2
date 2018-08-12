@@ -1,0 +1,34 @@
+T1	Bacteria 0 22	Ureaplasma urealyticum
+T2	Bacteria 23 40	Ureaplasma parvum
+T3	Habitat 48 53	human
+T4	Habitat 48 70	human urogenital tract
+T5	Bacteria 82 99	Ureaplasma parvum
+T6	Bacteria 105 115	mycoplasma
+T7	Bacteria 143 152	mollicute
+T8	Habitat 173 200	urogenital tracts of humans
+T9	Habitat 194 200	humans
+T10	Habitat 295 303	neonatal
+T11	Habitat 382 404;433 451	central nervous system of newborn infants
+T12	Habitat 409 451	lower respiratory tract of newborn infants
+T13	Habitat 436 451	newborn infants
+T14	Habitat 465 471	infant
+T15	Bacteria 511 520	U. parvum
+T16	Bacteria 531 541	mycoplasma
+T17	Habitat 607 637	smallest free-living organisms
+T18	Bacteria 654 675	Mycoplasma genitalium
+T19	Bacteria 731 740	U. parvum
+T20	Bacteria 822 831	bacterium
+T21	Bacteria 1006 1014	bacteria
+T22	Bacteria 1066 1075	U. parvum
+R1	Localization Bacterium:T2 Localization:T13
+R2	Localization Bacterium:T2 Localization:T3
+R3	Localization Bacterium:T2 Localization:T4
+R4	Localization Bacterium:T2 Localization:T12
+R5	Localization Bacterium:T2 Localization:T11
+R6	PartOf Host:T13 Part:T12
+R7	PartOf Host:T3 Part:T4
+R8	PartOf Host:T13 Part:T11
+*	Equiv T22 T15 T2 T5 T19
+*	Equiv T6 T16
+*	Equiv T4 T8
+*	Equiv T9 T3

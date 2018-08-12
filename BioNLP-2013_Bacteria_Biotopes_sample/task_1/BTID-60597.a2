@@ -1,0 +1,62 @@
+T1	Habitat 241 252	freshwaters
+T2	Habitat 257 270	marine waters
+T3	Habitat 350 376	hot springs in New Zealand
+T4	Habitat 432 469;479 485	cyanobacterial mats of hot springs in Oregon
+T5	Habitat 432 474	cyanobacterial mats of hot springs in Utah
+T6	Habitat 455 466	hot springs
+T7	Habitat 546 589	marine areas in Shiaskotan Island in Russia
+T8	Habitat 734 791	sulfide-saturated mud sediments of Lake Khatyn in Siberia
+T9	Habitat 930 951	anaerobic bioreactors
+T10	Habitat 961 976	digestive tract
+T11	Habitat 980 988	termites
+T12	Habitat 1144 1158	microorganisms
+T13	Habitat 1254 1258	Cell
+T14	Habitat 1437 1444	termite
+T15	Habitat 1437 1448	termite gut
+T16	Habitat 1652 1672	aquatic environments
+T17	Habitat 2125 2145	aquatic environments
+T18	Habitat 2159 2164	water
+T19	Habitat 2166 2175;2185 2193	sediments of ponds
+T20	Habitat 2180 2193	muds of ponds
+T21	Habitat 2195 2202	marshes
+T22	Habitat 2204 2209	lakes
+T23	Habitat 2211 2217	rivers
+T24	Habitat 2222 2228	oceans
+T25	Habitat 2301 2315	microorganisms
+T26	Habitat 2461 2466	cells
+T27	Habitat 2875 2884	trichomes
+T28	Habitat 2940 2949	trichomes
+T29	Habitat 3275 3296	freshwater hot spring
+T30	Habitat 3580 3607	cellulose-containing wastes
+T31	Habitat 3611 3615	fuel
+N1	Reference Annotation:T1 Reference:MBTO:00000163	fresh water
+N2	Reference Annotation:T2 Reference:MBTO:00000611	marine water
+N3	Reference Annotation:T3 Reference:MBTO:00000748	hotspring
+N4	Reference Annotation:T4 Reference:MBTO:00002006	microbial mat
+N5	Reference Annotation:T5 Reference:MBTO:00002006	microbial mat
+N6	Reference Annotation:T6 Reference:MBTO:00000748	hotspring
+N7	Reference Annotation:T7 Reference:MBTO:00000611	marine water
+N8	Reference Annotation:T8 Reference:MBTO:00000952	sulfide-saturated mud sediment
+N9	Reference Annotation:T9 Reference:MBTO:00000193	anaerobic bioreactor
+N10	Reference Annotation:T10 Reference:MBTO:00000493	gastrointestinal tract
+N11	Reference Annotation:T11 Reference:MBTO:00001189	termite
+N12	Reference Annotation:T12 Reference:MBTO:00001971	microorganism
+N13	Reference Annotation:T13 Reference:MBTO:00000805	cell
+N14	Reference Annotation:T14 Reference:MBTO:00001189	termite
+N15	Reference Annotation:T15 Reference:MBTO:00000504	insect gut
+N16	Reference Annotation:T16 Reference:MBTO:00000744	aquatic environment
+N17	Reference Annotation:T17 Reference:MBTO:00000744	aquatic environment
+N18	Reference Annotation:T18 Reference:MBTO:00001503	environment water
+N19	Reference Annotation:T19 Reference:MBTO:00000161	sediment
+N20	Reference Annotation:T20 Reference:MBTO:00000415	mud
+N21	Reference Annotation:T21 Reference:MBTO:00000117	marsh
+N22	Reference Annotation:T22 Reference:MBTO:00000760	lake
+N23	Reference Annotation:T23 Reference:MBTO:00001507	river
+N24	Reference Annotation:T24 Reference:MBTO:00000206	ocean water
+N25	Reference Annotation:T25 Reference:MBTO:00001971	microorganism
+N26	Reference Annotation:T26 Reference:MBTO:00000805	cell
+N27	Reference Annotation:T27 Reference:MBTO:00002008	trichome
+N28	Reference Annotation:T28 Reference:MBTO:00002008	trichome
+N29	Reference Annotation:T29 Reference:MBTO:00000749	freshwater hotspring
+N30	Reference Annotation:T30 Reference:MBTO:00000273	waste
+N31	Reference Annotation:T31 Reference:MBTO:00001714	fuel

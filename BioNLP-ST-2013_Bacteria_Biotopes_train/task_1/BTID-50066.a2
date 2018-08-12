@@ -1,0 +1,16 @@
+T1	Habitat 81 90	machinery
+T2	Habitat 287 291	cell
+T3	Habitat 316 320	soil
+T4	Habitat 322 328	animal
+T5	Habitat 322 339	animal intestines
+T6	Habitat 322 328;344 349	animal feces
+T7	Habitat 355 360;370 375	fresh water
+T8	Habitat 365 375	salt water
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000596
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001852
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001773
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001660
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000110
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000341
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000904
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000617

@@ -1,0 +1,18 @@
+T1	Habitat 121 124	man
+T2	Habitat 179 205	bite of the brown dog tick
+T3	Habitat 191 205	brown dog tick
+T4	Habitat 197 200	dog
+T5	Habitat 241 254	intracellular
+T6	Habitat 288 317	cytoplasm of eukaryotic cells
+T7	Habitat 301 311	eukaryotic
+T8	Habitat 301 317	eukaryotic cells
+T9	Habitat 401 411	arthropods
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001104
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000237
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001688
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001946
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001165
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000593
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001852
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000850

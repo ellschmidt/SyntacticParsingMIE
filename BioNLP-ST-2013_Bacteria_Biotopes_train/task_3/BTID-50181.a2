@@ -1,0 +1,47 @@
+T1	Bacteria 0 22	Xanthomonas axonopodis
+T2	Bacteria 23 45	Xanthomonas axonopodis
+T3	Habitat 51 56	plant
+T4	Habitat 78 84	citrus
+T5	Habitat 95 101	citrus
+T6	Habitat 95 108	citrus fruits
+T7	Bacteria 119 130	Xanthomonas
+T8	Bacteria 210 219	bacterial
+T9	Bacteria 253 292	gamma-subdivision of the Proteobacteria
+T10	Bacteria 294 326	Xanthomonas axonopodis pv. citri
+T11	Bacteria 328 331	Xac
+T12	Habitat 356 362	citrus
+T13	Habitat 407 434	commercial citrus cultivars
+T14	Habitat 471 477	citrus
+T15	Habitat 532 546	canker lesions
+T16	Habitat 550 556	fruits
+T17	Habitat 558 564	leaves
+T18	Habitat 569 574	stems
+T19	Habitat 603 608	fruit
+T20	Habitat 613 619	leaves
+T21	Habitat 621 625	twig
+T22	Habitat 647 651	tree
+T23	Habitat 719 730	citrus leaf
+T24	Habitat 719 725	citrus
+T25	Habitat 719 736	citrus leaf miner
+T26	Habitat 738 760	Phyllocnistis citrella
+T27	Habitat 813 829	foliar mesophyll
+T28	Habitat 891 897	plants
+T29	Habitat 943 954	Researchers
+T30	Habitat 980 985	plant
+T31	Bacteria 1009 1020	Xanthomonas
+T32	Habitat 1054 1059	crops
+T33	Habitat 1072 1078	plants
+T34	Bacteria 1197 1208	Xanthomonas
+R1	Localization Bacterium:T1 Localization:T5
+R2	Localization Bacterium:T10 Localization:T13
+R3	Localization Bacterium:T10 Localization:T22
+R4	Localization Bacterium:T10 Localization:T28
+R5	Localization Bacterium:T7 Localization:T30
+R6	Localization Bacterium:T1 Localization:T3
+*	Equiv T1 T2
+*	Equiv T34 T7 T31
+*	Equiv T11 T10
+*	Equiv T28 T33 T30
+*	Equiv T14 T13
+*	Equiv T19 T16
+*	Equiv T20 T17

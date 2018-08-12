@@ -1,0 +1,13 @@
+T1	Habitat 106 134	respiratory tract of animals
+T2	Habitat 127 134	animals
+T3	Habitat 387 392	cells
+T4	Habitat 471 477	humans
+T5	Habitat 482 487	sheep
+T6	Habitat 569 595	infected infant in Germany
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000124
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001660
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001852
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000255
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000778
+N7	OntoBiotope Annotation:T6 Referent:MBTO:00002067

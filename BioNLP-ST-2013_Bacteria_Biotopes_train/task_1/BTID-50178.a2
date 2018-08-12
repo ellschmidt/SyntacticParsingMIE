@@ -1,0 +1,59 @@
+T1	Habitat 37 60	Drosophila melanogaster
+T2	Habitat 264 284	invertebrate species
+T3	Habitat 459 472	intracellular
+T4	Habitat 544 564	invertebrate species
+T5	Habitat 576 583	insects
+T6	Habitat 585 590	mites
+T7	Habitat 592 599	spiders
+T8	Habitat 601 624	terrestrial crustaceans
+T9	Habitat 630 639	nematodes
+T10	Habitat 686 693	females
+T11	Habitat 703 712	offspring
+T12	Habitat 782 802	invertebrate species
+T13	Habitat 851 861	arthropods
+T14	Habitat 950 959	fruit fly
+T15	Habitat 1300 1353	infected females reproducing in the absence of mating
+T16	Habitat 1365 1390	infected female offspring
+T17	Habitat 1407 1472	infected males being converted into functional phenotypic females
+T18	Habitat 1475 1479	male
+T19	Habitat 1489 1510	infected male embryos
+T20	Habitat 1621 1652	offspring of uninfected females
+T21	Habitat 1634 1652	uninfected females
+T22	Habitat 1667 1681	infected males
+T23	Habitat 1758 1771	intracellular
+T24	Habitat 1913 1926	intracellular
+T25	Habitat 2643 2651	germline
+T26	Habitat 2758 2773	D. melanogaster
+T27	Habitat 2884 2896	mitochondria
+T28	Habitat 2997 3009	mitochondria
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001912
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001947
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001946
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001947
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000141
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000226
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000044
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001164
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00002014
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001506
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000467
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001947
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000850
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001238
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001506
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001506
+N17	OntoBiotope Annotation:T16 Referent:MBTO:00000467
+N18	OntoBiotope Annotation:T17 Referent:MBTO:00000548
+N19	OntoBiotope Annotation:T18 Referent:MBTO:00000548
+N20	OntoBiotope Annotation:T19 Referent:MBTO:00001296
+N21	OntoBiotope Annotation:T19 Referent:MBTO:00000548
+N22	OntoBiotope Annotation:T20 Referent:MBTO:00000467
+N23	OntoBiotope Annotation:T21 Referent:MBTO:00001506
+N24	OntoBiotope Annotation:T22 Referent:MBTO:00000548
+N25	OntoBiotope Annotation:T22 Referent:MBTO:00000548
+N26	OntoBiotope Annotation:T23 Referent:MBTO:00001946
+N27	OntoBiotope Annotation:T24 Referent:MBTO:00001946
+N28	OntoBiotope Annotation:T25 Referent:MBTO:00001418
+N29	OntoBiotope Annotation:T26 Referent:MBTO:00001912
+N30	OntoBiotope Annotation:T27 Referent:MBTO:00001304
+N31	OntoBiotope Annotation:T28 Referent:MBTO:00001304

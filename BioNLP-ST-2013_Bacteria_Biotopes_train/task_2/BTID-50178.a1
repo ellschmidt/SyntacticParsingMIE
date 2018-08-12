@@ -1,0 +1,47 @@
+T1	Bacteria 0 9	Wolbachia
+T2	Bacteria 10 19	Wolbachia
+T3	Habitat 37 60	Drosophila melanogaster
+T4	Bacteria 221 230	Wolbachia
+T5	Habitat 264 284	invertebrate species
+T6	Bacteria 445 454	Wolbachia
+T7	Habitat 459 472	intracellular
+T8	Bacteria 487 495	bacteria
+T9	Habitat 544 564	invertebrate species
+T10	Habitat 576 583	insects
+T11	Habitat 585 590	mites
+T12	Habitat 592 599	spiders
+T13	Habitat 601 624	terrestrial crustaceans
+T14	Habitat 630 639	nematodes
+T15	Bacteria 641 650	Wolbachia
+T16	Habitat 686 693	females
+T17	Habitat 703 712	offspring
+T18	Habitat 782 802	invertebrate species
+T19	Bacteria 804 813	Wolbachia
+T20	Bacteria 817 826	bacterial
+T21	Habitat 851 861	arthropods
+T22	Habitat 950 959	fruit fly
+T23	Bacteria 1073 1082	Wolbachia
+T24	Habitat 1300 1353	infected females reproducing in the absence of mating
+T25	Habitat 1365 1390	infected female offspring
+T26	Habitat 1407 1472	infected males being converted into functional phenotypic females
+T27	Habitat 1475 1479	male
+T28	Habitat 1489 1510	infected male embryos
+T29	Habitat 1621 1652	offspring of uninfected females
+T30	Habitat 1634 1652	uninfected females
+T31	Habitat 1667 1681	infected males
+T32	Habitat 1758 1771	intracellular
+T33	Bacteria 1772 1780	bacteria
+T34	Bacteria 1843 1852	Wolbachia
+T35	Habitat 1913 1926	intracellular
+T36	Bacteria 2319 2329	Rickettsia
+T37	Bacteria 2484 2494	Rickettsia
+T38	Bacteria 2552 2561	Wolbachia
+T39	Bacteria 2619 2628	Wolbachia
+T40	Habitat 2643 2651	germline
+T41	Bacteria 2744 2753	Wolbachia
+T42	Habitat 2758 2773	D. melanogaster
+T43	Bacteria 2801 2810	Wolbachia
+T44	Habitat 2884 2896	mitochondria
+T45	Bacteria 2930 2950	alpha-Proteobacteria
+T46	Habitat 2997 3009	mitochondria
+T47	Bacteria 3036 3049	Rickettsiales

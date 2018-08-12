@@ -1,0 +1,57 @@
+T1	Bacteria 0 35	Chlorobium phaeobacteroides DSM 266
+T2	Bacteria 40 61	green sulfur bacteria
+T3	Bacteria 63 66	GSB
+T4	Bacteria 75 83	Chlorobi
+T5	Habitat 108 164	illuminated, stratified, and anoxic aquatic environments
+T6	Habitat 166 175	sediments
+T7	Habitat 187 212	sulfide-rich environments
+T8	Habitat 223 234	hot springs
+T9	Bacteria 315 323	bacteria
+T10	Habitat 388 399	phototrophs
+T11	Habitat 425 445	aquatic environments
+T12	Bacteria 652 655	GSB
+T13	Bacteria 857 865	bacteria
+T14	Bacteria 991 994	GSB
+T15	Habitat 1088 1107	anoxic environments
+T16	Bacteria 1109 1117	Chlorobi
+T17	Bacteria 1216 1219	GSB
+T18	Habitat 1401 1414	higher plants
+T19	Bacteria 1419 1432	cyanobacteria
+T20	Bacteria 1656 1659	GSB
+T21	Bacteria 1707 1710	GSB
+T22	Habitat 1810 1815	cells
+T23	Bacteria 1892 1895	GSB
+T24	Habitat 1955 1966	phototrophs
+T25	Bacteria 2006 2014	bacteria
+T26	Habitat 2056 2067	phototrophs
+T27	Bacteria 2069 2082	cyanobacteria
+T28	Bacteria 2084 2099	purple bacteria
+T29	Bacteria 2101 2115	proteobacteria
+T30	Bacteria 2118 2131	heliobacteria
+T31	Bacteria 2173 2198	green non-sulfur bacteria
+T32	Bacteria 2202 2217	Chloroflexaceae
+T33	Bacteria 2234 2242	Chlorobi
+T34	Bacteria 2284 2297	Bacteroidetes
+T35	Bacteria 2303 2348	Chlorobium phaeobacteroides strain DSMZ 266 T
+T36	Bacteria 2377 2380	GSB
+T37	Habitat 2448 2463	elongated cells
+T38	Habitat 2503 2594	anoxic sulfide containing water 19.5 m below surface of meromictic Lake Blankvann in Norway
+T39	Geographical 2570 2584	Lake Blankvann
+T40	Geographical 2588 2594	Norway
+T41	Bacteria 2640 2643	GSB
+T42	Habitat 2661 2666	cells
+T43	Bacteria 3059 3080	Chl. phaeobacteroides
+T44	Habitat 3113 3123	freshwater
+R1	Localization Bacteria:T1 Localization:T39
+R2	Localization Bacteria:T2 Localization:T15
+R3	Localization Bacteria:T2 Localization:T5
+R4	Localization Bacteria:T2 Localization:T6
+R5	Localization Bacteria:T2 Localization:T7
+R6	Localization Bacteria:T2 Localization:T8
+R7	Localization Bacteria:T2 Localization:T11
+R8	Localization Bacteria:T35 Localization:T44
+R9	Localization Bacteria:T1 Localization:T38
+R10	Localization Bacteria:T1 Localization:T40
+*	Equiv T1 T35
+*	Equiv T2 T3 T4 T12 T14 T16 T17 T20 T21 T23 T33
+*	Equiv 

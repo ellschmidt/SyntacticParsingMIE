@@ -1,0 +1,40 @@
+T1	Habitat 61 66	human
+T2	Habitat 214 220	humans
+T3	Habitat 612 634	mesenteric lymph nodes
+T4	Habitat 623 628	lymph
+T5	Habitat 793 797	soil
+T6	Habitat 799 804	water
+T7	Habitat 806 816	vegetables
+T8	Habitat 864 868;882 889	wild animals
+T9	Habitat 873 889	domestic animals
+T10	Habitat 920 926	animal
+T11	Habitat 1068 1075	animals
+T12	Habitat 1169 1173	feco
+T13	Habitat 1174 1178	oral
+T14	Habitat 1189 1195	humans
+T15	Habitat 1297 1302	water
+T16	Habitat 1306 1310	food
+T17	Habitat 1338 1344	animal
+T18	Habitat 1338 1351	animal faeces
+T19	Habitat 1366 1372	Humans
+T20	Habitat 1414 1423	abdominal
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000769
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001977
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001773
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001141
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00002021
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001883
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001512
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001660
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001660
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000341
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000999
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001402
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000868
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000688
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001660
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000341
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001402
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000369

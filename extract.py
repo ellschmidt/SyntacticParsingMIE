@@ -5,6 +5,7 @@ import os
 
 extractions = open("a2_habitats.txt","w")
 linestring = []
+boolean_found = False
 
 for line in fileinput.input():
 	
@@ -23,16 +24,28 @@ for line in fileinput.input():
 		print single_words
 		
 		for word in single_words:
-			print word
+			print "word: " + word
 			dependencies_lookup = open(file_name + ".txt.xml")
 			
-			for line in dependencies_lookup :
-				linestring.append(line)
-				joined= ' '.join(linestring)
-				habitat_dependency = re.search(r'<dep\stype="(.*)">\s*<governor\sidx="\d*">(.*)</governor>\s*<dependent\sidx="\d*">' + re.escape(word) + '</dependent>',joined)
-				if habitat_dependency:
-					print habitat_dependency.group(1)
-					print habitat_dependency.group(2)
+			if linestring == []:
+				for line in dependencies_lookup :
+					linestring.append(line)
+					joined= ' '.join(linestring)
+			
+			habitat_dependency = re.search(r'<dep\stype="(.*)">\s*<governor\sidx="\d*">(.*)</governor>\s*<dependent\sidx="\d*">' + re.escape(word) + '</dependent>',joined)
+			if habitat_dependency:
+				#print "Group 1 found: " + habitat_dependency.group(1)
+				#print "Group 2 found: " + habitat_dependency.group(2)
+				for phrase_member in single_words:
+					#print "Phrase Memeber: " + phrase_member
+					#print boolean_found
+					if habitat_dependency.group(2) == phrase_member:
+						boolean_found = True
+				
+				if boolean_found == False:
+					print "Group 2: " + habitat_dependency.group(2)
+					
+			boolean_found = False
 					
 		extractions.write(str(habitat.group(1)) + "\n")
 		#print habitat.group(1)

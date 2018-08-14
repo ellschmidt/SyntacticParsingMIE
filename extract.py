@@ -3,7 +3,7 @@ import re
 import os
 
 
-extractions = open("a2_habitats.txt","w")
+keywords = open("keywords.txt","a+")
 linestring = []
 boolean_found = False
 
@@ -44,12 +44,13 @@ for line in fileinput.input():
 				
 				if boolean_found == False:
 					print "Group 2: " + habitat_dependency.group(2)
-					
+					keywords.write(str(habitat_dependency.group(2)) + " + " + str(habitat_dependency.group(1)) + "\n")
+			
 			boolean_found = False
 					
-		extractions.write(str(habitat.group(1)) + "\n")
-		#print habitat.group(1)
+			
+			#print habitat.group(1)
 	
 	habitat = None
 	
-extractions.close()
+keywords.close()

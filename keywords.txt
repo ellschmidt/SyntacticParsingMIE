@@ -1,0 +1,8 @@
+invading + dobj
+organisms + case
+tract + nmod
+transport + nmod
+infect + dobj
+humans + conj
+isolated + nmod
+do + mark

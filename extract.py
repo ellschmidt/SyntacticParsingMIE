@@ -2,7 +2,9 @@
 import fileinput
 import re
 import os
-import untangle
+import time
+import lxml
+from lxml import etree
 
 """
 Das Programm dient dazu, aus den gegeben .a2-files die korrekten Entities auszulesen, diese in den xml-files zu suchen
@@ -12,8 +14,8 @@ was der Regel entsprechen wird: wenn du das Wort 'invading' findest, ist das 'do
 
 Der anwendbare Teil aud die Test-files ist noch nicht geschrieben. 
 """
-
-keywords = open("keywords.txt","a+")	# File, in die die regeln geschrieben werden. 
+start = time.time()
+keywords = open("keywords.txt","a+")	# File, in die die Regeln geschrieben werden. 
 linestring = []							# Globale Variable, die den xml-file-input als einen fortlaufenden String enthält, um auch zeilenübergreifend mit Regex suchen zu können
 boolean_found = False					# Boolean, für die Suche des Leitwortes in Wortgruppen
 counter = 1
@@ -22,30 +24,35 @@ index_int = 1
 for line in fileinput.input():
 	
 	file_name = os.path.splitext(fileinput.filename())[0]		#get the file_name without the extension to be able to look dependencies up in corresponding files
+	
+	tree = etree.parse(file_name + ".txt.xml")
+	root = tree.getroot()
 
-	habitatfound = re.search(r'T\d\sHabitat\s(\d{3})\s(\d{3})\s(.*)', line)		#finde alle gegebenen Trainigsentities
+	for dependencies in root.iter('dependencies'):
+		if dependencies.get('type') != 'enhanced-plus-plus-dependencies':
+			dependencies.getparent().remove(dependencies)
+	tree.write('output.xml')
+	#treenew = etree.tostring(tree, xml_declaration=True)		# take ages to search in that
+	#print treenew
+	habitatfound = re.search(r'T\d\sHabitat\s(\d{3})\s\d{3}\s(.*)', line)		#finde alle gegebenen Trainigsentities
 	
 	
-	if habitatfound:												#wenn du ein gefunden hast
+		
+	if habitatfound:												#wenn du eine gefunden hast
 		
 		onset = habitatfound.group(1)
-		offset = habitatfound.group(2)
-		print onset
-		print offset
 		
-		single_words = habitatfound.group(3).split()						#splitte es in einzelne Worte auf (für den Fall, dass Wortgruppen dabei sind)
+		single_words = habitatfound.group(2).split()						#splitte es in einzelne Worte auf (für den Fall, dass Wortgruppen dabei sind)
 		
 		for word in single_words:
-			dependencies_lookup = open(file_name + ".txt.xml")		#öffne die zugehörige xml-file (könnte man natürlich auch schon früher machen, um die Laufzeit zu verbessern)
-			xml_untangled = untangle.parse(file_name + ".txt.xml")
-			
-			sentence_number = None 
+					
+			treenew = open('output.xml')
 			
 			if linestring == []:									#mache aus der xml-file einen langen String
-				for line in dependencies_lookup :
+				for line in treenew :
 					linestring.append(line)
 					joined= ' '.join(linestring)
-			
+						
 			if counter == 1:
 				find_index = re.search(r'<token id="(\d*)">\s*<word>' + re.escape(word) + '</word>\s*<lemma>(.*)</lemma>\s*<CharacterOffsetBegin>' + re.escape(onset) + '</CharacterOffsetBegin>', joined)
 				print find_index
@@ -66,7 +73,6 @@ for line in fileinput.input():
 				counter += 1
 					
 			
-			
 			habitat_dependency = re.search(r'<dep\stype="(.*)">\s*<governor\sidx="\d*">(.*)</governor>\s*<dependent\sidx="' + re.escape(index) + '">' + re.escape(word) + '</dependent>',joined)
 			
 			if habitat_dependency:						#suche nach einer Dependency, wo die gefundene Entity der Dependent ist und merke dir die Beziehung und den Governor
@@ -80,11 +86,14 @@ for line in fileinput.input():
 					
 					keywords.write(str(habitat_dependency.group(2)) + " + " + str(habitat_dependency.group(1)) + "\n")		#nur, wenn der Govenor kein Teil der Entitiy-Gruppe war, speichere es als Regel ab
 																															
-			boolean_found = False		# Boolean zurücksetzen
-		counter = 1
-	habitat = None		
+			boolean_found = False		# Variablen zurücksetzen
+		counter = 1	
 	
 keywords.close()		#File schließen
+os.remove("output.xml")
+
+ende = time.time()
+print('{:5.3f}s'.format(ende-start))
 
 '''
 1.Problem: 

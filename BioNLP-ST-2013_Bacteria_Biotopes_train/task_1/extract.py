@@ -20,8 +20,6 @@ linestring = []							# Globale Variable, die den xml-file-input als einen fortl
 boolean_found = False					# Boolean, für die Suche des Leitwortes in Wortgruppen
 counter = 1
 index_int = 1
-counter_tag = False
-
 
 for line in fileinput.input():
 	
@@ -36,7 +34,7 @@ for line in fileinput.input():
 	tree.write('output.xml')
 	#treenew = etree.tostring(tree, xml_declaration=True)		# take ages to search in that
 	#print treenew
-	habitatfound = re.search(r'T\d*\sHabitat\s(\d{1,5})\s\d{1,5}\s(.*)', line)		#finde alle gegebenen Trainigsentities
+	habitatfound = re.search(r'T\d\sHabitat\s(\d{3})\s\d{3}\s(.*)', line)		#finde alle gegebenen Trainigsentities
 	
 	
 		
@@ -49,18 +47,6 @@ for line in fileinput.input():
 		for word in single_words:
 					
 			treenew = open('output.xml')
-			print word 
-			
-			if re.search(r'\w+[-]\w+',word) == None :
-				if re.search(r'[-](\w+)', word):
-					word = re.search(r'[-]{0,1}(\w+)[-]{0,1}', word).group(1)
-					counter +=1
-				elif re.search(r'(\w+)[-,]', word):
-					word = re.search(r'[-]{0,1}(\w+)[-]{0,1}', word).group(1)
-					counter_tag = True					
-				else: word = word
-			elif re.search(r'[(]\w+[\s-]\w+[)]',word):
-				word = re.search(r'(\w+[\s-]\w+)\W',word).group(1)
 			
 			if linestring == []:									#mache aus der xml-file einen langen String
 				for line in treenew :
@@ -68,27 +54,24 @@ for line in fileinput.input():
 					joined= ' '.join(linestring)
 						
 			if counter == 1:
-				find_index = re.search(r'<token id="(\d*)">\s*<word>' + re.escape(word) + '\S*</word>\s*<lemma>(.*)</lemma>\s*<CharacterOffsetBegin>' + re.escape(onset) + '</CharacterOffsetBegin>', joined)
+				find_index = re.search(r'<token id="(\d*)">\s*<word>' + re.escape(word) + '</word>\s*<lemma>(.*)</lemma>\s*<CharacterOffsetBegin>' + re.escape(onset) + '</CharacterOffsetBegin>', joined)
+				print find_index
 				index = find_index.group(1)
-				#print index
 				index_int = int(find_index.group(1))
 				lemma = find_index.group(2)
+				print index
+				print lemma
 				counter += 1
-				if counter_tag == True:
-					counter += 1
-				counter_tag = False
 				
-			else:
-				#print counter
+			else: 
 				index = str(index_int + counter - 1)
 				print index
 				lemma_find = re.search(r'<token id="' + re.escape(index) + '">\s*<word>' + re.escape(word) + '</word>\s*<lemma>(.*)</lemma>', joined)
 				lemma = lemma_find.group(1)
-				#print lemma
+				print index
+				print lemma
 				counter += 1
-				if counter_tag == True:
-					counter += 1
-				counter_tag = False	
+					
 			
 			habitat_dependency = re.search(r'<dep\stype="(.*)">\s*<governor\sidx="\d*">(.*)</governor>\s*<dependent\sidx="' + re.escape(index) + '">' + re.escape(word) + '</dependent>',joined)
 			
@@ -105,11 +88,12 @@ for line in fileinput.input():
 																															
 			boolean_found = False		# Variablen zurücksetzen
 		counter = 1	
-
+	
 keywords.close()		#File schließen
+os.remove("output.xml")
 
 ende = time.time()
-#print('{:5.3f}s'.format(ende-start))
+print('{:5.3f}s'.format(ende-start))
 
 '''
 1.Problem: 

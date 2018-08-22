@@ -1,0 +1,24 @@
+T1 Habitat with beneficial health effects 
+T2 Habitat human 
+T3 Habitat gastrointestinal 
+T4 Habitat the human gastrointestinal tract -LRB- GIT -RRB- 
+T5 Habitat -LRB- GIT -RRB- 
+T6 Habitat intestinal 
+T7 Habitat GIT 
+T8 Habitat mammalian 
+T9 Habitat from the mammalian GIT 
+T10 Habitat from infant feces 
+T11 Habitat oral 
+T12 Habitat from the vaginal and oral oral cavity 
+T13 Habitat in adult humans and formula fed infants 
+T14 Habitat formula 
+T15 Habitat fed 
+T16 Habitat gut 
+T17 Habitat infant 
+T18 Habitat bacteriocins 
+T19 Habitat with beneficial health effects 
+T20 Habitat of diarrhea 
+T21 Habitat of bifidobacteria 
+T22 Habitat Gram-positive 
+T23 Habitat known 
+T24 Habitat ~ 

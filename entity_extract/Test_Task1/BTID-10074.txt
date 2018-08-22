@@ -1,0 +1,9 @@
+Bartonella tribocorum CIP 105476
+Description
+Bartonella. Bartonella species are facultative intracellular pathogens infecting humans and other animals. Transmission of these organisms is often through an insect vector. Once in a host, this intracellular pathogen is internalized by an actin-dependent mechanism, and primarily targets endothelial cells, although other cells can be infected. The proliferation of the vascular endothelium (bacillary angiomatosis) is characterisitic of Bartonella infection and results in multiplication of the bacterium's host cells. Infected macrophages are stimulated to release vascular endothelial growth factor (VEGF) and interleukin 1 beta, both of which promote angiogenesis. Endothelial cells are also stimulated to grow and divide by direct contact with bacterial cells. In addition, programmed cell death (apoptosis) of endothelial cells is inhibited, combatting a common mechanism eukaryotic cells use to deal with bacterial infection. Secretion of effector molecules is probably via a type IV secretion system. Other pathogenicity factors include pili and outer membrane adhesins for attachment to host cells
+Description
+Bartonella tribocorum. Bartonella tribocorum has been isolated from blood of wild rats and from fleas obtained from wild rats. This organism is genetically related to Bartonella elizabethae which was isolated from a case of endocarditis in a human.
+Description
+Bartonella tribocorum CIP 105476. This organism was isolated from the blood of wild rats. This is the type strain and will be used for comparative genomics.
+Properties
+

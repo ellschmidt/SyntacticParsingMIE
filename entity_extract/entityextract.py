@@ -10,12 +10,17 @@ start = time.time()
 linestring = []	
 counter = 1
 rules = open("keywords_revised.txt", "r")
+borders_end = 0
+phrase_counter = 0
+phrases_to_sort = [[]]
+first = False
+phrases_to_print = []
 
-for line in fileinput.input():
+for line_a in fileinput.input():
 	file_name = os.path.splitext(fileinput.filename())[0]
 
-for line in rules:
-	rule_tofind = re.search(r'(\w+[.]*|%)\s[+]\s(\w+\S*)', line)
+for line_b in rules:
+	rule_tofind = re.search(r'(\w+[.]*|%)\s[+]\s(\w+\S*)', line_b)
 	keyword = rule_tofind.group(1)
 	relation = rule_tofind.group(2)
 	#print "RULE: " + line
@@ -33,8 +38,8 @@ for line in rules:
 	treenew = open('output.xml')
 	
 	if linestring == []:									#mache aus der xml-file einen langen String
-		for line in treenew :
-			linestring.append(line)
+		for line_c in treenew :
+			linestring.append(line_c)
 			joined= ' '.join(linestring)
 					
 					
@@ -78,27 +83,67 @@ for line in rules:
 		
 		sorted_lookup = sorted(looked_up, key=lambda word: int(word[0]))
 			
-		entities = open("entities.txt", "a+")
-		entities.write("T" + str(counter) + " Habitat ")
-		for entity in sorted_lookup:
-			entities.write(entity[1] + " ")
+		entities = open("entities.a2", "a+")
 		
-		entities.write("\n")
-		counter += 1
+		phrase = []
+		for entity in sorted_lookup:
+			if entity[1] in ["the", "from", "in", "-LRB-", "-RRB-"]: 
+				continue
+			elif entity[1] == "and":
+				phrase_counter += 1
+				phrases_to_sort.append([])
+			else: 
+				phrases_to_sort[phrase_counter].append(entity)
+			
+		for i in range(len(phrases_to_sort)):
+			phrases_to_print.append([])
+			#entities.write("T" + str(counter) + " Habitat ")
+			phrases_to_print[counter-1].append(" Habitat ")
+			for k in phrases_to_sort[i]:
+				borders = re.search(r'<token id="' + re.escape(k[0]) + '">\s*<word>' + re.escape(k[1]) + '</word>\s*<lemma>.*</lemma>\s*<CharacterOffsetBegin>(\d+)</CharacterOffsetBegin>\s*<CharacterOffsetEnd>(\d+)</CharacterOffsetEnd>', joined)
+				if first == False:
+					borders_start = borders.group(1)
+					#entities.write(borders_start + " ")
+					phrases_to_print[counter-1].append(borders_start + " ")
+					first = True
+				if int(borders_end) < int(borders.group(2)):
+						borders_end = borders.group(2)
+						print borders_end
+			
+			#entities.write(borders_end + " ")
+			phrases_to_print[counter-1].append(borders_end + " ")
+			
+			for k in phrases_to_sort[i]:
+				#entities.write(k[1] + " ")
+				phrases_to_print[counter-1].append(k[1] + " ")
+			
+			first = False
+			borders_end = 0 
+			border_start = 0
+			
+			#entities.write("\n")
+			phrases_to_print[counter-1].append("\n")
+			counter +=1
+		phrases_to_sort = [[]]
+		phrase_counter = 0
 		#print "\n", sorted_lookup
 		
 		#print "SET" + "\n"
 		phrase_list = []
 		looked_up = []
 	
-	#print "\n" + "next rule" + "\n"		
-	#counter += 1
+	#print "\n" + "next rule" + "\n"	
+	
+sorted_phrases_back = sorted(phrases_to_print, key=lambda phrase: int(phrase[2]))
+sorted_phrases = sorted(sorted_phrases_back, key=lambda phrase: int(phrase[1]))			
+print sorted_phrases
+t_counter = 1
+for single_phrase in sorted_phrases:
+	entities.write("T" + str(t_counter) + "\t")
+	t_counter +=1
+	for l in single_phrase:
+		entities.write(l)
 	
 	
-			
-			
-			
-			
-			
 			
 		

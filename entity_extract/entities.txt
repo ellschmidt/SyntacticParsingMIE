@@ -1,24 +1,25 @@
-T1 Habitat with beneficial health effects 
-T2 Habitat human 
-T3 Habitat gastrointestinal 
-T4 Habitat the human gastrointestinal tract -LRB- GIT -RRB- 
-T5 Habitat -LRB- GIT -RRB- 
-T6 Habitat intestinal 
-T7 Habitat GIT 
-T8 Habitat mammalian 
-T9 Habitat from the mammalian GIT 
-T10 Habitat from infant feces 
-T11 Habitat oral 
-T12 Habitat from the vaginal and oral oral cavity 
-T13 Habitat in adult humans and formula fed infants 
-T14 Habitat formula 
-T15 Habitat fed 
-T16 Habitat gut 
-T17 Habitat infant 
-T18 Habitat bacteriocins 
-T19 Habitat with beneficial health effects 
-T20 Habitat of diarrhea 
-T21 Habitat of bifidobacteria 
-T22 Habitat Gram-positive 
-T23 Habitat known 
-T24 Habitat ~ 
+T1 Habitat 113 118 human 
+T2 Habitat 113 146 human gastrointestinal tract GIT 
+T3 Habitat 119 135 gastrointestinal 
+T4 Habitat 143 146 GIT 
+T5 Habitat 218 228 intestinal 
+T6 Habitat 305 335 with beneficial health effects 
+T7 Habitat 356 367 of diarrhea 
+T8 Habitat 453 456 GIT 
+T9 Habitat 527 539 bacteriocins 
+T10 Habitat 653 654 ~ 
+T11 Habitat 657 662 known 
+T12 Habitat 671 688 of bifidobacteria 
+T13 Habitat 717 726 mammalian 
+T14 Habitat 717 730 mammalian GIT 
+T15 Habitat 750 757 vaginal 
+T16 Habitat 762 766 oral 
+T17 Habitat 762 773 oral oral cavity 
+T18 Habitat 846 859 Gram-positive 
+T19 Habitat 1021 1033 adult humans 
+T20 Habitat 1038 1045 formula 
+T21 Habitat 1038 1057 formula fed infants 
+T22 Habitat 1046 1049 fed 
+T23 Habitat 1083 1086 gut 
+T24 Habitat 1175 1181 infant 
+T25 Habitat 1175 1187 infant feces 

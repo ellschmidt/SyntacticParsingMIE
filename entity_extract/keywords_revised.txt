@@ -1,4 +1,3 @@
-associated + nmod:with
 tract + amod
 colonize + dobj
 tract + appos

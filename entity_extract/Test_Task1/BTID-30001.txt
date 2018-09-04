@@ -1,6 +1,0 @@
-A bacteria capable of fermenting amino acids
-A bacteria capable of fermenting amino acids
-This Clostridium (HF strain) was initially found associated with Methanococcus vannieli in formate-enriched cultures (Stadtman and Barker, 1951). After its isolation in pure culture, it was shown that this organism is capable of fermenting amino acids (Stadtman, 1954). Biochemical studies have shown that C. sticklandii obtains energy for growth from oxidation-reduction reactions between specific amino acid pairs (Stickland reaction, described in C. sporogenes (Stickland, 1934).
-C. sticklandii is a Gram-positive bacterium with low (G +C) content. The Clostridium genus includes about 150 species which live as anaerobes. They exhibit high metabolic diversity and colonize diverse anoxic habitats (soil, aquatic sediments, animal and human intestines).
-The sequencing and analysis of this bacterium will lead to a better understanding of the fermentation process.
-

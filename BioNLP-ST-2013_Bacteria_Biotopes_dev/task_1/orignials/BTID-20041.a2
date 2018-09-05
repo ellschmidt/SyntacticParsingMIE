@@ -1,0 +1,10 @@
+T1	Habitat 149 159	eukaryotes
+T2	Habitat 432 437	cells
+T3	Habitat 489 502	intracellular
+T4	Habitat 581 594	intracellular
+T5	Habitat 649 665	eukaryotic hosts
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000593
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001852
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001946
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001946
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000593

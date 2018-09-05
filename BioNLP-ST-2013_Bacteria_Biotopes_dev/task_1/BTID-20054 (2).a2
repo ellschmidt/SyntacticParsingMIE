@@ -1,0 +1,38 @@
+T1	Habitat 116 192	massive accumulations as conspicuous mats in neutral to alkaline hot springs
+T2	Habitat 161 168;181 192	neutral hot springs
+T3	Habitat 172 192	alkaline hot springs
+T4	Habitat 344 363	laboratory cultures
+T5	Habitat 394 424	lower layer of a microbial mat
+T6	Habitat 475 498	springs high in sulfide
+T7	Habitat 2020 2030	hot spring
+T8	Habitat 2020 2035	hot spring mats
+T9	Habitat 2086 2096	freshwater
+T10	Habitat 2229 2278	sulfide-containing sediments in springs and lakes
+T11	Habitat 2261 2268	springs
+T12	Habitat 2273 2278	lakes
+T13	Habitat 2389 2395	Marine
+T14	Habitat 2454 2460;2477 2491	marine microbial mats
+T15	Habitat 2454 2460	marine
+T16	Habitat 2465 2491	hypersaline microbial mats
+T17	Habitat 2535 2567	anoxic zones of freshwater lakes
+T18	Habitat 2551 2567	freshwater lakes
+T19	Habitat 2824 2835	hot springs
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001379
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001920
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000294
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000833
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000820
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001999
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000415
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001379
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000904
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001795
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000822
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001370
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001257
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001929
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001257
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001325
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001191
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001370
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000415

@@ -1,0 +1,12 @@
+T1	Bacteria 0 24	Borrelia burgdorferi B31
+T2	Bacteria 37 57	Borrelia burgdorferi
+T3	Habitat 181 185	tick
+T4	Geographical 202 215	North America
+T5	Geographical 220 226	Europe
+T6	Habitat 260 277	Ixodes scapularis
+T7	Bacteria 291 300	bacterium
+T8	Bacteria 322 332	spirochete
+T9	Bacteria 648 662	B. burgdorferi
+T10	Bacteria 819 850	Borrelia burgdorferi strain B31
+T11	Bacteria 877 887	ATCC 35210
+T12	Habitat 984 988	tick

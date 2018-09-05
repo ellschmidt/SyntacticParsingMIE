@@ -1,0 +1,61 @@
+T1	Bacteria 0 22	Wolinella succinogenes
+T2	Bacteria 23 45	Wolinella succinogenes
+T3	Habitat 59 73	rumens of cows
+T4	Habitat 69 73	cows
+T5	Habitat 108 116	microbes
+T6	Habitat 128 135	stomach
+T7	Habitat 149 155	humans
+T8	Bacteria 157 166	H. pylori
+T9	Bacteria 171 180	C. jejuni
+T10	Bacteria 181 196	W. succinogenes
+T11	Bacteria 216 225	bacterium
+T12	Bacteria 344 359	W. succinogenes
+T13	Bacteria 529 544	W. succinogenes
+T14	Habitat 572 578	bovine
+T15	Habitat 572 584	bovine rumen
+T16	Habitat 590 595	human
+T17	Habitat 590 611	human gingival sulcus
+T18	Habitat 590 604	human gingival
+T19	Habitat 617 634	dental root canal
+T20	Habitat 617 628	dental root
+T21	Habitat 617 623	dental
+T22	Bacteria 700 708	bacteria
+T23	Bacteria 818 840	Wolinella succinogenes
+T24	Bacteria 885 893	bacteria
+T25	Bacteria 894 913	Helicobacter pylori
+T26	Bacteria 918 938	Campylobacter jejuni
+T27	Habitat 1006 1012	bovine
+T28	Bacteria 1019 1034	W. succinogenes
+T29	Bacteria 1094 1103	bacterial
+T30	Bacteria 1222 1230	bacteria
+T31	Bacteria 1232 1247	W. succinogenes
+T32	Bacteria 1284 1293	bacterial
+T33	Bacteria 1322 1331	bacterial
+T34	Bacteria 1457 1472	W. succinogenes
+T35	Habitat 1511 1515	soil
+T36	Habitat 1520 1525	plant
+T37	Bacteria 1537 1545	bacteria
+T38	Bacteria 1569 1584	W. succinogenes
+T39	Bacteria 1615 1637	epsilon proteobacteria
+R1	Localization Bacterium:T1 Localization:T14
+R2	Localization Bacterium:T8 Localization:T7
+R3	Localization Bacterium:T1 Localization:T16
+R4	Localization Bacterium:T37 Localization:T35
+R5	Localization Bacterium:T9 Localization:T7
+R6	Localization Bacterium:T1 Localization:T4
+R7	Localization Bacterium:T1 Localization:T3
+R8	Localization Bacterium:T1 Localization:T19
+R9	Localization Bacterium:T1 Localization:T15
+R10	Localization Bacterium:T1 Localization:T17
+R11	Localization Bacterium:T1 Localization:T21
+R12	Localization Bacterium:T1 Localization:T20
+R13	PartOf Host:T16 Part:T19
+R14	PartOf Host:T4 Part:T3
+R15	PartOf Host:T14 Part:T15
+R16	PartOf Host:T16 Part:T17
+R17	PartOf Host:T16 Part:T21
+R18	PartOf Host:T16 Part:T20
+*	Equiv T9 T26
+*	Equiv T25 T8
+*	Equiv T28 T12 T1 T38 T13 T31 T34 T23 T2 T10
+*	Equiv T14 T27

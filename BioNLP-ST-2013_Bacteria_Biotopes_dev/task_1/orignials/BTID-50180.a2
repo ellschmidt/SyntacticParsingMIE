@@ -1,0 +1,32 @@
+T1	Habitat 59 73	rumens of cows
+T2	Habitat 69 73	cows
+T3	Habitat 108 116	microbes
+T4	Habitat 128 135	stomach
+T5	Habitat 149 155	humans
+T6	Habitat 572 578	bovine
+T7	Habitat 572 584	bovine rumen
+T8	Habitat 590 595	human
+T9	Habitat 590 611	human gingival sulcus
+T10	Habitat 590 604	human gingival
+T11	Habitat 617 634	dental root canal
+T12	Habitat 617 628	dental root
+T13	Habitat 617 623	dental
+T14	Habitat 1006 1012	bovine
+T15	Habitat 1511 1515	soil
+T16	Habitat 1520 1525	plant
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001293
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000726
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001516
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001291
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001402
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000472
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001293
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001402
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000791
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000690
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000298
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001975
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001467
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000472
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001773
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00002027

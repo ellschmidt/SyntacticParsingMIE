@@ -1,0 +1,75 @@
+T1	Bacteria 0 32	Chloroflexus aurantiacus J-10-fl
+T2	Bacteria 34 50	Cfl. aurantiacus
+T3	Habitat 116 192	massive accumulations as conspicuous mats in neutral to alkaline hot springs
+T4	Habitat 161 168;181 192	neutral hot springs
+T5	Habitat 172 192	alkaline hot springs
+T6	Bacteria 194 206	Chloroflexus
+T7	Habitat 344 363	laboratory cultures
+T8	Habitat 394 424	lower layer of a microbial mat
+T9	Bacteria 430 443	cyanobacteria
+T10	Habitat 475 498	springs high in sulfide
+T11	Bacteria 509 521	Chloroflexus
+T12	Bacteria 542 554	Chloroflexus
+T13	Bacteria 656 669	cyanobacteria
+T14	Bacteria 1090 1111	green sulfur bacteria
+T15	Bacteria 1243 1258	purple bacteria
+T16	Bacteria 1385 1400	purple bacteria
+T17	Bacteria 1461 1476	purple bacteria
+T18	Bacteria 1478 1494	Cfl. aurantiacus
+T19	Bacteria 1573 1599;1607 1613	green non-sulfur bacterial branch
+T20	Bacteria 1601 1605	GNSB
+T21	Bacteria 1817 1829	Chloroflexus
+T22	Bacteria 1938 1950	Chloroflexus
+T23	Bacteria 1981 1995	Cfl. aggregans
+T24	Habitat 2020 2030	hot spring
+T25	Habitat 2020 2035	hot spring mats
+T26	Habitat 2086 2096	freshwater
+T27	Bacteria 2108 2133	Oscillochloris trichoides
+T28	Bacteria 2135 2148	O. trichoides
+T29	Bacteria 2189 2201	Chloroflexus
+T30	Habitat 2229 2278	sulfide-containing sediments in springs and lakes
+T31	Habitat 2261 2268	springs
+T32	Habitat 2273 2278	lakes
+T33	Bacteria 2301 2313	Chloroflexus
+T34	Habitat 2389 2395	Marine
+T35	Bacteria 2396 2408	Chloroflexus
+T36	Habitat 2454 2460;2477 2491	marine microbial mats
+T37	Habitat 2454 2460	marine
+T38	Habitat 2465 2491	hypersaline microbial mats
+T39	Bacteria 2508 2518	Chloronema
+T40	Habitat 2535 2567	anoxic zones of freshwater lakes
+T41	Habitat 2551 2567	freshwater lakes
+T42	Bacteria 2751 2773	Heliothrix oregonensis
+T43	Bacteria 2779 2803	Roseiflexus castenholzii
+T44	Habitat 2824 2835	hot springs
+T45	Bacteria 2847 2859	Chloroflexus
+R1	Localization Bacterium:T35 Localization:T34
+R2	Localization Bacterium:T2 Localization:T10
+R3	Localization Bacterium:T23 Localization:T24
+R4	Localization Bacterium:T2 Localization:T5
+R5	Localization Bacterium:T27 Localization:T26
+R6	Localization Bacterium:T27 Localization:T30
+R7	Localization Bacterium:T18 Localization:T44
+R8	Localization Bacterium:T23 Localization:T25
+R9	Localization Bacterium:T2 Localization:T8
+R10	Localization Bacterium:T43 Localization:T44
+R11	Localization Bacterium:T2 Localization:T3
+R12	Localization Bacterium:T42 Localization:T44
+R13	Localization Bacterium:T9 Localization:T8
+R14	Localization Bacterium:T39 Localization:T40
+R15	Localization Bacterium:T2 Localization:T4
+R16	Localization Bacterium:T2 Localization:T5
+R17	Localization Bacterium:T23 Localization:T25
+R18	Localization Bacterium:T23 Localization:T24
+R19	Localization Bacterium:T27 Localization:T26
+R20	Localization Bacterium:T28 Localization:T30
+R21	Localization Bacterium:T28 Localization:T31
+R22	Localization Bacterium:T28 Localization:T32
+R23	Localization Bacterium:T35 Localization:T34
+R24	Localization Bacterium:T35 Localization:T36
+R25	Localization Bacterium:T35 Localization:T38
+R26	Localization Bacterium:T39 Localization:T40
+R27	Localization Bacterium:T39 Localization:T41
+R28	Localization Bacterium:T35 Localization:T36
+R29	Localization Bacterium:T2 Localization:T7
+*	Equiv T28 T27

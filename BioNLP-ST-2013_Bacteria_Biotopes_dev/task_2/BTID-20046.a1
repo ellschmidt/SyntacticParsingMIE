@@ -1,0 +1,30 @@
+T1	Bacteria 0 19	Caulobacter sp. K31
+T2	Bacteria 20 42	Caulobacter strain K31
+T3	Bacteria 56 65	bacterium
+T4	Habitat 80 134	low temperature, chlorophenol-contaminated groundwater
+T5	Bacteria 233 255	Caulobacter strain K31
+T6	Habitat 275 499	enrichment culture for chlorophenol-tolerant bacteria in groundwater from Karkola, Finland, which percolates through nutrient-poor silt and clay, and is cold (7-8oC), oxygen-deficient, iron-rich, and mildly acidic (pH 6-6.5)
+T7	Bacteria 320 328	bacteria
+T8	Habitat 332 499	groundwater from Karkola, Finland, which percolates through nutrient-poor silt and clay, and is cold (7-8oC), oxygen-deficient, iron-rich, and mildly acidic (pH 6-6.5)
+T9	Geographical 349 356	Karkola
+T10	Geographical 358 365	Finland
+T11	Habitat 392 410	nutrient-poor silt
+T12	Habitat 392 405;415 419	nutrient-poor clay
+T13	Habitat 505 512;522 616	aquifer contaminated with high levels of chlorophenols for decades by a sawmill using polychlorophenol
+T14	Habitat 586 616	sawmill using polychlorophenol
+T15	Habitat 636 642	lumber
+T16	Bacteria 674 689	Caulobacter K31
+T17	Habitat 708 717	microbial
+T18	Habitat 761 786	subsurface aquatic niches
+T19	Bacteria 854 862	bacteria
+T20	Bacteria 870 881	Caulobacter
+T21	Habitat 907 936	low nutrient aquatic habitats
+T22	Habitat 954 962	biofilms
+T23	Habitat 1167 1174	biofilm
+T24	Habitat 1204 1214	freshwater
+T25	Bacteria 1222 1244	Caulobacter crescentus
+T26	Habitat 1254 1260	marine
+T27	Bacteria 1268 1284	Maricaulis maris
+T28	Geographical 1304 1307	JGI
+T29	Bacteria 1473 1486	C. crescentus
+T30	Bacteria 1502 1510	M. maris

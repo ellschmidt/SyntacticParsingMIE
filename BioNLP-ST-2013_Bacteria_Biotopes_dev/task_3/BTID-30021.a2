@@ -1,0 +1,54 @@
+T1	Bacteria 54 63	bacterium
+T2	Habitat 88 92	fish
+T3	Bacteria 446 460	Flavobacterium
+T4	Habitat 526 546	aquatic environments
+T5	Habitat 609 613	fish
+T6	Bacteria 615 631	F. psychrophilum
+T7	Bacteria 633 645	F. columnare
+T8	Bacteria 650 667	F. branchiophilum
+T9	Bacteria 687 696	JIP 02/86
+T10	Bacteria 711 720	bacterium
+T11	Bacteria 721 737	F. psychrophilum
+T12	Habitat 766 776	salmonides
+T13	Bacteria 838 850	F. columnare
+T14	Bacteria 855 871	F. psychrophilum
+T15	Habitat 905 922	branchial lesions
+T16	Habitat 945 949	fish
+T17	Bacteria 968 985	F. branchiophilum
+T18	Habitat 1013 1017	gill
+T19	Habitat 1106 1116	salmonides
+T20	Bacteria 1154 1163	bacterium
+T21	Geographical 1167 1172	Japan
+T22	Bacteria 1174 1191	F. branchiophilum
+T23	Geographical 1268 1271	USA
+T24	Geographical 1273 1280	Hungary
+T25	Geographical 1282 1288	Canada
+T26	Geographical 1290 1295	Korea
+T27	Bacteria 1313 1329	F. psychrophilum
+T28	Bacteria 1334 1346	F. columnare
+T29	Bacteria 1348 1365	F. branchiophilum
+T30	Bacteria 1401 1410	bacterium
+T31	Habitat 1416 1425	branchial
+T32	Habitat 1503 1516	extracellular
+T33	Bacteria 1572 1581	bacterium
+R1	Localization Bacterium:T8 Localization:T4
+R2	Localization Bacterium:T6 Localization:T4
+R3	Localization Bacterium:T7 Localization:T16
+R4	Localization Bacterium:T9 Localization:T12
+R5	Localization Bacterium:T7 Localization:T4
+R6	Localization Bacterium:T6 Localization:T16
+R7	Localization Bacterium:T8 Localization:T26
+R8	Localization Bacterium:T8 Localization:T2
+R9	Localization Bacterium:T6 Localization:T12
+R10	Localization Bacterium:T7 Localization:T2
+R11	Localization Bacterium:T8 Localization:T23
+R12	Localization Bacterium:T6 Localization:T2
+R13	Localization Bacterium:T8 Localization:T24
+R14	Localization Bacterium:T8 Localization:T21
+R15	Localization Bacterium:T8 Localization:T31
+R16	Localization Bacterium:T3 Localization:T4
+R17	Localization Bacterium:T8 Localization:T19
+R18	Localization Bacterium:T8 Localization:T25
+*	Equiv T11 T6 T27 T14
+*	Equiv T7 T13 T28
+*	Equiv T17 T22 T29 T8

@@ -1,0 +1,17 @@
+T1	Bacteria 0 30	Bordetella bronchiseptica RB50
+T2	Bacteria 43 53	Bordetella
+T3	Habitat 106 134	respiratory tract of animals
+T4	Habitat 127 134	animals
+T5	Habitat 389 394	cells
+T6	Bacteria 408 445	Bordetella bronchiseptica strain RB50
+T7	Bacteria 486 496	Bordetella
+T8	Habitat 566 572	humans
+T9	Habitat 602 609	animals
+T10	Habitat 643 649	rabbit
+R1	Localization Bacterium:T2 Localization:T4
+R2	Localization Bacterium:T2 Localization:T3
+R3	Localization Bacterium:T1 Localization:T9
+R4	Localization Bacterium:T1 Localization:T8
+R5	Localization Bacterium:T1 Localization:T10
+R6	PartOf Host:T4 Part:T3
+*	Equiv T6 T1

@@ -1,0 +1,15 @@
+R1	Localization Bacterium:T9 Localization:T13
+R2	Localization Bacterium:T1 Localization:T5
+R3	Localization Bacterium:T9 Localization:T11
+R4	Localization Bacterium:T1 Localization:T3
+R5	Localization Bacterium:T9 Localization:T24
+R6	Localization Bacterium:T9 Localization:T12
+R7	Localization Bacterium:T9 Localization:T19
+R8	Localization Bacterium:T6 Localization:T29
+R9	Localization Bacterium:T9 Localization:T20
+*	Equiv T1 T2
+*	Equiv T17 T25 T27 T10 T9
+*	Equiv T6 T30 T33
+*	Equiv T13 T26
+*	Equiv T4 T3 T23 T29 T21 T32 T24
+*	Equiv T5 T19

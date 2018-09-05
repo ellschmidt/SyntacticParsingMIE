@@ -1,0 +1,66 @@
+T1	Habitat 241 252	freshwaters
+T2	Habitat 257 270	marine waters
+T3	Habitat 350 376	hot springs in New Zealand
+T4	Habitat 432 469;479 485	cyanobacterial mats of hot springs in Oregon
+T5	Habitat 432 474	cyanobacterial mats of hot springs in Utah
+T6	Habitat 455 474	hot springs in Utah
+T7	Habitat 455 469;479 485	hot springs in Oregon
+T8	Habitat 546 589	marine areas in Shiaskotan Island in Russia
+T9	Habitat 695 715	alkaline Lake Magadi
+T10	Habitat 734 791	sulfide-saturated mud sediments of Lake Khatyn in Siberia
+T11	Habitat 930 951	anaerobic bioreactors
+T12	Habitat 961 976	digestive tract
+T13	Habitat 980 988	termites
+T14	Habitat 1144 1158	microorganisms
+T15	Habitat 1437 1444	termite
+T16	Habitat 1437 1448	termite gut
+T17	Habitat 1652 1672	aquatic environments
+T18	Habitat 2125 2145	aquatic environments
+T19	Habitat 2159 2164	water
+T20	Habitat 2166 2175;2185 2193	sediments of ponds
+T21	Habitat 2180 2193	muds of ponds
+T22	Habitat 2188 2193	ponds
+T23	Habitat 2195 2202	marshes
+T24	Habitat 2204 2209	lakes
+T25	Habitat 2211 2217	rivers
+T26	Habitat 2222 2228	oceans
+T27	Habitat 2301 2315	microorganisms
+T28	Habitat 2875 2884	trichomes
+T29	Habitat 2940 2949	trichomes
+T30	Habitat 3275 3296	freshwater hot spring
+T31	Habitat 3580 3607	cellulose-containing wastes
+T32	Habitat 3611 3615	fuel
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000904
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001481
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000415
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001379
+N5	OntoBiotope Annotation:T4 Referent:MBTO:00001005
+N6	OntoBiotope Annotation:T5 Referent:MBTO:00001379
+N7	OntoBiotope Annotation:T5 Referent:MBTO:00001005
+N8	OntoBiotope Annotation:T6 Referent:MBTO:00000415
+N9	OntoBiotope Annotation:T7 Referent:MBTO:00000415
+N10	OntoBiotope Annotation:T8 Referent:MBTO:00001257
+N11	OntoBiotope Annotation:T9 Referent:MBTO:00001717
+N12	OntoBiotope Annotation:T10 Referent:MBTO:00000601
+N13	OntoBiotope Annotation:T11 Referent:MBTO:00000053
+N14	OntoBiotope Annotation:T12 Referent:MBTO:00001828
+N15	OntoBiotope Annotation:T13 Referent:MBTO:00001399
+N16	OntoBiotope Annotation:T14 Referent:MBTO:00001516
+N17	OntoBiotope Annotation:T15 Referent:MBTO:00001399
+N18	OntoBiotope Annotation:T16 Referent:MBTO:00001670
+N19	OntoBiotope Annotation:T17 Referent:MBTO:00000643
+N20	OntoBiotope Annotation:T18 Referent:MBTO:00000643
+N21	OntoBiotope Annotation:T19 Referent:MBTO:00001141
+N22	OntoBiotope Annotation:T20 Referent:MBTO:00000633
+N23	OntoBiotope Annotation:T21 Referent:MBTO:00000281
+N24	OntoBiotope Annotation:T22 Referent:MBTO:00001621
+N25	OntoBiotope Annotation:T23 Referent:MBTO:00001848
+N26	OntoBiotope Annotation:T24 Referent:MBTO:00001370
+N27	OntoBiotope Annotation:T25 Referent:MBTO:00000828
+N28	OntoBiotope Annotation:T26 Referent:MBTO:00001257
+N29	OntoBiotope Annotation:T27 Referent:MBTO:00001516
+N30	OntoBiotope Annotation:T28 Referent:MBTO:00000562
+N31	OntoBiotope Annotation:T29 Referent:MBTO:00000562
+N32	OntoBiotope Annotation:T30 Referent:MBTO:00002036
+N33	OntoBiotope Annotation:T31 Referent:MBTO:00001790
+N34	OntoBiotope Annotation:T32 Referent:MBTO:00000679

@@ -1,0 +1,65 @@
+T1	Bacteria 0 35	Burkholderia multivorans ATCC 17616
+T2	Bacteria 36 48	Burkholderia
+T3	Habitat 129 134	water
+T4	Habitat 139 143	soil
+T5	Habitat 149 160	atmospheric
+T6	Habitat 179 185	plants
+T7	Bacteria 275 287	Burkholderia
+T8	Habitat 322 326	soil
+T9	Habitat 330 341	rhizosphere
+T10	Habitat 343 352	root zone
+T11	Habitat 357 362	water
+T12	Habitat 393 399	plants
+T13	Habitat 404 411	animals
+T14	Habitat 425 451	intracellularly in amoebas
+T15	Habitat 444 451	amoebas
+T16	Bacteria 706 718	Burkholderia
+T17	Bacteria 786 814	Burkholderia cepacia complex
+T18	Bacteria 816 819	Bcc
+T19	Bacteria 845 857	Burkholderia
+T20	Bacteria 880 883	Bcc
+T21	Bacteria 992 1004	Burkholderia
+T22	Bacteria 1067 1070	Bcc
+T23	Habitat 1097 1118	rhizosphere of plants
+T24	Habitat 1112 1118	plants
+T25	Bacteria 1151 1163	Burkholderia
+T26	Bacteria 1276 1279	Bcc
+T27	Habitat 1355 1366	rhizosphere
+T28	Habitat 1382 1387	plant
+T29	Bacteria 1397 1409	Burkholderia
+T30	Habitat 1450 1456	plants
+T31	Geographical 1511 1529	western hemisphere
+T32	Geographical 1535 1541	Amazon
+T33	Habitat 1535 1552	Amazon rainforest
+T34	Habitat 1561 1568	Cerrado
+T35	Habitat 1570 1588	Brazilian savannah
+T36	Geographical 1570 1579	Brazilian
+T37	Habitat 1597 1601	soil
+T38	Habitat 1602 1609	microbe
+T39	Habitat 1610 1615	plant
+T40	Habitat 1677 1682	plant
+T41	Geographical 1778 1784	Amazon
+T42	Habitat 1778 1796	Amazon rain forest
+T43	Habitat 1817 1824	Cerrado
+T44	Habitat 1856 1861	grass
+T45	Habitat 1856 1866	grass root
+R1	Localization Bacterium:T2 Localization:T31
+R2	Localization Bacterium:T2 Localization:T34
+R3	Localization Bacterium:T2 Localization:T12
+R4	Localization Bacterium:T2 Localization:T44
+R5	Localization Bacterium:T2 Localization:T32
+R6	Localization Bacterium:T2 Localization:T13
+R7	Localization Bacterium:T2 Localization:T15
+R8	Localization Bacterium:T2 Localization:T4
+R9	Localization Bacterium:T2 Localization:T9
+R10	Localization Bacterium:T2 Localization:T45
+R11	Localization Bacterium:T2 Localization:T14
+R12	Localization Bacterium:T2 Localization:T3
+R13	PartOf Host:T44 Part:T45
+R14	PartOf Host:T12 Part:T9
+R15	PartOf Host:T15 Part:T14
+R16	PartOf Host:T12 Part:T10
+R17	PartOf Host:T24 Part:T23
+R18	PartOf Host:T28 Part:T27
+*	Equiv T32 T41
+*	Equiv T43 T34

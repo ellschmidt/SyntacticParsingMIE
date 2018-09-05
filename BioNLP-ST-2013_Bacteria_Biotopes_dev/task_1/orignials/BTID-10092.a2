@@ -1,0 +1,30 @@
+T1	Habitat 184 188	tick
+T2	Habitat 252 257	Ticks
+T3	Habitat 313 328	infected mammal
+T4	Habitat 340 346	rodent
+T5	Habitat 350 358	squirrel
+T6	Habitat 441 445	tick
+T7	Habitat 466 470	tick
+T8	Habitat 498 512	mammalian host
+T9	Habitat 525 542	infectious saliva
+T10	Habitat 544 550	Humans
+T11	Habitat 573 587	infected ticks
+T12	Habitat 609 616	rodents
+T13	Habitat 620 632	rodent nests
+T14	Habitat 620 626	rodent
+T15	Habitat 922 935	immune system
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001118
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001118
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001514
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000108
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001281
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001118
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001118
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001514
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001783
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001402
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001118
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000108
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001525
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000108
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001774

@@ -1,0 +1,70 @@
+T1	Habitat 68 73	plant
+T2	Habitat 93 99	citrus
+T3	Habitat 181 186	xylem
+T4	Habitat 251 256	plant
+T5	Habitat 276 282	citrus
+T6	Habitat 321 328	oranges
+T7	Habitat 339 345	citrus
+T8	Habitat 339 352	citrus fruits
+T9	Habitat 427 437	grapevines
+T10	Habitat 483 494	leafhoppers
+T11	Habitat 504 517	sharpshooters
+T12	Habitat 541 548	insects
+T13	Habitat 584 589	plant
+T14	Habitat 593 598	plant
+T15	Habitat 645 650	plant
+T16	Habitat 645 658	plant's xylem
+T17	Habitat 664 680	vascular tissues
+T18	Habitat 725 730	plant
+T19	Habitat 725 750	plant's internal plumbing
+T20	Habitat 776 781	water
+T21	Habitat 785 791	leaves
+T22	Habitat 793 798	Trees
+T23	Habitat 803 809	plants
+T24	Habitat 818 824	leaves
+T25	Habitat 840 846	fruits
+T26	Habitat 924 928	leaf
+T27	Habitat 942 958	woody perennials
+T28	Habitat 967 979	American elm
+T29	Habitat 981 986	maple
+T30	Habitat 988 996	mulberry
+T31	Habitat 1001 1005	plum
+T32	Habitat 1086 1092	animal
+T33	Habitat 1302 1307	plant
+T34	Habitat 1383 1388	plant
+T35	Habitat 1412 1417	plant
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002027
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000102
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001308
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00002027
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000102
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001896
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000102
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001798
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000228
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000014
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001976
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000141
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00002027
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00002027
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00002027
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001308
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001683
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00002027
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001683
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001141
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001188
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00000772
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00002027
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001188
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001605
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001188
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00000379
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001749
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00000208
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00002061
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00000278
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00001660
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00002027
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00002027
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00002027

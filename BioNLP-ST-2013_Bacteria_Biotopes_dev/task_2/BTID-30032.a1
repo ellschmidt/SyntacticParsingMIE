@@ -1,0 +1,93 @@
+T1	Bacteria 13 22	bacterium
+T2	Habitat 39 49	sugar cane
+T3	Habitat 39 55	sugar cane crops
+T4	Bacteria 73 82	bacterium
+T5	Bacteria 83 106	Xanthomonas albilineans
+T6	Habitat 157 167	sugar cane
+T7	Habitat 175 179	leaf
+T8	Habitat 260 266	leaves
+T9	Habitat 287 292	plant
+T10	Habitat 328 334	leaves
+T11	Bacteria 336 350	X. albilineans
+T12	Habitat 375 393	tropical countries
+T13	Habitat 408 418	sugar cane
+T14	Habitat 455 460	field
+T15	Habitat 469 476	factory
+T16	Habitat 523 558	juice extracted from the sugar cane
+T17	Habitat 619 624	crops
+T18	Habitat 674 707	resistant varieties of sugar cane
+T19	Habitat 759 764	sugar
+T20	Habitat 792 795	rum
+T21	Geographical 812 818	Brazil
+T22	Habitat 846 874	bio-carburant in automobiles
+T23	Habitat 895 899	food
+T24	Habitat 907 917	sugar cane
+T25	Bacteria 1022 1045	Xanthomonas albilineans
+T26	Bacteria 1089 1098	bacterium
+T27	Habitat 1186 1196	sugar cane
+T28	Bacteria 1253 1267	X. albilineans
+T29	Habitat 1305 1316	sweet stems
+T30	Habitat 1334 1339	plant
+T31	Bacteria 1346 1355	bacterium
+T32	Bacteria 1533 1541	bacteria
+T33	Habitat 1670 1676	leaves
+T34	Bacteria 1995 2009	X. albilineans
+T35	Bacteria 2050 2059	bacterium
+T36	Habitat 2134 2144	sugar cane
+T37	Habitat 2134 2150	sugar cane stems
+T38	Bacteria 2299 2313	X. albilineans
+T39	Bacteria 2338 2360	Xanthomonas campestris
+T40	Bacteria 2379 2387	bacteria
+T41	Habitat 2418 2424	plants
+T42	Habitat 2428 2436;2451 2456	tropical zones
+T43	Habitat 2441 2456	temperate zones
+T44	Bacteria 2462 2480	Xylella fastidiosa
+T45	Bacteria 2484 2493	bacterium
+T46	Habitat 2517 2523	plants
+T47	Habitat 2532 2538	coffee
+T48	Habitat 2540 2546	grapes
+T49	Habitat 2548 2559	fruit trees
+T50	Habitat 2561 2573	citrus fruit
+T51	Habitat 2575 2582	almonds
+T52	Habitat 2584 2590	olives
+T53	Habitat 2596 2612	decorative trees
+T54	Habitat 2617 2623	shrubs
+T55	Habitat 2625 2628	oak
+T56	Habitat 2630 2635	maple
+T57	Habitat 2637 2645	oleander
+T58	Bacteria 2669 2683	X. albilineans
+T59	Bacteria 2709 2718	bacterium
+T60	Habitat 2793 2799	Humans
+T61	Habitat 2870 2899	contaminated harvesting tools
+T62	Habitat 2916 2939	infected plant material
+T63	Habitat 2925 2930	plant
+T64	Habitat 2941 2951	sugar cane
+T65	Habitat 2941 2960	sugar cane cuttings
+T66	Habitat 3005 3008	air
+T67	Habitat 3057 3065	aerosols
+T68	Habitat 3068 3075	insects
+T69	Habitat 3079 3089	Sugar cane
+T70	Habitat 3079 3096	Sugar cane fields
+T71	Habitat 3118 3132	healthy plants
+T72	Habitat 3187 3192	human
+T73	Bacteria 3241 3255	X. albilineans
+T74	Bacteria 3290 3304	X. albilineans
+T75	Bacteria 3306 3314	GPE PC73
+T76	Geographical 3347 3357	Guadeloupe
+T77	Habitat 3428 3438	sugar cane
+T78	Bacteria 3489 3497	GPE PC73
+T79	Bacteria 3520 3534	X. albilineans
+T80	Geographical 3668 3672	Cuba
+T81	Geographical 3674 3684	Guadeloupe
+T82	Geographical 3686 3693	Florida
+T83	Geographical 3695 3704	Mauritius
+T84	Geographical 3706 3711	Texas
+T85	Geographical 3713 3719	Taiwan
+T86	Bacteria 3783 3797	X. albilineans
+T87	Bacteria 3873 3882	bacterium
+T88	Habitat 3893 3903	sugar cane
+T89	Habitat 3893 3909	sugar cane crops
+T90	Bacteria 3971 3982	Xanthomonas
+T91	Bacteria 3990 4003	X. fastidiosa
+T92	Habitat 4149 4154	plant
+T93	Bacteria 4166 4174	bacteria

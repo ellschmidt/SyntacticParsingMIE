@@ -1,0 +1,7 @@
+R1	Localization Bacterium:T2 Localization:T4
+R2	Localization Bacterium:T2 Localization:T3
+R3	Localization Bacterium:T1 Localization:T9
+R4	Localization Bacterium:T1 Localization:T8
+R5	Localization Bacterium:T1 Localization:T10
+R6	PartOf Host:T4 Part:T3
+*	Equiv T6 T1

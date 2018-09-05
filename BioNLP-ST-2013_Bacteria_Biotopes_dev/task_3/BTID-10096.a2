@@ -1,0 +1,18 @@
+T1	Bacteria 0 24	Bradyrhizobium sp. BTAi1
+T2	Bacteria 37 62	Bradyrhizobium sp. BTAi 1
+T3	Bacteria 98 107	rhizobium
+T4	Habitat 207 214	nodules
+T5	Habitat 222 248	legume Aeschynomene indica
+T6	Habitat 276 281	plant
+T7	Geographical 289 332	Boyce Thompson Institute for Plant Research
+T8	Geographical 336 342	Ithaca
+T9	Geographical 344 346	NY
+T10	Habitat 360 364;374 381	stem nodules
+T11	Habitat 360 364	stem
+T12	Habitat 369 381	root nodules
+T13	Habitat 369 373	root
+T14	Bacteria 449 479	purple photosynthetic bacteria
+T15	Habitat 489 496	microbe
+T16	Habitat 506 511	plant
+R1	Localization Bacterium:T2 Localization:T5
+*	Equiv T2 T1

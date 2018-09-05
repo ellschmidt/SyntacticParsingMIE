@@ -1,0 +1,144 @@
+T1	Bacteria 0 20	Campylobacter Jejuni
+T2	Bacteria 50 70	Campylobacter jejuni
+T3	Bacteria 90 98	bacteria
+T4	Habitat 159 165	animal
+T5	Habitat 159 171	animal feces
+T6	Habitat 187 193;213 218	wombat feces
+T7	Habitat 187 193	wombat
+T8	Habitat 195 203;213 218	kangaroo feces
+T9	Habitat 195 203	kangaroo
+T10	Habitat 208 212	bird
+T11	Habitat 208 218	bird feces
+T12	Bacteria 220 240	Campylobacter jejuni
+T13	Habitat 300 406	environment that contains a reduced concentration of oxygen (~3-5% of oxygen and ~2-10% of carbon dioxide)
+T14	Bacteria 565 585	Campylobacter jejuni
+T15	Habitat 613 617	food
+T16	Geographical 639 652	United States
+T17	Habitat 740 744	food
+T18	Bacteria 794 814	Campylobacter jejuni
+T19	Habitat 844 883	diarrhea stools of infected individuals
+T20	Habitat 863 883	infected individuals
+T21	Habitat 895 901	animal
+T22	Habitat 895 907	animal feces
+T23	Bacteria 914 922	bacteria
+T24	Habitat 944 950	humans
+T25	Habitat 955 962	animals
+T26	Habitat 991 1018	antibiotic-containing media
+T27	Bacteria 1122 1142	Campylobacter jejuni
+T28	Bacteria 1161 1170	bacterium
+T29	Habitat 1196 1206	eukaryotic
+T30	Bacteria 1274 1293	Camylobacter jejuni
+T31	Bacteria 1361 1369	bacteria
+T32	Habitat 1490 1506	fecal leukocytes
+T33	Habitat 1490 1495	fecal
+T34	Habitat 1570 1576	muscle
+T35	Habitat 1583 1599	Children under 5
+T36	Habitat 1604 1616	young adults
+T37	Bacteria 1689 1702	Campylobacter
+T38	Habitat 1730 1734	food
+T39	Bacteria 1854 1867	Campylobacter
+T40	Habitat 1893 1903	intestines
+T41	Habitat 1912 1919	animals
+T42	Habitat 1929 1935	humans
+T43	Habitat 1960 1982	intestinal environment
+T44	Bacteria 2049 2062	Campylobacter
+T45	Habitat 2089 2094;2107 2130	ileum in the small intestines
+T46	Habitat 2099 2130	jejunum in the small intestines
+T47	Habitat 2114 2130	small intestines
+T48	Habitat 2150 2166	large intestines
+T49	Habitat 2204 2208	food
+T50	Geographical 2230 2243	United States
+T51	Bacteria 2245 2258	Campylobacter
+T52	Bacteria 2318 2331	Campylobacter
+T53	Habitat 2348 2353	water
+T54	Habitat 2355 2359	milk
+T55	Habitat 2363 2379	undercooked meat
+T56	Habitat 2392 2399	chicken
+T57	Bacteria 2433 2441	bacteria
+T58	Habitat 2581 2589	patients
+T59	Bacteria 2648 2661	Campylobacter
+T60	Habitat 2692 2701	abdominal
+T61	Habitat 2731 2737	bloody
+T62	Habitat 2804 2810	muscle
+T63	Bacteria 2988 3001	Campylobacter
+T64	Habitat 3083 3115	patients who also have cirrhosis
+T65	Habitat 3083 3105;3117 3129	patients who also have malnutrition
+T66	Habitat 3083 3105;3135 3143	patients who also have lymphoma
+T67	Bacteria 3181 3201	Campylobacter jejuni
+T68	Habitat 3309 3313	food
+T69	Geographical 3335 3348	United States
+T70	Bacteria 3359 3379	Campylobacter jejuni
+T71	Bacteria 3543 3563	Campylobacter jejuni
+T72	Bacteria 3631 3651	Campylobacter jejuni
+T73	Habitat 3794 3828	patients treated with erythromycin
+T74	Bacteria 3872 3892	Campylobacter jejuni
+T75	Habitat 3902 3908	stools
+T76	Bacteria 4030 4050	Campylobacter jejuni
+T77	Habitat 4095 4102	patient
+T78	Bacteria 4169 4189	Campylobacter jejuni
+T79	Bacteria 4316 4336	Campylobacter jejuni
+T80	Habitat 4359 4363	food
+T81	Habitat 4432 4446	drinking water
+T82	Bacteria 4468 4488	Campylobacter jejuni
+T83	Habitat 4516 4521	water
+T84	Habitat 4525 4533	biofilms
+T85	Bacteria 4604 4624	Campylobacter jejuni
+T86	Habitat 4628 4633	water
+T87	Habitat 4638 4646	biofilms
+T88	Habitat 4657 4681	Propella biofilm reactor
+T89	Habitat 4666 4673	biofilm
+T90	Bacteria 4744 4752	bacteria
+T91	Habitat 4763 4768	water
+T92	Habitat 4773 4781	biofilms
+R1	Localization Bacterium:T39 Localization:T41
+R2	Localization Bacterium:T1 Localization:T38
+R3	Localization Bacterium:T39 Localization:T42
+R4	Localization Bacterium:T39 Localization:T43
+R5	Localization Bacterium:T1 Localization:T16
+R6	Localization Bacterium:T1 Localization:T15
+R7	Localization Bacterium:T39 Localization:T50
+R8	Localization Bacterium:T67 Localization:T68
+R9	Localization Bacterium:T1 Localization:T35
+R10	Localization Bacterium:T1 Localization:T25
+R11	Localization Bacterium:T39 Localization:T40
+R12	Localization Bacterium:T39 Localization:T53
+R13	Localization Bacterium:T1 Localization:T4
+R14	Localization Bacterium:T39 Localization:T49
+R15	Localization Bacterium:T39 Localization:T58
+R16	Localization Bacterium:T39 Localization:T54
+R17	Localization Bacterium:T39 Localization:T56
+R18	Localization Bacterium:T1 Localization:T36
+R19	Localization Bacterium:T39 Localization:T64
+R20	Localization Bacterium:T1 Localization:T20
+R21	Localization Bacterium:T67 Localization:T69
+R22	Localization Bacterium:T67 Localization:T77
+R23	Localization Bacterium:T39 Localization:T55
+R24	Localization Bacterium:T1 Localization:T24
+R25	Localization Bacterium:T78 Localization:T77
+R26	Localization Bacterium:T74 Localization:T73
+R27	Localization Bacterium:T79 Localization:T80
+R28	Localization Bacterium:T79 Localization:T81
+R29	Localization Bacterium:T82 Localization:T83
+R30	Localization Bacterium:T82 Localization:T84
+R31	Localization Bacterium:T85 Localization:T88
+R32	Localization Bacterium:T44 Localization:T47
+R33	Localization Bacterium:T44 Localization:T46
+R34	Localization Bacterium:T44 Localization:T45
+R35	PartOf Host:T41 Part:T40
+R36	PartOf Host:T41 Part:T43
+R37	PartOf Host:T42 Part:T40
+R38	PartOf Host:T42 Part:T43
+R39	PartOf Host:T41 Part:T45
+R40	PartOf Host:T42 Part:T45
+R41	PartOf Host:T41 Part:T46
+R42	PartOf Host:T42 Part:T46
+R43	PartOf Host:T41 Part:T47
+R44	PartOf Host:T42 Part:T47
+R45	PartOf Host:T41 Part:T48
+R46	PartOf Host:T42 Part:T48
+*	Equiv T17 T15
+*	Equiv T92 T87 T84
+*	Equiv T91 T83 T86
+*	Equiv T30 T27
+*	Equiv T39 T52 T63 T59 T44 T51
+*	Equiv T67 T70 T72 T71 T74 T78 T76

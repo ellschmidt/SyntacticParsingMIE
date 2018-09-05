@@ -1,0 +1,8 @@
+T1	Habitat 137 151	river sediment
+T2	Habitat 137 142	river
+T3	Habitat 237 243	humans
+T4	Habitat 253 273	warm-blooded animals
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000130
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000828
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001402
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001123

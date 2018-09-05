@@ -1,0 +1,20 @@
+T1	Habitat 88 92	fish
+T2	Habitat 526 546	aquatic environments
+T3	Habitat 609 613	fish
+T4	Habitat 766 776	salmonides
+T5	Habitat 905 922	branchial lesions
+T6	Habitat 945 949	fish
+T7	Habitat 1013 1017	gill
+T8	Habitat 1106 1116	salmonides
+T9	Habitat 1416 1425	branchial
+T10	Habitat 1503 1516	extracellular
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000561
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000643
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000561
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000231
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001590
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000561
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001886
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000231
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001025
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000507

@@ -1,0 +1,8 @@
+T1	Habitat 98 110	Aeschynomene
+T2	Habitat 98 122	Aeschynomene stem nodule
+T3	Habitat 111 115	stem
+T4	Habitat 288 292	stem
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000494
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001426
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000512
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000512

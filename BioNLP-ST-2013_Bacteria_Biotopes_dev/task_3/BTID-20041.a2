@@ -1,0 +1,15 @@
+T1	Bacteria 0 37	Candidatus Amoebophilus asiaticus 5a2
+T2	Bacteria 99 107	bacteria
+T3	Habitat 149 159	eukaryotes
+T4	Bacteria 382 395	Bacteroidetes
+T5	Habitat 432 437	cells
+T6	Habitat 489 502	intracellular
+T7	Bacteria 503 511	bacteria
+T8	Habitat 581 594	intracellular
+T9	Bacteria 627 635	bacteria
+T10	Habitat 649 665	eukaryotic hosts
+R1	Localization Bacterium:T4 Localization:T5
+R2	Localization Bacterium:T7 Localization:T8
+R3	Localization Bacterium:T7 Localization:T10
+R4	Localization Bacterium:T7 Localization:T6
+R5	PartOf Host:T10 Part:T8

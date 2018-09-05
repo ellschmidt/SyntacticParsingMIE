@@ -1,0 +1,27 @@
+T1	Bacteria 0 25	Borrelia turicatae 91E135
+T2	Bacteria 38 56	Borrelia turicatae
+T3	Bacteria 58 76	Borrelia turicatae
+T4	Habitat 103 107	tick
+T5	Geographical 137 163	southwestern United States
+T6	Habitat 165 170	Ticks
+T7	Bacteria 192 200	Borrelia
+T8	Habitat 221 236	infected mammal
+T9	Habitat 248 254	rodent
+T10	Habitat 258 266	squirrel
+T11	Bacteria 268 276	Borrelia
+T12	Habitat 349 353	tick
+T13	Habitat 374 378	tick
+T14	Bacteria 390 400	spirochete
+T15	Habitat 408 422	mammalian host
+T16	Habitat 435 452	infectious saliva
+T17	Habitat 454 460	Humans
+T18	Habitat 483 497	infected ticks
+T19	Habitat 519 526	rodents
+T20	Habitat 530 542	rodent nests
+T21	Habitat 530 536	rodent
+T22	Bacteria 766 774	Borrelia
+T23	Habitat 834 847	immune system
+T24	Bacteria 1042 1067	Borrelia turicatae 91E135
+T25	Geographical 1101 1114	United States
+T26	Habitat 1124 1133	soft tick
+T27	Habitat 1134 1156	Ornithodoros turicatae

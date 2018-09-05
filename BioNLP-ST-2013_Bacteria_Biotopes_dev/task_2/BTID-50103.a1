@@ -1,0 +1,71 @@
+T1	Bacteria 0 26	Mycobacterium tuberculosis
+T2	Bacteria 27 53	Mycobacterium tuberculosis
+T3	Bacteria 93 127	Mycobacterium tuberculosis complex
+T4	Bacteria 176 202	Mycobacterium tuberculosis
+T5	Bacteria 204 227	Mycobacterium africanum
+T6	Bacteria 229 248	Mycobacterium bovis
+T7	Bacteria 250 271	Mycobacterium microti
+T8	Bacteria 328 343	M. tuberculosis
+T9	Bacteria 345 360	M. tuberculosis
+T10	Habitat 418 425	animals
+T11	Habitat 427 433	Humans
+T12	Bacteria 459 485	Mycobacterium tuberculosis
+T13	Bacteria 487 492	M.TB.
+T14	Bacteria 671 676	M.TB.
+T15	Bacteria 814 822	bacteria
+T16	Bacteria 909 914	M.TB.
+T17	Bacteria 1138 1164	Mycobacterium tuberculosis
+T18	Geographical 1235 1241	Europe
+T19	Bacteria 1250 1276	Mycobacterium tuberculosis
+T20	Habitat 1314 1320	humans
+T21	Bacteria 1336 1345	bacterial
+T22	Bacteria 1355 1360	M.TB.
+T23	Habitat 1381 1387	people
+T24	Habitat 1473 1484	individuals
+T25	Bacteria 1503 1529	Mycobacterium tuberculosis
+T26	Bacteria 1531 1533	TB
+T27	Habitat 1580 1606	tissues of ancient mummies
+T28	Bacteria 1631 1633	TB
+T29	Habitat 1674 1679	human
+T30	Habitat 1693 1702	Non-human
+T31	Habitat 1734 1738	cows
+T32	Habitat 1740 1745	birds
+T33	Habitat 1757 1764	animals
+T34	Habitat 1850 1861	researchers
+T35	Bacteria 1888 1903	M. tuberculosis
+T36	Bacteria 1910 1919	bacterium
+T37	Geographical 1949 1965	Sanger Institute
+T38	Geographical 1970 1977	England
+T39	Geographical 1987 2004	Pasteur Institute
+T40	Geographical 2009 2014	Paris
+T41	Habitat 2016 2027	Researchers
+T42	Bacteria 2153 2162	bacterium
+T43	Habitat 2208 2232	tuberculosis researchers
+T44	Habitat 2255 2260	lungs
+T45	Habitat 2325 2329	body
+T46	Bacteria 2360 2362	TB
+T47	Habitat 2419 2427	carriers
+T48	Habitat 2458 2463	lungs
+T49	Bacteria 2473 2482	bacterium
+T50	Habitat 2507 2519	immune cells
+T51	Geographical 2577 2594	Pasteur Institute
+T52	Bacteria 2630 2639	bacterial
+T53	Bacteria 2676 2685	bacterium
+T54	Habitat 2722 2726	mice
+T55	Habitat 2762 2773	researchers
+T56	Bacteria 2935 2943	bacteria
+T57	Habitat 3033 3037	mice
+T58	Habitat 3110 3129	team of researchers
+T59	Geographical 3168 3203	Albert Einstein College of Medicine
+T60	Geographical 3208 3216	New York
+T61	Habitat 3253 3256	air
+T62	Habitat 3264 3298	person with untreated pulmonary TB
+T63	Habitat 3342 3366	person with untreated TB
+T64	Habitat 3522 3528	people
+T65	Habitat 3594 3599	lungs
+T66	Habitat 3601 3610	pulmonary
+T67	Habitat 3635 3639	body
+T68	Habitat 3674 3685	lymph nodes
+T69	Habitat 3687 3694	kidneys
+T70	Habitat 3696 3701	bones
+T71	Habitat 3706 3712	joints

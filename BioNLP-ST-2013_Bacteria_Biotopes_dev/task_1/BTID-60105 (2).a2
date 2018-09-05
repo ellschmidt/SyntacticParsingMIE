@@ -1,0 +1,121 @@
+T1	Habitat 159 165	animal
+T2	Habitat 159 171	animal feces
+T3	Habitat 187 193;213 218	wombat feces
+T4	Habitat 187 193	wombat
+T5	Habitat 195 203;213 218	kangaroo feces
+T6	Habitat 195 203	kangaroo
+T7	Habitat 208 212	bird
+T8	Habitat 208 218	bird feces
+T9	Habitat 300 406	environment that contains a reduced concentration of oxygen (~3-5% of oxygen and ~2-10% of carbon dioxide)
+T10	Habitat 613 617	food
+T11	Habitat 740 744	food
+T12	Habitat 844 883	diarrhea stools of infected individuals
+T13	Habitat 863 883	infected individuals
+T14	Habitat 895 901	animal
+T15	Habitat 895 907	animal feces
+T16	Habitat 944 950	humans
+T17	Habitat 955 962	animals
+T18	Habitat 991 1018	antibiotic-containing media
+T19	Habitat 1196 1206	eukaryotic
+T20	Habitat 1490 1506	fecal leukocytes
+T21	Habitat 1490 1495	fecal
+T22	Habitat 1570 1576	muscle
+T23	Habitat 1583 1599	Children under 5
+T24	Habitat 1604 1616	young adults
+T25	Habitat 1730 1734	food
+T26	Habitat 1893 1903	intestines
+T27	Habitat 1912 1919	animals
+T28	Habitat 1929 1935	humans
+T29	Habitat 1960 1982	intestinal environment
+T30	Habitat 2089 2094;2107 2130	ileum in the small intestines
+T31	Habitat 2099 2130	jejunum in the small intestines
+T32	Habitat 2114 2130	small intestines
+T33	Habitat 2150 2166	large intestines
+T34	Habitat 2204 2208	food
+T35	Habitat 2348 2353	water
+T36	Habitat 2355 2359	milk
+T37	Habitat 2363 2379	undercooked meat
+T38	Habitat 2392 2399	chicken
+T39	Habitat 2581 2589	patients
+T40	Habitat 2692 2701	abdominal
+T41	Habitat 2731 2737	bloody
+T42	Habitat 2804 2810	muscle
+T43	Habitat 3083 3115	patients who also have cirrhosis
+T44	Habitat 3083 3105;3117 3129	patients who also have malnutrition
+T45	Habitat 3083 3105;3135 3143	patients who also have lymphoma
+T46	Habitat 3309 3313	food
+T47	Habitat 3794 3828	patients treated with erythromycin
+T48	Habitat 3902 3908	stools
+T49	Habitat 4095 4102	patient
+T50	Habitat 4359 4363	food
+T51	Habitat 4432 4446	drinking water
+T52	Habitat 4516 4521	water
+T53	Habitat 4525 4533	biofilms
+T54	Habitat 4628 4633	water
+T55	Habitat 4638 4646	biofilms
+T56	Habitat 4657 4681	Propella biofilm reactor
+T57	Habitat 4666 4673	biofilm
+T58	Habitat 4763 4768	water
+T59	Habitat 4773 4781	biofilms
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001660
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000341
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000341
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001656
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000341
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001360
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000550
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000341
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001788
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000688
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000688
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000341
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00002067
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001660
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000341
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001402
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001660
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001417
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000593
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000127
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000341
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001019
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000650
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000765
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00000688
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00000110
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00001660
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001402
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00000110
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00000392
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00001190
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00001263
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001126
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00000688
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00000868
+N36	OntoBiotope Annotation:T36 Referent:MBTO:00000757
+N37	OntoBiotope Annotation:T37 Referent:MBTO:00001965
+N38	OntoBiotope Annotation:T38 Referent:MBTO:00001671
+N39	OntoBiotope Annotation:T39 Referent:MBTO:00001607
+N40	OntoBiotope Annotation:T40 Referent:MBTO:00000369
+N41	OntoBiotope Annotation:T41 Referent:MBTO:00001569
+N42	OntoBiotope Annotation:T42 Referent:MBTO:00001019
+N43	OntoBiotope Annotation:T43 Referent:MBTO:00000172
+N44	OntoBiotope Annotation:T44 Referent:MBTO:00000220
+N45	OntoBiotope Annotation:T45 Referent:MBTO:00001527
+N46	OntoBiotope Annotation:T46 Referent:MBTO:00000688
+N47	OntoBiotope Annotation:T47 Referent:MBTO:00001948
+N48	OntoBiotope Annotation:T48 Referent:MBTO:00000341
+N49	OntoBiotope Annotation:T49 Referent:MBTO:00001607
+N50	OntoBiotope Annotation:T50 Referent:MBTO:00000688
+N51	OntoBiotope Annotation:T51 Referent:MBTO:00000868
+N52	OntoBiotope Annotation:T52 Referent:MBTO:00001141
+N53	OntoBiotope Annotation:T52 Referent:MBTO:00000868
+N54	OntoBiotope Annotation:T53 Referent:MBTO:00001805
+N55	OntoBiotope Annotation:T54 Referent:MBTO:00001141
+N56	OntoBiotope Annotation:T54 Referent:MBTO:00000868
+N57	OntoBiotope Annotation:T55 Referent:MBTO:00001805
+N58	OntoBiotope Annotation:T56 Referent:MBTO:00000674
+N59	OntoBiotope Annotation:T57 Referent:MBTO:00001805
+N60	OntoBiotope Annotation:T58 Referent:MBTO:00001141
+N61	OntoBiotope Annotation:T58 Referent:MBTO:00000868
+N62	OntoBiotope Annotation:T59 Referent:MBTO:00001805

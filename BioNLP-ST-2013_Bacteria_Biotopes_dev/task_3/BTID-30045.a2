@@ -1,0 +1,106 @@
+T1	Bacteria 72 83	Mycoplasmas
+T2	Bacteria 84 103	Mycoplasma pulmonis
+T3	Bacteria 120 129	bacterium
+T4	Habitat 157 161	mice
+T5	Habitat 166 170	rats
+T6	Bacteria 209 220	mycoplasmas
+T7	Bacteria 236 246	Mollicutes
+T8	Bacteria 262 270	bacteria
+T9	Bacteria 330 340	Mollicutes
+T10	Bacteria 379 394	bacterial taxon
+T11	Bacteria 398 441	Gram-positive bacteria with low G+C content
+T12	Bacteria 446 456	Firmicutes
+T13	Bacteria 570 580	Mollicutes
+T14	Bacteria 600 610	Firmicutes
+T15	Bacteria 631 641	Clostridia
+T16	Bacteria 650 657	Bacilli
+T17	Bacteria 733 744	mycoplasmal
+T18	Bacteria 805 813	bacteria
+T19	Habitat 919 932	intracellular
+T20	Habitat 967 974	animals
+T21	Habitat 986 992	humans
+T22	Habitat 997 1004	insects
+T23	Habitat 1010 1016	plants
+T24	Bacteria 1018 1030	Spiroplasmas
+T25	Bacteria 1035 1047	Phytoplasmas
+T26	Habitat 1140 1144	cell
+T27	Bacteria 1208 1219	Mycoplasmas
+T28	Bacteria 1356 1367	mycoplasmas
+T29	Bacteria 1418 1429	mycoplasmas
+T30	Bacteria 1457 1468	M. pulmonis
+T31	Bacteria 1539 1548	firmicute
+T32	Bacteria 1549 1558	bacterium
+T33	Bacteria 1559 1576	Bacillus subtilis
+T34	Habitat 1627 1640	intracellular
+T35	Bacteria 1661 1672	mycoplasmas
+T36	Habitat 1755 1761	humans
+T37	Habitat 1766 1773	animals
+T38	Habitat 1775 1780	Human
+T39	Habitat 1832 1843;1859 1865	respiratory tracts
+T40	Habitat 1848 1865	urogenital tracts
+T41	Habitat 1894 1906	farm animals
+T42	Bacteria 1993 2001	bacteria
+T43	Bacteria 2191 2202	mycoplasmas
+T44	Bacteria 2314 2324	mycoplasma
+T45	Geographical 2648 2652	CBiB
+T46	Geographical 2654 2675	Bordeaux 2 University
+T47	Bacteria 2722 2733	mycoplasmas
+T48	Bacteria 2750 2769	Mycoplasma pulmonis
+T49	Bacteria 2819 2838	Mycoplasma pulmonis
+T50	Habitat 2881 2896	laboratory rats
+T51	Habitat 2881 2891;2901 2905	laboratory mice
+T52	Bacteria 3138 3149	M. pulmonis
+T53	Bacteria 3162 3173	M. pulmonis
+T54	Habitat 3250 3258	vaccines
+T55	Bacteria 3280 3291	M. pulmonis
+T56	Habitat 3299 3306	genital
+T57	Habitat 3419 3432	intra-uterine
+T58	Bacteria 3501 3514	M. pneumoniae
+T59	Habitat 3529 3535	humans
+T60	Habitat 3549 3555	animal
+T61	Habitat 3549 3567	animal respiratory
+T62	Bacteria 3583 3596	M. pneumoniae
+T63	Habitat 3613 3618	human
+T64	Habitat 3652 3664	farm animals
+T65	Bacteria 3715 3728	M. pneumoniae
+T66	Bacteria 3733 3744	M. pulmonis
+T67	Bacteria 3786 3799	M. pneumoniae
+T68	Bacteria 3827 3840	M. genitalium
+T69	Bacteria 3842 3854	M. penetrans
+T70	Bacteria 3859 3868	U. parvum
+T71	Bacteria 3920 3931	M. pulmonis
+T72	Bacteria 3947 3957	M. hominis
+T73	Habitat 3970 3988	ruminant livestock
+T74	Bacteria 3999 4007	M. bovis
+T75	Bacteria 4012 4025	M. agalactiae
+T76	Bacteria 4065 4075	mycoplasma
+T77	Habitat 4413 4419	murine
+T78	Habitat 4413 4431	murine respiratory
+T79	Bacteria 4441 4460	Mycoplasma pulmonis
+R1	Localization Bacterium:T58 Localization:T60
+R2	Localization Bacterium:T58 Localization:T64
+R3	Localization Bacterium:T2 Localization:T4
+R4	Localization Bacterium:T2 Localization:T57
+R5	Localization Bacterium:T25 Localization:T23
+R6	Localization Bacterium:T24 Localization:T23
+R7	Localization Bacterium:T2 Localization:T5
+R8	Localization Bacterium:T1 Localization:T37
+R9	Localization Bacterium:T2 Localization:T56
+R10	Localization Bacterium:T1 Localization:T19
+R11	Localization Bacterium:T1 Localization:T20
+R12	Localization Bacterium:T58 Localization:T59
+R13	Localization Bacterium:T1 Localization:T21
+R14	Localization Bacterium:T2 Localization:T50
+R15	Localization Bacterium:T2 Localization:T77
+R16	Localization Bacterium:T74 Localization:T73
+R17	Localization Bacterium:T1 Localization:T41
+R18	Localization Bacterium:T1 Localization:T22
+R19	Localization Bacterium:T75 Localization:T73
+R20	PartOf Host:T50 Part:T56
+*	Equiv T62 T58 T65 T67
+*	Equiv T53 T79 T2 T52 T55 T71 T48 T66 T49 T30
+*	Equiv T35 T28 T29 T27 T44 T6 T43 T47 T1
+*	Equiv T9 T13 T7
+*	Equiv T14 T12
+*	Equiv T34 T19 T26
+*	Equiv T59 T38 T36 T21 T63

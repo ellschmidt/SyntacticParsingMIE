@@ -1,0 +1,68 @@
+T1	Habitat 418 425	animals
+T2	Habitat 427 433	Humans
+T3	Habitat 1314 1320	humans
+T4	Habitat 1381 1387	people
+T5	Habitat 1473 1484	individuals
+T6	Habitat 1580 1606	tissues of ancient mummies
+T7	Habitat 1674 1679	human
+T8	Habitat 1693 1702	Non-human
+T9	Habitat 1734 1738	cows
+T10	Habitat 1740 1745	birds
+T11	Habitat 1757 1764	animals
+T12	Habitat 1850 1861	researchers
+T13	Habitat 2016 2027	Researchers
+T14	Habitat 2208 2232	tuberculosis researchers
+T15	Habitat 2255 2260	lungs
+T16	Habitat 2325 2329	body
+T17	Habitat 2419 2427	carriers
+T18	Habitat 2458 2463	lungs
+T19	Habitat 2507 2519	immune cells
+T20	Habitat 2722 2726	mice
+T21	Habitat 2762 2773	researchers
+T22	Habitat 3033 3037	mice
+T23	Habitat 3110 3129	team of researchers
+T24	Habitat 3253 3256	air
+T25	Habitat 3264 3298	person with untreated pulmonary TB
+T26	Habitat 3342 3366	person with untreated TB
+T27	Habitat 3522 3528	people
+T28	Habitat 3594 3599	lungs
+T29	Habitat 3601 3610	pulmonary
+T30	Habitat 3635 3639	body
+T31	Habitat 3674 3685	lymph nodes
+T32	Habitat 3687 3694	kidneys
+T33	Habitat 3696 3701	bones
+T34	Habitat 3706 3712	joints
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001660
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001402
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001402
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001875
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001402
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001660
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000726
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000550
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001660
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001581
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001581
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001581
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000476
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00000190
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000574
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000476
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000764
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001094
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001581
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001094
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00001581
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000611
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001449
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001449
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00001402
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00000476
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00000476
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00000190
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00000769
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00000286
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001919
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00000035

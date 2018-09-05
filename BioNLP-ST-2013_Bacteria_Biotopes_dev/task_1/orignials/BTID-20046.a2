@@ -1,0 +1,39 @@
+T1	Habitat 80 134	low temperature, chlorophenol-contaminated groundwater
+T2	Habitat 275 499	enrichment culture for chlorophenol-tolerant bacteria in groundwater from Karkola, Finland, which percolates through nutrient-poor silt and clay, and is cold (7-8oC), oxygen-deficient, iron-rich, and mildly acidic (pH 6-6.5)
+T3	Habitat 332 499	groundwater from Karkola, Finland, which percolates through nutrient-poor silt and clay, and is cold (7-8oC), oxygen-deficient, iron-rich, and mildly acidic (pH 6-6.5)
+T4	Habitat 392 410	nutrient-poor silt
+T5	Habitat 392 405;415 419	nutrient-poor clay
+T6	Habitat 505 512;522 616	aquifer contaminated with high levels of chlorophenols for decades by a sawmill using polychlorophenol
+T7	Habitat 586 616	sawmill using polychlorophenol
+T8	Habitat 636 642	lumber
+T9	Habitat 708 717	microbial
+T10	Habitat 761 786	subsurface aquatic niches
+T11	Habitat 907 936	low nutrient aquatic habitats
+T12	Habitat 954 962	biofilms
+T13	Habitat 1167 1174	biofilm
+T14	Habitat 1204 1214	freshwater
+T15	Habitat 1254 1260	marine
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001383
+N2	OntoBiotope Annotation:T1 Referent:MBTO:00000526
+N3	OntoBiotope Annotation:T2 Referent:MBTO:00000833
+N4	OntoBiotope Annotation:T3 Referent:MBTO:00001788
+N5	OntoBiotope Annotation:T3 Referent:MBTO:00001992
+N6	OntoBiotope Annotation:T3 Referent:MBTO:00001831
+N7	OntoBiotope Annotation:T3 Referent:MBTO:00001383
+N8	OntoBiotope Annotation:T3 Referent:MBTO:00000526
+N9	OntoBiotope Annotation:T4 Referent:MBTO:00000337
+N10	OntoBiotope Annotation:T4 Referent:MBTO:00001008
+N11	OntoBiotope Annotation:T5 Referent:MBTO:00001655
+N12	OntoBiotope Annotation:T5 Referent:MBTO:00001008
+N13	OntoBiotope Annotation:T6 Referent:MBTO:00001764
+N14	OntoBiotope Annotation:T6 Referent:MBTO:00000526
+N15	OntoBiotope Annotation:T7 Referent:MBTO:00001204
+N16	OntoBiotope Annotation:T8 Referent:MBTO:00000263
+N17	OntoBiotope Annotation:T9 Referent:MBTO:00001516
+N18	OntoBiotope Annotation:T10 Referent:MBTO:00001761
+N19	OntoBiotope Annotation:T10 Referent:MBTO:00000643
+N20	OntoBiotope Annotation:T11 Referent:MBTO:00001116
+N21	OntoBiotope Annotation:T12 Referent:MBTO:00001805
+N22	OntoBiotope Annotation:T13 Referent:MBTO:00001805
+N23	OntoBiotope Annotation:T14 Referent:MBTO:00000904
+N24	OntoBiotope Annotation:T15 Referent:MBTO:00001481

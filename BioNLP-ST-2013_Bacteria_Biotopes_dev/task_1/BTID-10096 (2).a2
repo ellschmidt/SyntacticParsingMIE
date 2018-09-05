@@ -1,0 +1,18 @@
+T1	Habitat 207 214	nodules
+T2	Habitat 222 248	legume Aeschynomene indica
+T3	Habitat 276 281	plant
+T4	Habitat 360 364;374 381	stem nodules
+T5	Habitat 360 364	stem
+T6	Habitat 369 381	root nodules
+T7	Habitat 369 373	root
+T8	Habitat 489 496	microbe
+T9	Habitat 506 511	plant
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002066
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001460
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00002027
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001426
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000512
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000569
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001374
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001516
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00002027

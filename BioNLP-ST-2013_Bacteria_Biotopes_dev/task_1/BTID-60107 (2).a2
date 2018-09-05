@@ -1,0 +1,70 @@
+T1	Habitat 369 374	human
+T2	Habitat 369 379	human body
+T3	Habitat 992 1007	natural habitat
+T4	Habitat 1040 1066	intestinal tract of cattle
+T5	Habitat 1060 1066	cattle
+T6	Habitat 1362 1419	atmospheres enriched with CO2 and 5% oxygen with nitrogen
+T7	Habitat 1362 1410;1423 1431	atmospheres enriched with CO2 and 5% oxygen with hydrogen
+T8	Habitat 1507 1528	anaerobic environment
+T9	Habitat 1908 1940	intestinal epithelial cell lines
+T10	Habitat 1908 1918	intestinal
+T11	Habitat 1960 1966	humans
+T12	Habitat 2129 2139	cell lines
+T13	Habitat 2181 2186	cells
+T14	Habitat 2271 2276	cells
+T15	Habitat 2287 2293	humans
+T16	Habitat 2300 2307	animals
+T17	Habitat 2315 2321	cattle
+T18	Habitat 2524 2537	immune system
+T19	Habitat 2689 2693	bull
+T20	Habitat 2689 2751	bull mucus layer over the crypt cell layer of the male prepuce
+T21	Habitat 2689 2699	bull mucus
+T22	Habitat 2715 2725	crypt cell
+T23	Habitat 2715 2751	crypt cell layer of the male prepuce
+T24	Habitat 2739 2743	male
+T25	Habitat 2739 2751	male prepuce
+T26	Habitat 2798 2811	female cattle
+T27	Habitat 2993 2999	animal
+T28	Habitat 3008 3012	bird
+T29	Habitat 3014 3021	reptile
+T30	Habitat 3058 3068	mucus cell
+T31	Habitat 3155 3161	Humans
+T32	Habitat 3302 3318	intestinal tract
+T33	Habitat 3464 3480	non-immune serum
+T34	Habitat 3515 3520	serum
+T35	Habitat 3682 3695	immune system
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001751
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000528
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000110
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000370
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000611
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00000611
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000334
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001852
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000110
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001402
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001852
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001852
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001852
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001402
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001660
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000370
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001774
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000374
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001478
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001478
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001852
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00001852
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000548
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00000408
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001646
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00001660
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00000550
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00000343
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001852
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00001402
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00000110
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001307
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00000026
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00001774

@@ -1,0 +1,40 @@
+T1	Habitat 51 56	plant
+T2	Habitat 99 105	plants
+T3	Habitat 110 115	weeds
+T4	Habitat 393 402	crucifers
+T5	Habitat 411 419	Brassica
+T6	Habitat 424 435	Arabidopsis
+T7	Habitat 463 467	leaf
+T8	Habitat 495 510	vascular tissue
+T9	Habitat 564 568	leaf
+T10	Habitat 664 669	weeds
+T11	Habitat 681 701	Arabidopsis thaliana
+T12	Habitat 762 767	plant
+T13	Habitat 778 789	Researchers
+T14	Habitat 842 847	plant
+T15	Habitat 912 917	plant
+T16	Habitat 957 968	Arabidopsis
+T17	Habitat 1151 1162	Researchers
+T18	Habitat 1188 1193	plant
+T19	Habitat 1262 1267	crops
+T20	Habitat 1280 1286	plants
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00002027
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00002027
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001678
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000543
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001080
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00002050
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001188
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001683
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001188
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001678
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001135
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00002027
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001581
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00002027
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00002027
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00002050
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001581
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00002027
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001555
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00002027

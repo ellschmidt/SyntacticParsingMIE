@@ -1,6 +1,6 @@
 # This Python file uses the following encoding: utf-8
-
 import os
+
 ###delete any doubles in the file:###
 
 lines_seen = set() # holds lines already seen
@@ -13,4 +13,4 @@ for line in open("keywords.txt", "r"):
 keywrds_revised.close()
 
 
-os.remove("output.xml")
+os.remove("output.xml")		#removes temporary file 

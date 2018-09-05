@@ -1,0 +1,105 @@
+T1	Habitat 725 729	food
+T2	Habitat 830 836	humans
+T3	Habitat 949 956	aqueous
+T4	Habitat 963 968;977 982	fresh water
+T5	Habitat 974 982	seawater
+T6	Habitat 988 1008	terrestrial habitats
+T7	Habitat 1010 1015	plant
+T8	Habitat 1010 1028	plant root systems
+T9	Habitat 1030 1048	clinical specimens
+T10	Habitat 1293 1322	relatively clean environments
+T11	Habitat 1376 1483	contaminated locations which included toxic compounds such as PCBs, creosote, pentachlorophenol, herbicides
+T12	Habitat 1607 1624	contaminated soil
+T13	Habitat 1647 1693	soil aggregates less than 0.025 mm in diameter
+T14	Habitat 1730 1752	unamended control soil
+T15	Habitat 2145 2167	equipment in hospitals
+T16	Habitat 2158 2167	hospitals
+T17	Habitat 2189 2207	clinical specimens
+T18	Habitat 2219 2244	respiratory therapy items
+T19	Habitat 2246 2257	humidifiers
+T20	Habitat 2259 2264	water
+T21	Habitat 2266 2269	air
+T22	Habitat 2271 2292	bedside water bottles
+T23	Habitat 2279 2284	water
+T24	Habitat 2294 2299	sinks
+T25	Habitat 2305 2323	temperature probes
+T26	Habitat 2480 2486	humans
+T27	Habitat 2649 2660	bloodstream
+T28	Habitat 2676 2686	leg ulcers
+T29	Habitat 2676 2679	leg
+T30	Habitat 2718 2765	patients undergoing chronic ambulatory dialysis
+T31	Habitat 2778 2791	brain abscess
+T32	Habitat 2778 2783	brain
+T33	Habitat 2803 2811	cervical
+T34	Habitat 2834 2849	splenic abscess
+T35	Habitat 2834 2841	splenic
+T36	Habitat 2861 2872	respiratory
+T37	Habitat 2894 2901	urinary
+T38	Habitat 3026 3031	coral
+T39	Habitat 3134 3144	star coral
+T40	Habitat 3179 3185	tissue
+T41	Habitat 3272 3279;3293 3299	healthy tissue
+T42	Habitat 3284 3299	diseased tissue
+T43	Habitat 3728 3751	shower curtain biofilms
+T44	Habitat 3728 3742	shower curtain
+T45	Habitat 3779 3809	"soap scum" of shower curtains
+T46	Habitat 3794 3809	shower curtains
+T47	Habitat 3835 3843	micorbes
+T48	Habitat 3894 3910	wet environments
+T49	Habitat 3953 3968	shower curtains
+T50	Habitat 3982 4000;4008 4016	immune-compromised patients
+T51	Habitat 4004 4016	ill patients
+T52	Habitat 4078 4093	shower curtains
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000688
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001402
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000643
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000904
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001481
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001711
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00002027
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001374
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000573
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000114
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000946
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000047
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001166
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000318
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000455
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00002039
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000573
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001363
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001592
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000217
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000611
+N22	OntoBiotope Annotation:T21 Referent:MBTO:00001432
+N23	OntoBiotope Annotation:T22 Referent:MBTO:00000169
+N24	OntoBiotope Annotation:T23 Referent:MBTO:00000868
+N25	OntoBiotope Annotation:T24 Referent:MBTO:00000914
+N26	OntoBiotope Annotation:T25 Referent:MBTO:00000091
+N27	OntoBiotope Annotation:T26 Referent:MBTO:00001402
+N28	OntoBiotope Annotation:T27 Referent:MBTO:00001569
+N29	OntoBiotope Annotation:T28 Referent:MBTO:00000144
+N30	OntoBiotope Annotation:T29 Referent:MBTO:00001075
+N31	OntoBiotope Annotation:T30 Referent:MBTO:00001607
+N32	OntoBiotope Annotation:T31 Referent:MBTO:00000995
+N33	OntoBiotope Annotation:T32 Referent:MBTO:00001160
+N34	OntoBiotope Annotation:T33 Referent:MBTO:00001466
+N35	OntoBiotope Annotation:T34 Referent:MBTO:00001390
+N36	OntoBiotope Annotation:T35 Referent:MBTO:00000055
+N37	OntoBiotope Annotation:T36 Referent:MBTO:00000124
+N38	OntoBiotope Annotation:T37 Referent:MBTO:00000504
+N39	OntoBiotope Annotation:T38 Referent:MBTO:00001124
+N40	OntoBiotope Annotation:T39 Referent:MBTO:00001195
+N41	OntoBiotope Annotation:T40 Referent:MBTO:00001580
+N42	OntoBiotope Annotation:T41 Referent:MBTO:00001580
+N43	OntoBiotope Annotation:T42 Referent:MBTO:00001580
+N44	OntoBiotope Annotation:T43 Referent:MBTO:00001805
+N45	OntoBiotope Annotation:T44 Referent:MBTO:00000039
+N46	OntoBiotope Annotation:T45 Referent:MBTO:00002007
+N47	OntoBiotope Annotation:T46 Referent:MBTO:00000039
+N48	OntoBiotope Annotation:T47 Referent:MBTO:00001516
+N49	OntoBiotope Annotation:T48 Referent:MBTO:00001705
+N50	OntoBiotope Annotation:T49 Referent:MBTO:00000039
+N51	OntoBiotope Annotation:T50 Referent:MBTO:00001201
+N52	OntoBiotope Annotation:T51 Referent:MBTO:00001607
+N53	OntoBiotope Annotation:T52 Referent:MBTO:00000039

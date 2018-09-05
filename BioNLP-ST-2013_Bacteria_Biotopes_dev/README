@@ -1,0 +1,49 @@
+Development Data for BioNLP'13 Shared Task on Event Extraction -- Bacteria Biotopes tasks
+
+
+- Contains 26 documents with manual annotations of entities, entity attribution to OntoBiotope concepts, localization and coreference relations
+
+- For format details, please refer to the following address:
+
+  http://2013.bionlp-st.org/file-formats
+
+
+
+
+Contents
+--------
+
+The sub-directories `task_1', `task_2' and `task_3' contains the documents and annotations for development for the sub-tasks 1, 2 and 3 respectively.
+
+In each directory `*.txt' files contain the target text, each newline denotes a paragraph break.
+
+In the directory `task_1', `*.a2' files contain habitat entity annotations and their categorizations. These files will not be provided in the test phase: participating predictions must detect entity boundaries and categorizations. The categorization is a reference to a concept in the OntoBiotope ontology. This ontology can be downloaded in OBO format at the following address: http://bibliome.jouy.inra.fr/MEM-OntoBiotope/downloads.html
+
+In the directory `task_2', `*.a1' files contain bacteria, habitat and geographical/organization entities. `*.a2' files contain localization and part-of relations and coreference groups. In the test phase, only `*.a1' files will be provided: participating predictions must detect relations for given entities. The coreferences, represented as `Equiv' annotations are not provided in the test phase, nor they are expected to be predicted; they will be used by task organizers during the evaluation of predictions.
+
+In the directory `task_3', `*.a2' files contain bacteria, habitat and geographical/organization entities, as well as localization and part-of relations and coreference groups. In the test phase, only the text will be provided: participating predictions must detect entity boundaries and relations.
+
+
+
+
+History
+-------
+
+19 October 2012, sample data release
+ 9 January 2013, texts of train data release
+17 January 2013, training and test data release
+15 April   2013, training and test data corrections
+
+
+
+
+Authors
+-------
+
+BioNLP'13 Shared Task organizers,
+bionlpsharedtask@gmail.com
+https://sites.google.com/site/bionlpst2013
+
+For questions and remarks concerning specifically the Gene Regulation Network:
+Robert Bossy
+Robert.Bossy@jouy.inra.fr

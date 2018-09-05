@@ -1,0 +1,48 @@
+T1	Bacteria 0 22	Xanthomonas campestris
+T2	Bacteria 23 45	Xanthomonas campestris
+T3	Habitat 51 56	plant
+T4	Habitat 99 105	plants
+T5	Habitat 110 115	weeds
+T6	Bacteria 126 137	Xanthomonas
+T7	Bacteria 187 196	bacterial
+T8	Bacteria 230 269	gamma-subdivision of the Proteobacteria
+T9	Bacteria 271 308	Xanthomonas campestris pv. campestris
+T10	Bacteria 310 313	Xcc
+T11	Habitat 393 402	crucifers
+T12	Habitat 411 419	Brassica
+T13	Habitat 424 435	Arabidopsis
+T14	Habitat 463 467	leaf
+T15	Habitat 495 510	vascular tissue
+T16	Habitat 564 568	leaf
+T17	Bacteria 637 640	Xcc
+T18	Bacteria 641 650	bacterium
+T19	Habitat 664 669	weeds
+T20	Habitat 681 701	Arabidopsis thaliana
+T21	Habitat 762 767	plant
+T22	Habitat 778 789	Researchers
+T23	Habitat 842 847	plant
+T24	Habitat 912 917	plant
+T25	Bacteria 929 932	Xcc
+T26	Habitat 957 968	Arabidopsis
+T27	Bacteria 971 1008	Xanthomonas campestris pv. campestris
+T28	Habitat 1151 1162	Researchers
+T29	Habitat 1188 1193	plant
+T30	Bacteria 1217 1228	Xanthomonas
+T31	Habitat 1262 1267	crops
+T32	Habitat 1280 1286	plants
+T33	Bacteria 1405 1416	Xanthomonas
+R1	Localization Bacterium:T9 Localization:T13
+R2	Localization Bacterium:T1 Localization:T5
+R3	Localization Bacterium:T9 Localization:T11
+R4	Localization Bacterium:T1 Localization:T3
+R5	Localization Bacterium:T9 Localization:T24
+R6	Localization Bacterium:T9 Localization:T12
+R7	Localization Bacterium:T9 Localization:T19
+R8	Localization Bacterium:T6 Localization:T29
+R9	Localization Bacterium:T9 Localization:T20
+*	Equiv T1 T2
+*	Equiv T17 T25 T27 T10 T9
+*	Equiv T6 T30 T33
+*	Equiv T13 T26
+*	Equiv T4 T3 T23 T29 T21 T32 T24
+*	Equiv T5 T19

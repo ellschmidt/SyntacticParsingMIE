@@ -1,0 +1,12 @@
+T1	Habitat 106 134	respiratory tract of animals
+T2	Habitat 127 134	animals
+T3	Habitat 389 394	cells
+T4	Habitat 566 572	humans
+T5	Habitat 602 609	animals
+T6	Habitat 643 649	rabbit
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000124
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001660
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001852
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001402
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001660
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000106

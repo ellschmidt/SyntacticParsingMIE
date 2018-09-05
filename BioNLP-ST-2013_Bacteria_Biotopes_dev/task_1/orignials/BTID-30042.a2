@@ -1,0 +1,60 @@
+T1	Habitat 18 23	sheep
+T2	Habitat 28 33	goats
+T3	Habitat 131 146	small ruminants
+T4	Habitat 823 841	sequencing centers
+T5	Habitat 1794 1807	intracellular
+T6	Habitat 1842 1849	animals
+T7	Habitat 1861 1867	humans
+T8	Habitat 1872 1879	insects
+T9	Habitat 1885 1891	plants
+T10	Habitat 2015 2019	cell
+T11	Habitat 2502 2515	intracellular
+T12	Habitat 2630 2636	humans
+T13	Habitat 2641 2648	animals
+T14	Habitat 2650 2655	Human
+T15	Habitat 2707 2718;2734 2740	respiratory tracts
+T16	Habitat 2723 2740	urogenital tracts
+T17	Habitat 2769 2781	farm animals
+T18	Habitat 2769 2773	farm
+T19	Habitat 3832 3837;3848 3857	sheep in Europe
+T20	Habitat 3842 3857	goats in Europe
+T21	Habitat 3913 3917	milk
+T22	Habitat 3913 3926	milk industry
+T23	Habitat 3979 3985	cattle
+T24	Habitat 3995 4006	respiratory
+T25	Habitat 4011 4018	mammary
+T26	Habitat 4070 4074	calf
+T27	Habitat 5519 5528	ruminants
+T28	Habitat 6612 6627	small ruminants
+T29	Habitat 6919 6945	molecular diagnostic tools
+T30	Habitat 7055 7102	expert annotators from the collaborating groups
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00000255
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000490
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001598
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001447
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001946
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00001660
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001402
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000141
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00002027
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001852
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001946
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001402
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001660
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001402
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000124
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001873
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000158
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000380
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000255
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000490
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000757
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001218
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00000370
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000124
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00000901
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00001509
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00000826
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001598
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00001047
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00000414

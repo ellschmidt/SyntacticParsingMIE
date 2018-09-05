@@ -1,0 +1,6 @@
+T1	Habitat 181 185	tick
+T2	Habitat 260 277	Ixodes scapularis
+T3	Habitat 984 988	tick
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001118
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000755
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001118

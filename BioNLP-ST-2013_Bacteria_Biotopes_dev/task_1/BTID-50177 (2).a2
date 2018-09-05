@@ -1,0 +1,68 @@
+T1	Habitat 67 88	gut of the tsetse fly
+T2	Habitat 78 88	tsetse fly
+T3	Habitat 201 221	Glossina brevipalpis
+T4	Habitat 311 331	British entomologist
+T5	Habitat 432 467	gut of the blood-sucking tsetse fly
+T6	Habitat 443 467	blood-sucking tsetse fly
+T7	Habitat 443 448	blood
+T8	Habitat 473 476	fly
+T9	Habitat 507 518	trypanosome
+T10	Habitat 602 605	fly
+T11	Habitat 663 669	insect
+T12	Habitat 859 879	free-living organism
+T13	Habitat 918 928	scientists
+T14	Habitat 1088 1106	adult tsetse flies
+T15	Habitat 1110 1116	larvae
+T16	Habitat 1122 1139	female tsetse fly
+T17	Habitat 1155 1160	young
+T18	Habitat 1168 1174	uterus
+T19	Habitat 1226 1239	mother's milk
+T20	Habitat 1226 1232	mother
+T21	Habitat 1331 1343	larval cells
+T22	Habitat 1331 1337	larval
+T23	Habitat 1441 1451	tsetse fly
+T24	Habitat 1549 1552	fly
+T25	Habitat 1639 1644	blood
+T26	Habitat 1687 1697	tsetse fly
+T27	Habitat 1809 1821	tsetse flies
+T28	Habitat 1823 1833	scientists
+T29	Habitat 1864 1873	offspring
+T30	Habitat 1883 1898	fly populations
+T31	Habitat 2022 2028	people
+T32	Habitat 2053 2064	trypanosome
+T33	Habitat 2153 2159	people
+T34	Habitat 2272 2281	livestock
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001670
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00002040
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001534
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001581
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001670
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00002040
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001569
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00000264
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001163
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000264
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00000141
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001732
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000414
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001294
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001111
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001816
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000196
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001068
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00000921
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001574
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001852
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001111
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00002040
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00000264
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00001569
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00002040
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00002040
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00000414
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00000467
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00000264
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00001402
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00001163
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001402
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00000583

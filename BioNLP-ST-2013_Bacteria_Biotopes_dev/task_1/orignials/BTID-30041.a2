@@ -1,0 +1,44 @@
+T1	Habitat 110 116	humans
+T2	Habitat 596 621	hydrotelluric environment
+T3	Habitat 778 784	humans
+T4	Habitat 839 850	soft tissue
+T5	Habitat 885 904	locomotor apparatus
+T6	Habitat 942 959	broncho-pulmonary
+T7	Habitat 999 1023	immunodepressed subjects
+T8	Habitat 1028 1044	graft recipients
+T9	Habitat 1046 1063	Broncho-pulmonary
+T10	Habitat 1110 1139	patients with cystic fibrosis
+T11	Habitat 1358 1365	patient
+T12	Habitat 1380 1387	centers
+T13	Habitat 1557 1561	lung
+T14	Habitat 1639 1668	patients with cystic fibrosis
+T15	Habitat 1790 1795	human
+T16	Habitat 2005 2011	humans
+T17	Habitat 2016 2034	laboratory animals
+T18	Habitat 2250 2256	humans
+T19	Habitat 2599 2605	humans
+T20	Habitat 2739 2755	respiratory tree
+T21	Habitat 2771 2814	tuberculoid granulomas with caseous lesions
+T22	Habitat 2799 2814	caseous lesions
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001119
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001402
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001968
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00000570
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000967
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001201
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001210
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00000967
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000387
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001607
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000989
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00000476
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00000387
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00001402
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001402
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00000098
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001402
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001402
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00000124
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001205
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00001590

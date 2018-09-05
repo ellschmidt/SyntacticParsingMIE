@@ -1,0 +1,114 @@
+T1	Habitat 39 49	sugar cane
+T2	Habitat 39 55	sugar cane crops
+T3	Habitat 157 167	sugar cane
+T4	Habitat 175 179	leaf
+T5	Habitat 260 266	leaves
+T6	Habitat 287 292	plant
+T7	Habitat 328 334	leaves
+T8	Habitat 375 393	tropical countries
+T9	Habitat 408 418	sugar cane
+T10	Habitat 455 460	field
+T11	Habitat 469 476	factory
+T12	Habitat 523 558	juice extracted from the sugar cane
+T13	Habitat 619 624	crops
+T14	Habitat 674 707	resistant varieties of sugar cane
+T15	Habitat 759 764	sugar
+T16	Habitat 792 795	rum
+T17	Habitat 846 874	bio-carburant in automobiles
+T18	Habitat 895 899	food
+T19	Habitat 907 917	sugar cane
+T20	Habitat 1186 1196	sugar cane
+T21	Habitat 1305 1316	sweet stems
+T22	Habitat 1334 1339	plant
+T23	Habitat 1670 1676	leaves
+T24	Habitat 2134 2144	sugar cane
+T25	Habitat 2134 2150	sugar cane stems
+T26	Habitat 2418 2424	plants
+T27	Habitat 2428 2436;2451 2456	tropical zones
+T28	Habitat 2441 2456	temperate zones
+T29	Habitat 2517 2523	plants
+T30	Habitat 2532 2538	coffee
+T31	Habitat 2540 2546	grapes
+T32	Habitat 2548 2559	fruit trees
+T33	Habitat 2561 2573	citrus fruit
+T34	Habitat 2575 2582	almonds
+T35	Habitat 2584 2590	olives
+T36	Habitat 2596 2612	decorative trees
+T37	Habitat 2617 2623	shrubs
+T38	Habitat 2625 2628	oak
+T39	Habitat 2630 2635	maple
+T40	Habitat 2637 2645	oleander
+T41	Habitat 2793 2799	Humans
+T42	Habitat 2870 2899	contaminated harvesting tools
+T43	Habitat 2916 2939	infected plant material
+T44	Habitat 2925 2930	plant
+T45	Habitat 2941 2951	sugar cane
+T46	Habitat 2941 2960	sugar cane cuttings
+T47	Habitat 3005 3008	air
+T48	Habitat 3057 3065	aerosols
+T49	Habitat 3068 3075	insects
+T50	Habitat 3079 3089	Sugar cane
+T51	Habitat 3079 3096	Sugar cane fields
+T52	Habitat 3118 3132	healthy plants
+T53	Habitat 3187 3192	human
+T54	Habitat 3428 3438	sugar cane
+T55	Habitat 3893 3903	sugar cane
+T56	Habitat 3893 3909	sugar cane crops
+T57	Habitat 4149 4154	plant
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001689
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00001555
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00001689
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00001188
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001188
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00002027
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001188
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001041
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001689
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00000261
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00001425
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00001455
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001555
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001689
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000688
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001384
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001647
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00000688
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001689
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001689
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00000512
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00002027
+N23	OntoBiotope Annotation:T23 Referent:MBTO:00001188
+N24	OntoBiotope Annotation:T24 Referent:MBTO:00001689
+N25	OntoBiotope Annotation:T25 Referent:MBTO:00000512
+N26	OntoBiotope Annotation:T26 Referent:MBTO:00002027
+N27	OntoBiotope Annotation:T27 Referent:MBTO:00000666
+N28	OntoBiotope Annotation:T28 Referent:MBTO:00001684
+N29	OntoBiotope Annotation:T29 Referent:MBTO:00002027
+N30	OntoBiotope Annotation:T30 Referent:MBTO:00001699
+N31	OntoBiotope Annotation:T31 Referent:MBTO:00001868
+N32	OntoBiotope Annotation:T32 Referent:MBTO:00001465
+N33	OntoBiotope Annotation:T33 Referent:MBTO:00001798
+N34	OntoBiotope Annotation:T34 Referent:MBTO:00001335
+N35	OntoBiotope Annotation:T35 Referent:MBTO:00001120
+N36	OntoBiotope Annotation:T36 Referent:MBTO:00001820
+N37	OntoBiotope Annotation:T37 Referent:MBTO:00000843
+N38	OntoBiotope Annotation:T38 Referent:MBTO:00000776
+N39	OntoBiotope Annotation:T39 Referent:MBTO:00000208
+N40	OntoBiotope Annotation:T40 Referent:MBTO:00001994
+N41	OntoBiotope Annotation:T41 Referent:MBTO:00001402
+N42	OntoBiotope Annotation:T42 Referent:MBTO:00000983
+N43	OntoBiotope Annotation:T43 Referent:MBTO:00000050
+N44	OntoBiotope Annotation:T44 Referent:MBTO:00002027
+N45	OntoBiotope Annotation:T45 Referent:MBTO:00001689
+N46	OntoBiotope Annotation:T46 Referent:MBTO:00001758
+N47	OntoBiotope Annotation:T47 Referent:MBTO:00000611
+N48	OntoBiotope Annotation:T48 Referent:MBTO:00000184
+N49	OntoBiotope Annotation:T49 Referent:MBTO:00000141
+N50	OntoBiotope Annotation:T50 Referent:MBTO:00001689
+N51	OntoBiotope Annotation:T51 Referent:MBTO:00000706
+N52	OntoBiotope Annotation:T52 Referent:MBTO:00002027
+N53	OntoBiotope Annotation:T53 Referent:MBTO:00001402
+N54	OntoBiotope Annotation:T54 Referent:MBTO:00001689
+N55	OntoBiotope Annotation:T55 Referent:MBTO:00001689
+N56	OntoBiotope Annotation:T56 Referent:MBTO:00001555
+N57	OntoBiotope Annotation:T57 Referent:MBTO:00002027

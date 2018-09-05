@@ -1,0 +1,36 @@
+T1	Bacteria 0 20	Borrelia hermsii DAH
+T2	Bacteria 33 60	Borrelia hermsii strain DAH
+T3	Geographical 121 139	western Washington
+T4	Bacteria 141 157	Borrelia hermsii
+T5	Habitat 184 188	tick
+T6	Geographical 218 239	western United States
+T7	Geographical 244 250	Canada
+T8	Habitat 252 257	Ticks
+T9	Bacteria 279 292	Borrelia spp.
+T10	Habitat 313 328	infected mammal
+T11	Habitat 340 346	rodent
+T12	Habitat 350 358	squirrel
+T13	Bacteria 360 368	Borrelia
+T14	Habitat 441 445	tick
+T15	Habitat 466 470	tick
+T16	Habitat 498 512	mammalian host
+T17	Habitat 525 542	infectious saliva
+T18	Habitat 544 550	Humans
+T19	Habitat 573 587	infected ticks
+T20	Habitat 609 616	rodents
+T21	Habitat 620 632	rodent nests
+T22	Habitat 620 626	rodent
+T23	Bacteria 854 862	Borrelia
+T24	Habitat 922 935	immune system
+R1	Localization Bacterium:T4 Localization:T5
+R2	Localization Bacterium:T1 Localization:T3
+R3	Localization Bacterium:T4 Localization:T6
+R4	Localization Bacterium:T4 Localization:T21
+R5	Localization Bacterium:T4 Localization:T17
+R6	Localization Bacterium:T4 Localization:T7
+R7	Localization Bacterium:T4 Localization:T10
+R8	Localization Bacterium:T4 Localization:T12
+R9	Localization Bacterium:T4 Localization:T18
+R10	Localization Bacterium:T4 Localization:T11
+R11	PartOf Host:T5 Part:T17
+*	Equiv T2 T1

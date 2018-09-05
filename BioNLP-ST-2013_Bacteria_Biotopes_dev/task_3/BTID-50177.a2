@@ -1,0 +1,75 @@
+T1	Bacteria 0 26	Wigglesworthia glossinidia
+T2	Bacteria 27 53	Wigglesworthia glossinidia
+T3	Habitat 67 88	gut of the tsetse fly
+T4	Habitat 78 88	tsetse fly
+T5	Bacteria 157 183	Wigglesworthia glossinidia
+T6	Habitat 201 221	Glossina brevipalpis
+T7	Bacteria 279 288	bacterium
+T8	Habitat 311 331	British entomologist
+T9	Geographical 311 318	British
+T10	Bacteria 388 414	Wigglesworthia glossinidia
+T11	Habitat 432 467	gut of the blood-sucking tsetse fly
+T12	Habitat 443 467	blood-sucking tsetse fly
+T13	Habitat 443 448	blood
+T14	Habitat 473 476	fly
+T15	Habitat 507 518	trypanosome
+T16	Bacteria 588 597	bacterium
+T17	Habitat 602 605	fly
+T18	Bacteria 629 638	bacterium
+T19	Habitat 663 669	insect
+T20	Bacteria 733 742	bacterium
+T21	Bacteria 806 820	Wigglesworthia
+T22	Habitat 859 879	free-living organism
+T23	Habitat 918 928	scientists
+T24	Bacteria 945 959	Wigglesworthia
+T25	Bacteria 1061 1075	Wigglesworthia
+T26	Habitat 1088 1106	adult tsetse flies
+T27	Habitat 1110 1116	larvae
+T28	Habitat 1122 1139	female tsetse fly
+T29	Habitat 1155 1160	young
+T30	Habitat 1168 1174	uterus
+T31	Bacteria 1184 1192	bacteria
+T32	Habitat 1226 1239	mother's milk
+T33	Habitat 1226 1232	mother
+T34	Bacteria 1286 1294	bacteria
+T35	Habitat 1331 1343	larval cells
+T36	Habitat 1331 1337	larval
+T37	Habitat 1441 1451	tsetse fly
+T38	Habitat 1549 1552	fly
+T39	Bacteria 1568 1576	bacteria
+T40	Habitat 1639 1644	blood
+T41	Bacteria 1658 1666	bacteria
+T42	Habitat 1687 1697	tsetse fly
+T43	Bacteria 1795 1803	bacteria
+T44	Habitat 1809 1821	tsetse flies
+T45	Habitat 1823 1833	scientists
+T46	Habitat 1864 1873	offspring
+T47	Habitat 1883 1898	fly populations
+T48	Geographical 1962 1977	southern Africa
+T49	Habitat 2022 2028	people
+T50	Habitat 2053 2064	trypanosome
+T51	Habitat 2153 2159	people
+T52	Habitat 2272 2281	livestock
+R1	Localization Bacterium:T1 Localization:T4
+R2	Localization Bacterium:T1 Localization:T3
+R3	Localization Bacterium:T1 Localization:T27
+R4	Localization Bacterium:T1 Localization:T19
+R5	Localization Bacterium:T1 Localization:T26
+R6	Localization Bacterium:T1 Localization:T28
+R7	Localization Bacterium:T1 Localization:T29
+R8	Localization Bacterium:T1 Localization:T4
+R9	Localization Bacterium:T1 Localization:T32
+R10	Localization Bacterium:T1 Localization:T51
+R11	Localization Bacterium:T1 Localization:T52
+R12	Localization Bacterium:T1 Localization:T48
+R13	PartOf Host:T4 Part:T3
+R14	PartOf Host:T12 Part:T11
+R15	PartOf Host:T28 Part:T30
+R16	PartOf Host:T28 Part:T32
+R17	PartOf Host:T27 Part:T35
+R18	PartOf Host:T52 Part:T40
+R19	PartOf Host:T51 Part:T40
+*	Equiv T11 T3
+*	Equiv T40 T13
+*	Equiv T1 T10 T2 T5
+*	Equiv T12 T4 T37 T44 T6 T42

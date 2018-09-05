@@ -2,7 +2,6 @@
 import fileinput
 import re
 import os
-import time
 import lxml
 from lxml import etree
 
@@ -15,7 +14,6 @@ For example we find that for the first entity in file BTID-10084.a2 the governor
 which will then correspond to the rule: if you find the word 'invading', then its 'dobj' is probably one of the entities we are looking for.
 """
 
-start = time.time()
 keywords = open("keywords.txt","a+")	# File, in which the rules are written. 
 linestring = []							# xml-input as a string to allow for multiline-search
 boolean_found = False					
@@ -137,20 +135,3 @@ for line in fileinput.input():
 		counter = 1	
 
 keywords.close()		#close file
-
-ende = time.time()
-
-try:
-	time = open("time.txt", "r")
-except IOError:
-	time = open("time.txt", "w")
-	time.write(str(0) + "\n")
-
-else: 
-	for line in open("time.txt","r"):
-		print line
-		add_up = float(line) + float('{:5.3f}'.format(ende-start) + "\n")
-		print add_up
-	time = open("time.txt", "w")
-	time.write(str(add_up))
-time.close()

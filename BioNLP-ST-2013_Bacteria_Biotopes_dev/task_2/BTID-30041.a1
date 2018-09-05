@@ -1,0 +1,59 @@
+T1	Bacteria 0 22	Mycobacterium chelonae
+T2	Bacteria 27 50	Mycobacterium abscessus
+T3	Bacteria 72 84	mycobacteria
+T4	Habitat 110 116	humans
+T5	Bacteria 127 140	Mycobacterium
+T6	Bacteria 163 177	Actinobacteria
+T7	Bacteria 186 202	Mycobacteriaceae
+T8	Bacteria 285 297	mycobacteria
+T9	Bacteria 335 347	mycobacteria
+T10	Habitat 596 621	hydrotelluric environment
+T11	Bacteria 675 698	Mycobacterium abscessus
+T12	Bacteria 703 725	Mycobacterium chelonae
+T13	Habitat 778 784	humans
+T14	Habitat 839 850	soft tissue
+T15	Habitat 885 904	locomotor apparatus
+T16	Habitat 942 959	broncho-pulmonary
+T17	Habitat 999 1023	immunodepressed subjects
+T18	Habitat 1028 1044	graft recipients
+T19	Habitat 1046 1063	Broncho-pulmonary
+T20	Bacteria 1082 1094	M. abscessus
+T21	Habitat 1110 1139	patients with cystic fibrosis
+T22	Geographical 1236 1242	France
+T23	Geographical 1269 1304	Vaincre La Mucoviscidose Assocation
+T24	Habitat 1358 1365	patient
+T25	Habitat 1380 1387	centers
+T26	Bacteria 1490 1502	M. abscessus
+T27	Habitat 1557 1561	lung
+T28	Habitat 1639 1668	patients with cystic fibrosis
+T29	Bacteria 1688 1700	M. abscessus
+T30	Bacteria 1705 1716	M. chelonae
+T31	Habitat 1790 1795	human
+T32	Bacteria 1919 1942	Mycobacterium smegmatis
+T33	Geographical 1944 1948	TIGR
+T34	Habitat 2005 2011	humans
+T35	Habitat 2016 2034	laboratory animals
+T36	Bacteria 2053 2065	M. abscessus
+T37	Bacteria 2070 2081	M. chelonae
+T38	Bacteria 2212 2224	mycobacteria
+T39	Habitat 2250 2256	humans
+T40	Bacteria 2371 2383	M. abscessus
+T41	Bacteria 2388 2399	M. chelonae
+T42	Bacteria 2546 2558	M. abscessus
+T43	Bacteria 2563 2574	M. chelonae
+T44	Habitat 2599 2605	humans
+T45	Habitat 2739 2755	respiratory tree
+T46	Habitat 2771 2814	tuberculoid granulomas with caseous lesions
+T47	Habitat 2799 2814	caseous lesions
+T48	Bacteria 3001 3013	M. abscessus
+T49	Bacteria 3027 3038	M. chelonae
+T50	Bacteria 3129 3144	M. tuberculosis
+T51	Geographical 3255 3290	"Genome and Informatics" Laboratory
+T52	Geographical 3294 3298	Evry
+T53	Bacteria 3430 3442	M. abscessus
+T54	Bacteria 3447 3458	M. Chelonae
+T55	Bacteria 3541 3553	mycobacteria
+T56	Bacteria 3586 3601	M. tuberculosis
+T57	Bacteria 3603 3611	M. bovis
+T58	Bacteria 3613 3622	M. leprae
+T59	Bacteria 3624 3643	M. paratuberculosis

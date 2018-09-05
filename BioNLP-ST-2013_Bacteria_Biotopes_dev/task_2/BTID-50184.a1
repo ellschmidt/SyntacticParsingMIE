@@ -1,0 +1,47 @@
+T1	Bacteria 0 18	Xylella fastidiosa
+T2	Bacteria 19 37	Xylella fastidiosa
+T3	Habitat 68 73	plant
+T4	Habitat 93 99	citrus
+T5	Bacteria 129 147	Xylella fastidiosa
+T6	Habitat 181 186	xylem
+T7	Bacteria 195 204	bacterium
+T8	Habitat 251 256	plant
+T9	Habitat 276 282	citrus
+T10	Habitat 321 328	oranges
+T11	Habitat 339 345	citrus
+T12	Habitat 339 352	citrus fruits
+T13	Bacteria 354 367	X. fastidiosa
+T14	Habitat 427 437	grapevines
+T15	Bacteria 443 452	bacterium
+T16	Habitat 483 494	leafhoppers
+T17	Habitat 504 517	sharpshooters
+T18	Habitat 541 548	insects
+T19	Bacteria 559 568	bacterial
+T20	Habitat 584 589	plant
+T21	Habitat 593 598	plant
+T22	Bacteria 613 626	X. fastidiosa
+T23	Habitat 645 650	plant
+T24	Habitat 645 658	plant's xylem
+T25	Habitat 664 680	vascular tissues
+T26	Bacteria 693 701	bacteria
+T27	Habitat 725 730	plant
+T28	Habitat 725 750	plant's internal plumbing
+T29	Habitat 776 781	water
+T30	Habitat 785 791	leaves
+T31	Habitat 793 798	Trees
+T32	Habitat 803 809	plants
+T33	Habitat 818 824	leaves
+T34	Habitat 840 846	fruits
+T35	Habitat 924 928	leaf
+T36	Habitat 942 958	woody perennials
+T37	Habitat 967 979	American elm
+T38	Habitat 981 986	maple
+T39	Habitat 988 996	mulberry
+T40	Habitat 1001 1005	plum
+T41	Habitat 1086 1092	animal
+T42	Bacteria 1243 1256	X. fastidiosa
+T43	Habitat 1302 1307	plant
+T44	Bacteria 1350 1368	Xylella fastidiosa
+T45	Habitat 1383 1388	plant
+T46	Habitat 1412 1417	plant
+T47	Bacteria 1429 1438	bacterium

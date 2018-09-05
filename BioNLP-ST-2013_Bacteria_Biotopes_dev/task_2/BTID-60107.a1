@@ -1,0 +1,58 @@
+T1	Bacteria 0 19	Campylobacter fetus
+T2	Bacteria 49 68	Campylobacter fetus
+T3	Bacteria 99 117	bacterial pathogen
+T4	Habitat 369 374	human
+T5	Habitat 369 379	human body
+T6	Bacteria 385 404	Campylobacter fetus
+T7	Bacteria 623 642	Campylobacter fetus
+T8	Bacteria 652 684	Campylobacter fetus subsp. fetus
+T9	Bacteria 689 726	Campylobacter fetus subsp. Venerealis
+T10	Bacteria 779 787	C. fetus
+T11	Habitat 992 1007	natural habitat
+T12	Bacteria 1011 1032	C. fetus subsp. fetus
+T13	Habitat 1040 1066	intestinal tract of cattle
+T14	Habitat 1060 1066	cattle
+T15	Habitat 1362 1419	atmospheres enriched with CO2 and 5% oxygen with nitrogen
+T16	Habitat 1362 1410;1423 1431	atmospheres enriched with CO2 and 5% oxygen with hydrogen
+T17	Bacteria 1477 1497	Camplylobacter fetus
+T18	Habitat 1507 1528	anaerobic environment
+T19	Bacteria 1601 1609	bacteria
+T20	Bacteria 1842 1861	Campylobacter fetus
+T21	Habitat 1908 1940	intestinal epithelial cell lines
+T22	Habitat 1908 1918	intestinal
+T23	Habitat 1960 1966	humans
+T24	Bacteria 2069 2088	Campylobacter fetus
+T25	Habitat 2129 2139	cell lines
+T26	Habitat 2181 2186	cells
+T27	Bacteria 2192 2201	bacterium
+T28	Habitat 2271 2276	cells
+T29	Habitat 2287 2293	humans
+T30	Habitat 2300 2307	animals
+T31	Habitat 2315 2321	cattle
+T32	Bacteria 2333 2352	Campylobacter fetus
+T33	Bacteria 2358 2367	bacterium
+T34	Habitat 2524 2537	immune system
+T35	Bacteria 2587 2595	bacteria
+T36	Bacteria 2639 2676	Campylobacter fetus subsp. Venerealis
+T37	Habitat 2689 2693	bull
+T38	Habitat 2689 2751	bull mucus layer over the crypt cell layer of the male prepuce
+T39	Habitat 2689 2699	bull mucus
+T40	Habitat 2715 2725	crypt cell
+T41	Habitat 2715 2751	crypt cell layer of the male prepuce
+T42	Habitat 2739 2743	male
+T43	Habitat 2739 2751	male prepuce
+T44	Bacteria 2767 2775	bacteria
+T45	Habitat 2798 2811	female cattle
+T46	Bacteria 2906 2938	Campylobacter fetus subsp. Fetus
+T47	Habitat 2993 2999	animal
+T48	Habitat 3008 3012	bird
+T49	Habitat 3014 3021	reptile
+T50	Bacteria 3033 3041	bacteria
+T51	Habitat 3058 3068	mucus cell
+T52	Habitat 3155 3161	Humans
+T53	Bacteria 3218 3250	Campylobacter fetus subsp. Fetus
+T54	Habitat 3302 3318	intestinal tract
+T55	Habitat 3464 3480	non-immune serum
+T56	Habitat 3515 3520	serum
+T57	Bacteria 3528 3536	C. fetus
+T58	Habitat 3682 3695	immune system

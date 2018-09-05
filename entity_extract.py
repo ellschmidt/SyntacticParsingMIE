@@ -30,7 +30,6 @@ for line_b in rules:
 	rule_tofind = re.search(r'(\w+[.]*|%)\s[+]\s(\w+\S*)', line_b)	#for every line in the rule book read out the dependency relation and the keyword
 	keyword = rule_tofind.group(1)
 	relation = rule_tofind.group(2)
-	#print line_b
 	tree = etree.parse(file_name + ".txt.xml")						#make the .xml-file an object so as to enable deleting out all
 	root = tree.getroot()											#dependencies except the enhanced-plus-plus-dependencies
 
@@ -50,43 +49,31 @@ for line_b in rules:
 						#find every word where the keyword is the governor and stands in the rule-given relation to this word
 						#output is a list of lists which in turn contain the words index, the word, and the sentence index of the next sentence
 	
-	
-	
-	#print find_relation
 	phrase_list = []			
 	looked_up = []					
-	#print "\nSET\n" 
+
 	for head in find_relation:		#find all dependency-subtrees of the found word, which the is the head of those subtrees
 		phrase_list.append(head)
-		
-		#print "HEAD: " 
-		#print head
-		tree = etree.parse("output.xml")						#make the .xml-file an object so as to enable deleting out all
+
+		tree = etree.parse("output.xml")						#make the .xml-file an object so as to enable deleting out all sentences but the one we found the relation in 
 		root = tree.getroot()
 		for sentence in root.iter('sentence'):
-		#		print "index" + head[2]
-		#		print str(int(head[2])-1)
-		#		print sentence.get('id')
 				if sentence.get('id') != str(int(head[2])-1):
 					sentence.getparent().remove(sentence)
 		tree.write('sentence.xml')
 		tree_sentence = open('sentence.xml')									#write the stripped tree into a new file
 	
-									#turn it into on long string 
-		for line_d in tree_sentence :
+		for line_d in tree_sentence :											#turn it into on long string 
 			linestring_sentence.append(line_d)
 			joined_sentence= ' '.join(linestring_sentence)
 			
 		
-		for word in phrase_list:
-			
-			
+		for word in phrase_list:	
 			
 			try:
 				find_phrase = re.findall(r'<governor idx="' + word[0] + '">' + word[1] + '</governor>\s*<dependent idx="(\d*)">(.*?)</dependent>', joined_sentence)
 				# find every word, and its index, where the head is the governor
-				#print find_phrase
-				relative_clauses = re.search(r'who|\'\,\'|where|which|that', str(find_phrase)) #trigger for relative-clauses, which will be deleted out  , .*?<sentence id="' + word[2]+ '">  flags=re.DOTALL
+				relative_clauses = re.search(r'who|\'\,\'|where|which|that', str(find_phrase)) #trigger for relative-clauses, which will be deleted out
 				if relative_clauses:
 					sorted_for_delete = sorted(find_phrase, key=lambda is_this_comma: int(is_this_comma[0]))
 	
@@ -100,8 +87,7 @@ for line_b in rules:
 					find_phrase = go_on	
 				
 				looked_up.append(word) #keep track of every word that was already searched for subtrees
-				#print "looked up: "
-				#print looked_up
+
 				if find_phrase != []:
 					for i in range(len(find_phrase)):
 						phrase_list.append(find_phrase[i-1])	#append the found words to also find their subtrees			
@@ -132,24 +118,26 @@ for line_b in rules:
 		
 		#phrases_to_sort is just the mere collection of all the found word phrases in the text
 		#phrases_to_print integrates the phrases in the necessary format of the lines in the output file
-		#print joined_sentence
+
 		for i in range(len(phrases_to_sort)):
 			phrases_to_print.append([])
 			phrases_to_print[counter-1].append("Habitat ")		#start the line with "Habitat"
 			
 			for k in phrases_to_sort[i]:	#for every word in the phrase find out its on- and offset
-				#print k
 				borders = re.search(r'<token id="' + re.escape(k[0]) + '">\s*<word>' + re.escape(k[1]) + '</word>\s*<lemma>.*</lemma>\s*<CharacterOffsetBegin>(\d+)</CharacterOffsetBegin>\s*<CharacterOffsetEnd>(\d+)</CharacterOffsetEnd>', joined_sentence)
+				
 				if first == False:
 					borders_start = borders.group(1)	
 					phrases_to_print[counter-1].append(borders_start + " ")		#add to the line the onset of the first word
 					first = True
+				
 				if int(borders_end) < int(borders.group(2)):
 						borders_end = borders.group(2)			#update the offset until the last word
 
 			phrases_to_print[counter-1].append(borders_end + "\t")	#add to the line the offset of the last word
 			
 			first_word_seen = False
+			
 			for k in phrases_to_sort[i]:
 				if first_word_seen == True:
 					phrases_to_print[counter-1].append(" " + k[1])	#finally add to the line the phrase of words

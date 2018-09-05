@@ -1,0 +1,39 @@
+T1	Bacteria 0 19	Tropheryma whipplei
+T2	Bacteria 20 39	Tropheryma whipplei
+T3	Bacteria 92 101	bacterial
+T4	Bacteria 110 129	Tropheryma whipplei
+T5	Habitat 159 164	human
+T6	Habitat 315 320	joint
+T7	Habitat 478 488	intestinal
+T8	Habitat 544 548	body
+T9	Habitat 669 672	Men
+T10	Habitat 717 722	women
+T11	Habitat 746 771	white males of middle age
+T12	Geographical 833 839	Europe
+T13	Geographical 848 861	United States
+T14	Geographical 888 894	Africa
+T15	Geographical 899 903	Asia
+T16	Habitat 914 919	Asian
+T17	Geographical 914 919	Asian
+T18	Habitat 923 935	Japanese man
+T19	Geographical 923 931	Japanese
+T20	Habitat 986 1004	French researchers
+T21	Geographical 986 992	French
+T22	Bacteria 1077 1096	Tropheryma whipplei
+T23	Habitat 1105 1115	laboratory
+T24	Habitat 1131 1141	scientists
+T25	Bacteria 1208 1217	bacterium
+T26	Bacteria 1309 1322	Escheria coli
+T27	Bacteria 1510 1518	bacteria
+T28	Bacteria 1572 1580	bacteria
+T29	Habitat 1656 1663	microbe
+T30	Bacteria 1801 1810	bacterium
+T31	Habitat 1895 1902	microbe
+T32	Habitat 1951 1955	body
+T33	Habitat 2029 2034	human
+T34	Habitat 2029 2048	human immune system
+T35	Habitat 2123 2128	human
+T36	Habitat 2123 2134	human cells
+T37	Habitat 2190 2201	researchers
+T38	Habitat 2232 2240	microbes
+T39	Habitat 2275 2285	laboratory

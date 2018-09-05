@@ -1,0 +1,44 @@
+T1	Habitat 159 164	human
+T2	Habitat 315 320	joint
+T3	Habitat 478 488	intestinal
+T4	Habitat 544 548	body
+T5	Habitat 669 672	Men
+T6	Habitat 717 722	women
+T7	Habitat 746 771	white males of middle age
+T8	Habitat 914 919	Asian
+T9	Habitat 923 935	Japanese man
+T10	Habitat 986 1004	French researchers
+T11	Habitat 1105 1115	laboratory
+T12	Habitat 1131 1141	scientists
+T13	Habitat 1656 1663	microbe
+T14	Habitat 1895 1902	microbe
+T15	Habitat 1951 1955	body
+T16	Habitat 2029 2034	human
+T17	Habitat 2029 2048	human immune system
+T18	Habitat 2123 2128	human
+T19	Habitat 2123 2134	human cells
+T20	Habitat 2190 2201	researchers
+T21	Habitat 2232 2240	microbes
+T22	Habitat 2275 2285	laboratory
+N1	OntoBiotope Annotation:T1 Referent:MBTO:00001402
+N2	OntoBiotope Annotation:T2 Referent:MBTO:00000035
+N3	OntoBiotope Annotation:T3 Referent:MBTO:00000110
+N4	OntoBiotope Annotation:T4 Referent:MBTO:00000190
+N5	OntoBiotope Annotation:T5 Referent:MBTO:00001762
+N6	OntoBiotope Annotation:T6 Referent:MBTO:00000658
+N7	OntoBiotope Annotation:T7 Referent:MBTO:00001762
+N8	OntoBiotope Annotation:T8 Referent:MBTO:00001402
+N9	OntoBiotope Annotation:T9 Referent:MBTO:00001762
+N10	OntoBiotope Annotation:T10 Referent:MBTO:00001581
+N11	OntoBiotope Annotation:T11 Referent:MBTO:00002025
+N12	OntoBiotope Annotation:T12 Referent:MBTO:00000414
+N13	OntoBiotope Annotation:T13 Referent:MBTO:00001516
+N14	OntoBiotope Annotation:T14 Referent:MBTO:00001516
+N15	OntoBiotope Annotation:T15 Referent:MBTO:00000190
+N16	OntoBiotope Annotation:T16 Referent:MBTO:00001402
+N17	OntoBiotope Annotation:T17 Referent:MBTO:00001774
+N18	OntoBiotope Annotation:T18 Referent:MBTO:00001402
+N19	OntoBiotope Annotation:T19 Referent:MBTO:00001852
+N20	OntoBiotope Annotation:T20 Referent:MBTO:00001581
+N21	OntoBiotope Annotation:T21 Referent:MBTO:00001516
+N22	OntoBiotope Annotation:T22 Referent:MBTO:00002025

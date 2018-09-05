@@ -1,0 +1,149 @@
+T1	Habitat 18 23	sheep
+T2	Habitat 28 33	goats
+T3	Bacteria 60 71	Mycoplasmas
+T4	Bacteria 76 85	bacterium
+T5	Bacteria 86 107	Mycoplasma agalactiae
+T6	Habitat 131 146	small ruminants
+T7	Bacteria 185 196	mycoplasmas
+T8	Bacteria 212 222	Mollicutes
+T9	Bacteria 238 246	bacteria
+T10	Bacteria 306 316	Mollicutes
+T11	Bacteria 355 370	bacterial taxon
+T12	Bacteria 374 417	Gram-positive bacteria with low G+C content
+T13	Bacteria 422 432	Firmicutes
+T14	Bacteria 546 556	Mollicutes
+T15	Bacteria 576 586	Firmicutes
+T16	Bacteria 607 617	Clostridia
+T17	Bacteria 626 633	Bacilli
+T18	Bacteria 777 788	mycoplasmas
+T19	Habitat 823 841	sequencing centers
+T20	Bacteria 969 993	Mycoplasma gallisepticum
+T21	Bacteria 995 1008	M. genitalium
+T22	Bacteria 1010 1026	M. hyopneumoniae
+T23	Bacteria 1028 1037	M. mobile
+T24	Bacteria 1039 1050	M. mycoides
+T25	Bacteria 1052 1064	M. penetrans
+T26	Bacteria 1067 1080	M. pneumoniae
+T27	Bacteria 1082 1093	M. pulmonis
+T28	Bacteria 1095 1112	Mesoplasma florum
+T29	Bacteria 1114 1143	Ureaplasma urealyticum/parvum
+T30	Bacteria 1145 1164	Phytoplasma asteris
+T31	Bacteria 1272 1282	Mollicutes
+T32	Bacteria 1311 1320	U. parvum
+T33	Bacteria 1342 1350	bacteria
+T34	Bacteria 1385 1395	Mycoplasma
+T35	Bacteria 1608 1619	mycoplasmal
+T36	Bacteria 1680 1688	bacteria
+T37	Habitat 1794 1807	intracellular
+T38	Habitat 1842 1849	animals
+T39	Habitat 1861 1867	humans
+T40	Habitat 1872 1879	insects
+T41	Habitat 1885 1891	plants
+T42	Bacteria 1893 1905	Spiroplasmas
+T43	Bacteria 1910 1922	Phytoplasmas
+T44	Habitat 2015 2019	cell
+T45	Bacteria 2083 2094	Mycoplasmas
+T46	Bacteria 2231 2242	mycoplasmas
+T47	Bacteria 2293 2304	mycoplasmas
+T48	Bacteria 2333 2344	M. pulmonis
+T49	Bacteria 2414 2423	firmicute
+T50	Bacteria 2424 2433	bacterium
+T51	Bacteria 2434 2451	Bacillus subtilis
+T52	Habitat 2502 2515	intracellular
+T53	Bacteria 2536 2547	mycoplasmas
+T54	Habitat 2630 2636	humans
+T55	Habitat 2641 2648	animals
+T56	Habitat 2650 2655	Human
+T57	Habitat 2707 2718;2734 2740	respiratory tracts
+T58	Habitat 2723 2740	urogenital tracts
+T59	Habitat 2769 2781	farm animals
+T60	Habitat 2769 2773	farm
+T61	Bacteria 2868 2876	bacteria
+T62	Bacteria 3066 3077	mycoplasmas
+T63	Bacteria 3189 3199	mycoplasma
+T64	Geographical 3523 3527	CBiB
+T65	Geographical 3529 3550	Bordeaux 2 University
+T66	Bacteria 3597 3608	mycoplasmas
+T67	Bacteria 3625 3646	Mycoplasma agalactiae
+T68	Bacteria 3647 3668	Mycoplasma agalactiae
+T69	Habitat 3832 3837;3848 3857	sheep in Europe
+T70	Habitat 3842 3857	goats in Europe
+T71	Geographical 3851 3857	Europe
+T72	Habitat 3913 3917	milk
+T73	Habitat 3913 3926	milk industry
+T74	Bacteria 3955 3963	M. bovis
+T75	Habitat 3979 3985	cattle
+T76	Habitat 3995 4006	respiratory
+T77	Habitat 4011 4018	mammary
+T78	Habitat 4070 4074	calf
+T79	Bacteria 4330 4338	M. bovis
+T80	Bacteria 4384 4397	M. agalactiae
+T81	Bacteria 4578 4589	mycoplasmas
+T82	Bacteria 4604 4614	M. hominis
+T83	Bacteria 4627 4638	M. pulmonis
+T84	Bacteria 4640 4656	M. hyopneumoniae
+T85	Bacteria 4661 4670	M. mobile
+T86	Bacteria 4728 4736	bacteria
+T87	Bacteria 4744 4757	M. pneumoniae
+T88	Bacteria 4773 4786	M. genitalium
+T89	Bacteria 4788 4800	M. penetrans
+T90	Bacteria 4805 4814	U. parvum
+T91	Bacteria 4848 4861	M. agalactiae
+T92	Bacteria 5165 5178	M. agalactiae
+T93	Bacteria 5253 5263	mycoplasma
+T94	Bacteria 5314 5322	M. bovis
+T95	Geographical 5377 5381	TIGR
+T96	Bacteria 5432 5442	M. hominis
+T97	Bacteria 5494 5505	mycoplasmas
+T98	Habitat 5519 5528	ruminants
+T99	Bacteria 5530 5543	M. capricolum
+T100	Bacteria 5545 5575	M. mycoides subsp. mycoides SC
+T101	Bacteria 5583 5594	Spiroplasma
+T102	Geographical 5720 5728	ENVT lab
+T103	Bacteria 5822 5835	M. agalactiae
+T104	Bacteria 6077 6090	M. fermentans
+T105	Bacteria 6152 6165	M. agalactiae
+T106	Bacteria 6281 6294	M. agalactiae
+T107	Bacteria 6463 6476	M. agalactiae
+T108	Bacteria 6546 6554	M. bovis
+T109	Bacteria 6559 6569	M pulmonis
+T110	Habitat 6612 6627	small ruminants
+T111	Bacteria 6629 6659	M. mycoides subsp. mycoides SC
+T112	Habitat 6919 6945	molecular diagnostic tools
+T113	Habitat 7055 7102	expert annotators from the collaborating groups
+T114	Geographical 7141 7171	Bordeaux Bioinformatics Center
+T115	Geographical 7173 7177	CBiB
+T116	Geographical 7280 7311	Transcriptome-Biochips Platform
+T117	Geographical 7319 7336	Toulouse Genopole
+R1	Localization Bacterium:T5 Localization:T71
+R2	Localization Bacterium:T100 Localization:T110
+R3	Localization Bacterium:T5 Localization:T1
+R4	Localization Bacterium:T5 Localization:T6
+R5	Localization Bacterium:T5 Localization:T2
+R6	Localization Bacterium:T3 Localization:T55
+R7	Localization Bacterium:T43 Localization:T41
+R8	Localization Bacterium:T42 Localization:T41
+R9	Localization Bacterium:T3 Localization:T37
+R10	Localization Bacterium:T3 Localization:T38
+R11	Localization Bacterium:T74 Localization:T78
+R12	Localization Bacterium:T3 Localization:T39
+R13	Localization Bacterium:T3 Localization:T59
+R14	Localization Bacterium:T74 Localization:T75
+R15	Localization Bacterium:T99 Localization:T98
+R16	Localization Bacterium:T3 Localization:T40
+R17	Localization Bacterium:T100 Localization:T98
+R18	Localization Bacterium:T68 Localization:T69
+R19	Localization Bacterium:T68 Localization:T70
+*	Equiv T97 T62 T45 T53 T7 T47 T81 T66 T3 T46 T93 T63
+*	Equiv T100 T111
+*	Equiv T107 T92 T106 T103 T5 T91 T105 T68 T67 T80
+*	Equiv T10 T14 T8
+*	Equiv T15 T13
+*	Equiv T42 T101
+*	Equiv T94 T79 T108 T74
+*	Equiv T96 T82
+*	Equiv T39 T54 T56
+*	Equiv T2 T70
+*	Equiv T69 T1
+*	Equiv T6 T110
+*	Equiv T37 T44 T52
